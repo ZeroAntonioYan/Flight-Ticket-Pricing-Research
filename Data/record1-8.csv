@@ -1,0 +1,650 @@
+,Price,Unit,Luggage,Stops,Airline,Depart,Arrive,Start,Destination,FlightDate,CheckDate
+0,35,pounds,False,Nonstop,Ryanair,6:15AM,7:40AM,Gdansk,London,2023/11/16,2023-06-29
+1,35,pounds,False,Nonstop,Wizz Air,6:20AM,7:50AM,Gdansk,London,2023/11/16,2023-06-29
+2,39,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,4:40PM,6:05PM,Gdansk,London,2023/11/16,2023-06-29
+3,45,pounds,False,Nonstop,Wizz Air,7:30PM,9:00PM,Gdansk,London,2023/11/16,2023-06-29
+4,32,pounds,False,Nonstop,Ryanair,8:05AM,11:10AM,London,Gdansk,2023/11/16,2023-06-29
+5,45,pounds,False,Nonstop,Wizz Air,8:35AM,11:50AM,London,Gdansk,2023/11/16,2023-06-29
+6,49,pounds,False,Nonstop,Wizz Air,9:40PM,12:55AM,London,Gdansk,2023/11/16,2023-06-29
+7,22,pounds,False,Nonstop,Ryanair,5:35PM,5:40PM,Eindhoven,London,2023/08/20,2023-06-29
+8,22,pounds,False,Nonstop,Ryanair,7:55PM,8:00PM,Eindhoven,London,2023/08/20,2023-06-29
+9,30,pounds,False,Nonstop,Ryanair,10:00AM,10:05AM,Eindhoven,London,2023/08/20,2023-06-29
+10,22,pounds,False,Nonstop,Ryanair,7:30AM,9:35AM,London,Eindhoven,2023/08/20,2023-06-29
+11,48,pounds,False,Nonstop,Ryanair,3:05PM,5:10PM,London,Eindhoven,2023/08/20,2023-06-29
+12,66,pounds,False,Nonstop,Ryanair,5:25PM,7:30PM,London,Eindhoven,2023/08/20,2023-06-29
+13,259,pounds,True,1,KLM,6:30AM,11:45AM,London,Eindhoven,2023/08/20,2023-06-29
+14,58,pounds,True,Nonstop,Air Baltic,4:00PM,5:05PM,Tallinn,London,2023/10/31,2023-06-29
+15,80,pounds,True,1,Air Baltic,5:30AM,8:40AM,Tallinn,London,2023/10/31,2023-06-29
+16,82,pounds,True,1,"Scandinavian Airlines. Operated by Xfly, Sas Connect",4:30PM,7:55PM,Tallinn,London,2023/10/31,2023-06-29
+17,100,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,5:25PM,8:35PM,Tallinn,London,2023/10/31,2023-06-29
+18,60,pounds,True,Nonstop,Air Baltic,5:50PM,10:40PM,London,Tallinn,2023/10/31,2023-06-29
+19,108,pounds,True,1,Lufthansa,3:30PM,11:55PM,London,Tallinn,2023/10/31,2023-06-29
+20,114,pounds,True,1,"Scandinavian Airlines. Operated by Sas Connect, Cityjet",6:40AM,3:10PM,London,Tallinn,2023/10/31,2023-06-29
+21,145,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,7:30AM,2:15PM,London,Tallinn,2023/10/31,2023-06-29
+22,104,pounds,True,1,Iberia. Operated by Iberia Express,10:10AM,5:15PM,Gran Canaria,London,2023/09/23,2023-06-29
+23,124,pounds,False,Nonstop,Ryanair,7:25PM,11:40PM,Gran Canaria,London,2023/09/23,2023-06-29
+24,158,pounds,False,Nonstop,easyJet,8:55PM,1:05AM,Gran Canaria,London,2023/09/23,2023-06-29
+25,78,pounds,True,1,Vueling,3:05PM,11:30PM,London,Gran Canaria,2023/09/23,2023-06-29
+26,91,pounds,False,Nonstop,Ryanair,2:20PM,6:50PM,London,Gran Canaria,2023/09/23,2023-06-29
+27,102,pounds,False,Nonstop,easyJet,3:30PM,8:05PM,London,Gran Canaria,2023/09/23,2023-06-29
+28,106,pounds,False,Nonstop,easyJet,12:00PM,4:25PM,London,Gran Canaria,2023/09/23,2023-06-29
+29,25,pounds,False,Nonstop,Ryanair,6:05AM,7:30AM,Zaragoza,London,2023/07/21,2023-06-29
+30,31,pounds,False,Nonstop,Vueling,7:25AM,8:55AM,Zaragoza,London,2023/07/21,2023-06-29
+31,34,pounds,False,Nonstop,easyJet,7:10AM,8:35AM,Zaragoza,London,2023/07/21,2023-06-29
+32,40,pounds,True,Nonstop,Iberia Express,8:45AM,10:05AM,Zaragoza,London,2023/07/21,2023-06-29
+33,111,pounds,False,Nonstop,Ryanair,2:00PM,5:10PM,London,Zaragoza,2023/07/21,2023-06-29
+34,125,pounds,False,Nonstop,Vueling,2:30PM,5:40PM,London,Zaragoza,2023/07/21,2023-06-29
+35,129,pounds,False,Nonstop,easyJet,5:50PM,9:05PM,London,Zaragoza,2023/07/21,2023-06-29
+36,79,pounds,False,Nonstop,Ryanair,2:10PM,3:40PM,Sardinia,London,2023/07/09,2023-06-29
+37,131,pounds,False,Nonstop,easyJet,11:05AM,12:30PM,Sardinia,London,2023/07/09,2023-06-29
+38,168,pounds,True,Nonstop,British Airways,9:10PM,10:40PM,Sardinia,London,2023/07/09,2023-06-29
+39,108,pounds,False,Nonstop,Ryanair,10:05AM,1:35PM,London,Sardinia,2023/07/09,2023-06-29
+40,225,pounds,False,Nonstop,easyJet,1:05PM,4:35PM,London,Sardinia,2023/07/09,2023-06-29
+41,279,pounds,True,Nonstop,British Airways,4:25PM,8:05PM,London,Sardinia,2023/07/09,2023-06-29
+42,66,pounds,False,Nonstop,Ryanair,6:35AM,8:00AM,Barcelona,London,2023/09/17,2023-06-29
+43,84,pounds,False,Nonstop,easyJet,6:45AM,8:10AM,Barcelona,London,2023/09/17,2023-06-29
+44,117,pounds,False,Nonstop,Vueling,10:50AM,12:15PM,Barcelona,London,2023/09/17,2023-06-29
+45,42,pounds,False,Nonstop,easyJet,7:25AM,10:35AM,London,Barcelona,2023/09/17,2023-06-29
+46,44,pounds,False,Nonstop,Vueling,4:10PM,7:20PM,London,Barcelona,2023/09/17,2023-06-29
+47,46,pounds,False,Nonstop,Ryanair,8:25AM,11:35AM,London,Barcelona,2023/09/17,2023-06-29
+48,108,pounds,True,1,Iberia. Operated by Iberia Express,7:00PM,8:25AM,Gran Canaria,London,2023/09/05,2023-06-29
+49,187,pounds,False,Nonstop,easyJet,8:05PM,12:25AM,Gran Canaria,London,2023/09/05,2023-06-29
+50,201,pounds,False,Nonstop,Ryanair,12:20PM,4:35PM,Gran Canaria,London,2023/09/05,2023-06-29
+51,224,pounds,False,Nonstop,easyJet,1:05PM,5:15PM,Gran Canaria,London,2023/09/05,2023-06-29
+52,87,pounds,False,Nonstop,easyJet,3:00PM,7:25PM,London,Gran Canaria,2023/09/05,2023-06-29
+53,91,pounds,False,Nonstop,Ryanair,7:15AM,11:45AM,London,Gran Canaria,2023/09/05,2023-06-29
+54,111,pounds,True,Nonstop,Jet2,4:40PM,9:10PM,London,Gran Canaria,2023/09/05,2023-06-29
+55,20,pounds,False,Nonstop,Wizz Air,6:05PM,7:45PM,Bucharest,London,2023/07/08,2023-06-29
+56,22,pounds,False,Nonstop,Ryanair. Operated by Malta Air,6:50AM,8:10AM,Bucharest,London,2023/07/08,2023-06-29
+57,23,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,11:40AM,1:00PM,Bucharest,London,2023/07/08,2023-06-29
+58,115,pounds,True,Nonstop,British Airways,2:55PM,8:15PM,London,Bucharest,2023/07/08,2023-06-29
+59,154,pounds,True,Nonstop,British Airways,6:35PM,11:50PM,London,Bucharest,2023/07/08,2023-06-29
+60,158,pounds,True,1,Aegean,10:15PM,9:45AM,London,Bucharest,2023/07/08,2023-06-29
+61,230,pounds,False,Nonstop,Wizz Air,8:25PM,1:35AM,London,Bucharest,2023/07/08,2023-06-29
+62,249,pounds,True,Nonstop,TAROM,2:50PM,8:10PM,London,Bucharest,2023/07/08,2023-06-29
+63,71,pounds,False,Nonstop,Wizz Air,10:55AM,12:40PM,Budapest,London,2023/11/27,2023-06-29
+64,73,pounds,False,Nonstop,easyJet,8:30PM,10:15PM,Budapest,London,2023/11/27,2023-06-29
+65,166,pounds,True,Nonstop,British Airways,5:50PM,7:40PM,Budapest,London,2023/11/27,2023-06-29
+66,37,pounds,False,Nonstop,Ryanair,4:50PM,8:15PM,London,Budapest,2023/11/27,2023-06-29
+67,55,pounds,False,Nonstop,easyJet,4:20PM,7:50PM,London,Budapest,2023/11/27,2023-06-29
+68,59,pounds,True,Nonstop,British Airways,7:25PM,10:55PM,London,Budapest,2023/11/27,2023-06-29
+69,48,pounds,False,Nonstop,Wizz Air,12:20PM,3:50PM,Marrakech,London,2023/07/18,2023-06-29
+70,55,pounds,False,Nonstop,Ryanair UK,1:00PM,4:35PM,Marrakech,London,2023/07/18,2023-06-29
+71,62,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,11:05AM,2:30PM,Marrakech,London,2023/07/18,2023-06-29
+72,71,pounds,False,Nonstop,easyJet,6:15PM,9:55PM,Marrakech,London,2023/07/18,2023-06-29
+73,124,pounds,False,Nonstop,Ryanair UK,3:35PM,7:15PM,London,Marrakech,2023/07/18,2023-06-29
+74,156,pounds,False,Nonstop,Wizz Air,8:00AM,11:30AM,London,Marrakech,2023/07/18,2023-06-29
+75,177,pounds,False,Nonstop,Ryanair UK,8:55AM,12:35PM,London,Marrakech,2023/07/18,2023-06-29
+76,179,pounds,False,Nonstop,easyJet,1:15PM,4:55PM,London,Marrakech,2023/07/18,2023-06-29
+77,218,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,6:40AM,10:20AM,London,Marrakech,2023/07/18,2023-06-29
+78,105,pounds,False,Nonstop,easyJet,9:25PM,1:30AM,Fuerteventura,London,2023/07/22,2023-06-29
+79,108,pounds,True,Nonstop,Jet2,11:10AM,3:20PM,Fuerteventura,London,2023/07/22,2023-06-29
+80,113,pounds,False,Nonstop,easyJet,11:10AM,3:20PM,Fuerteventura,London,2023/07/22,2023-06-29
+81,154,pounds,False,Nonstop,Ryanair,12:30PM,4:35PM,Fuerteventura,London,2023/07/22,2023-06-29
+82,168,pounds,True,Nonstop,TUI Airways,8:15PM,12:10AM,Fuerteventura,London,2023/07/22,2023-06-29
+83,225,pounds,False,Nonstop,easyJet,6:00AM,10:20AM,London,Fuerteventura,2023/07/22,2023-06-29
+84,228,pounds,True,Nonstop,TUI Airways,2:55PM,7:15PM,London,Fuerteventura,2023/07/22,2023-06-29
+85,229,pounds,False,1,Eurowings,8:45AM,4:05PM,London,Fuerteventura,2023/07/22,2023-06-29
+86,249,pounds,False,Nonstop,easyJet,4:25PM,8:45PM,London,Fuerteventura,2023/07/22,2023-06-29
+87,129,pounds,False,Nonstop,easyJet,10:10PM,1:40AM,Marrakech,London,2023/09/16,2023-06-29
+88,138,pounds,False,Nonstop,Wizz Air,12:25PM,4:00PM,Marrakech,London,2023/09/16,2023-06-29
+89,170,pounds,False,Nonstop,Ryanair UK,10:35AM,2:10PM,Marrakech,London,2023/09/16,2023-06-29
+90,81,pounds,False,Nonstop,easyJet,5:40PM,9:20PM,London,Marrakech,2023/09/16,2023-06-29
+91,85,pounds,False,Nonstop,Ryanair UK,3:50PM,7:30PM,London,Marrakech,2023/09/16,2023-06-29
+92,104,pounds,False,Nonstop,Ryanair UK,6:30AM,10:10AM,London,Marrakech,2023/09/16,2023-06-29
+93,117,pounds,False,Nonstop,Wizz Air,7:15AM,10:45AM,London,Marrakech,2023/09/16,2023-06-29
+94,62,pounds,False,Nonstop,Ryanair,7:25PM,7:50PM,Bremen,London,2023/08/06,2023-06-29
+95,132,pounds,True,1,Lufthansa,2:30PM,5:25PM,Bremen,London,2023/08/06,2023-06-29
+96,161,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",6:10PM,8:15PM,Bremen,London,2023/08/06,2023-06-29
+97,119,pounds,False,Nonstop,Ryanair,4:40PM,7:00PM,London,Bremen,2023/08/06,2023-06-29
+98,151,pounds,True,1,Lufthansa,7:25AM,1:00PM,London,Bremen,2023/08/06,2023-06-29
+99,177,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",5:10PM,9:15PM,London,Bremen,2023/08/06,2023-06-29
+100,22,pounds,False,Nonstop,Ryanair,11:35PM,12:50AM,Plovdiv,London,2023/07/15,2023-06-29
+101,22,pounds,False,Nonstop,Wizz Air,6:15AM,7:40AM,Plovdiv,London,2023/07/15,2023-06-29
+102,53,pounds,False,Nonstop,Ryanair,11:50AM,1:15PM,Plovdiv,London,2023/07/15,2023-06-29
+103,157,pounds,False,Nonstop,Ryanair,6:20AM,11:25AM,London,Plovdiv,2023/07/15,2023-06-29
+104,160,pounds,False,Nonstop,Ryanair,6:05PM,11:10PM,London,Plovdiv,2023/07/15,2023-06-29
+105,224,pounds,False,Nonstop,easyJet,1:00PM,6:05PM,London,Plovdiv,2023/07/15,2023-06-29
+106,price,unavailable,True,Nonstop,Bulgaria Air,8:55AM,2:05PM,London,Plovdiv,2023/07/15,2023-06-29
+107,73,pounds,False,Nonstop,Wizz Air,10:05PM,1:50AM,Tel Aviv,London,2023/08/09,2023-06-29
+108,166,pounds,False,Nonstop,easyJet,3:15PM,6:40PM,Tel Aviv,London,2023/08/09,2023-06-29
+109,188,pounds,True,Nonstop,Virgin Atlantic. Operated by Operated by Virgin Atlantic International,5:25PM,9:05PM,Tel Aviv,London,2023/08/09,2023-06-29
+110,292,pounds,True,Nonstop,British Airways,4:40PM,7:55PM,Tel Aviv,London,2023/08/09,2023-06-29
+111,156,pounds,False,Nonstop,Wizz Air,2:25PM,9:15PM,London,Tel Aviv,2023/08/09,2023-06-29
+112,197,pounds,False,Nonstop,easyJet,7:15AM,2:20PM,London,Tel Aviv,2023/08/09,2023-06-29
+113,291,pounds,True,Nonstop,Virgin Atlantic. Operated by Operated by Virgin Atlantic International,8:20AM,3:40PM,London,Tel Aviv,2023/08/09,2023-06-29
+114,295,pounds,True,Nonstop,British Airways,8:00AM,2:50PM,London,Tel Aviv,2023/08/09,2023-06-29
+115,307,pounds,True,Nonstop,El Al,9:45AM,4:35PM,London,Tel Aviv,2023/08/09,2023-06-29
+116,105,pounds,False,1,easyJet,8:55AM,4:40PM,Sardinia,London,2023/10/30,2023-06-29
+117,110,pounds,False,1,easyJet,8:55AM,2:20PM,Sardinia,London,2023/10/30,2023-06-29
+118,146,pounds,True,1,Transavia and KLM,11:35AM,4:05PM,Sardinia,London,2023/10/30,2023-06-29
+119,146,pounds,True,1,Transavia and KLM. Operated by KLM Cityhopper,11:35AM,6:25PM,Sardinia,London,2023/10/30,2023-06-29
+120,74,pounds,False,1,easyJet,7:00AM,9:00PM,London,Sardinia,2023/10/30,2023-06-29
+121,78,pounds,False,1,easyJet,12:25PM,9:00PM,London,Sardinia,2023/10/30,2023-06-29
+122,88,pounds,False,1,easyJet,7:45PM,8:20AM,London,Sardinia,2023/10/30,2023-06-29
+123,186,pounds,True,1,Eurowings,6:35PM,2:05PM,London,Sardinia,2023/10/30,2023-06-29
+124,277,pounds,True,1,Vueling,9:40PM,2:30PM,London,Sardinia,2023/10/30,2023-06-29
+125,61,pounds,False,Nonstop,Wizz Air,6:40AM,9:40AM,Cyprus,London,2023/10/04,2023-06-29
+126,68,pounds,False,Nonstop,easyJet,10:50PM,1:45AM,Cyprus,London,2023/10/04,2023-06-29
+127,124,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,9:15PM,11:55PM,Cyprus,London,2023/10/04,2023-06-29
+128,22,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,3:55PM,5:10PM,Rimini,London,2023/09/20,2023-06-29
+129,42,pounds,False,Nonstop,easyJet,10:25AM,11:35AM,Rimini,London,2023/09/20,2023-06-29
+130,53,pounds,True,Nonstop,British Airways,7:15PM,8:30PM,Rimini,London,2023/09/20,2023-06-29
+131,62,pounds,False,Nonstop,Ryanair,10:50AM,12:10PM,Rimini,London,2023/09/20,2023-06-29
+132,18,pounds,False,Nonstop,Ryanair. Operated by Malta Air,9:10AM,12:15PM,London,Rimini,2023/09/20,2023-06-29
+133,23,pounds,False,Nonstop,Ryanair,7:00AM,10:10AM,London,Rimini,2023/09/20,2023-06-29
+134,24,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,12:25PM,3:30PM,London,Rimini,2023/09/20,2023-06-29
+135,29,pounds,False,Nonstop,easyJet,6:35AM,9:50AM,London,Rimini,2023/09/20,2023-06-29
+136,101,pounds,True,Nonstop,British Airways,3:10PM,6:20PM,London,Rimini,2023/09/20,2023-06-29
+137,20,pounds,False,Nonstop,easyJet,10:20AM,11:25AM,Aarhus,London,2023/11/09,2023-06-29
+138,40,pounds,False,Nonstop,Ryanair,4:45PM,5:30PM,Aarhus,London,2023/11/09,2023-06-29
+139,46,pounds,True,Nonstop,British Airways,6:35AM,7:45AM,Aarhus,London,2023/11/09,2023-06-29
+140,47,pounds,False,Nonstop,Norwegian,9:50AM,10:45AM,Aarhus,London,2023/11/09,2023-06-29
+141,47,pounds,True,Nonstop,Scandinavian Airlines. Operated by Sas Connect,2:50PM,4:00PM,Aarhus,London,2023/11/09,2023-06-29
+142,29,pounds,False,Nonstop,Ryanair,1:45PM,4:20PM,London,Aarhus,2023/11/09,2023-06-29
+143,30,pounds,False,Nonstop,easyJet,5:20PM,8:10PM,London,Aarhus,2023/11/09,2023-06-29
+144,32,pounds,False,Nonstop,Ryanair. Operated by Malta Air,7:05AM,9:35AM,London,Aarhus,2023/11/09,2023-06-29
+145,32,pounds,False,Nonstop,Ryanair. Operated by Malta Air,11:10AM,1:40PM,London,Aarhus,2023/11/09,2023-06-29
+146,48,pounds,True,Nonstop,British Airways,4:25PM,7:05PM,London,Aarhus,2023/11/09,2023-06-29
+147,86,pounds,False,Nonstop,Ryanair UK,10:55AM,12:20PM,Madrid,London,2023/08/24,2023-06-29
+148,86,pounds,False,Nonstop,Ryanair,2:00PM,3:25PM,Madrid,London,2023/08/24,2023-06-29
+149,124,pounds,True,Nonstop,Iberia Express,6:40PM,8:00PM,Madrid,London,2023/08/24,2023-06-29
+150,41,pounds,False,Nonstop,easyJet,6:00AM,9:35AM,London,Madrid,2023/08/24,2023-06-29
+151,59,pounds,False,Nonstop,Ryanair,3:50PM,7:20PM,London,Madrid,2023/08/24,2023-06-29
+152,86,pounds,True,Nonstop,British Airways,7:45AM,11:10AM,London,Madrid,2023/08/24,2023-06-29
+153,103,pounds,False,Nonstop,easyJet,7:35PM,11:15PM,Agadir,London,2023/07/29,2023-06-29
+154,212,pounds,False,1,easyJet,6:20PM,10:30AM,Agadir,London,2023/07/29,2023-06-29
+155,245,pounds,True,1,Vueling,5:20PM,7:00AM,Agadir,London,2023/07/29,2023-06-29
+156,318,pounds,True,1,Royal Air Maroc,9:50AM,3:20PM,Agadir,London,2023/07/29,2023-06-29
+157,363,pounds,True,1,Air France,1:10PM,9:25PM,Agadir,London,2023/07/29,2023-06-29
+158,294,pounds,False,Nonstop,easyJet,3:00PM,6:50PM,London,Agadir,2023/07/29,2023-06-29
+159,374,pounds,True,1,Royal Air Maroc,6:10PM,11:55PM,London,Agadir,2023/07/29,2023-06-29
+160,456,pounds,True,1,Air France,6:20AM,12:15PM,London,Agadir,2023/07/29,2023-06-29
+161,40,pounds,False,Nonstop,Ryanair,4:00PM,5:40PM,Jerez,London,2023/09/12,2023-06-29
+162,42,pounds,False,Nonstop,easyJet,12:10PM,1:55PM,Jerez,London,2023/09/12,2023-06-29
+163,50,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,11:10PM,12:55AM,Jerez,London,2023/09/12,2023-06-29
+164,36,pounds,False,Nonstop,Ryanair,6:05PM,9:55PM,London,Jerez,2023/09/12,2023-06-29
+165,62,pounds,False,Nonstop,Vueling,8:00PM,11:40PM,London,Jerez,2023/09/12,2023-06-29
+166,68,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,6:20PM,10:05PM,London,Jerez,2023/09/12,2023-06-29
+167,75,pounds,False,Nonstop,Ryanair,10:50AM,2:45PM,London,Jerez,2023/09/12,2023-06-29
+168,92,pounds,False,Nonstop,easyJet,7:55AM,11:35AM,London,Jerez,2023/09/12,2023-06-29
+169,29,pounds,False,Nonstop,Ryanair. Operated by Malta Air,10:40AM,12:00PM,Bologna,London,2023/11/19,2023-06-29
+170,30,pounds,False,Nonstop,easyJet,8:50PM,10:05PM,Bologna,London,2023/11/19,2023-06-29
+171,46,pounds,True,Nonstop,British Airways,7:20PM,8:55PM,Bologna,London,2023/11/19,2023-06-29
+172,30,pounds,False,Nonstop,easyJet,5:10PM,8:15PM,London,Bologna,2023/11/19,2023-06-29
+173,36,pounds,False,Nonstop,Ryanair,3:20PM,6:25PM,London,Bologna,2023/11/19,2023-06-29
+174,69,pounds,True,Nonstop,British Airways,8:25AM,11:40AM,London,Bologna,2023/11/19,2023-06-29
+175,43,pounds,False,Nonstop,Ryanair,10:30AM,10:50AM,Luxembourg,London,2023/07/29,2023-06-29
+176,69,pounds,True,Nonstop,Luxair,6:45AM,7:05AM,Luxembourg,London,2023/07/29,2023-06-29
+177,69,pounds,True,Nonstop,Luxair,10:50AM,11:05AM,Luxembourg,London,2023/07/29,2023-06-29
+178,58,pounds,False,Nonstop,Ryanair,7:40AM,9:55AM,London,Luxembourg,2023/07/29,2023-06-29
+179,117,pounds,True,Nonstop,Luxair,6:40AM,8:55AM,London,Luxembourg,2023/07/29,2023-06-29
+180,140,pounds,True,Nonstop,Luxair,7:35AM,9:45AM,London,Luxembourg,2023/07/29,2023-06-29
+181,288,pounds,True,Nonstop,Luxair,11:35AM,1:45PM,London,Luxembourg,2023/07/29,2023-06-29
+182,238,pounds,False,1,Spirit and Norse Atlantic UK,1:53PM,10:40AM,Corsica,London,2023/10/02,2023-06-29
+183,428,pounds,True,1,Delta,5:59PM,11:10AM,Corsica,London,2023/10/02,2023-06-29
+184,618,pounds,True,1,American. Operated by Skywest Airlines as American Eagle,6:31PM,12:45PM,Corsica,London,2023/10/02,2023-06-29
+185,29,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,6:00AM,7:10AM,Wroclaw,London,2023/11/09,2023-06-29
+186,31,pounds,False,Nonstop,Wizz Air,7:30PM,8:50PM,Wroclaw,London,2023/11/09,2023-06-29
+187,51,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,12:50PM,2:00PM,Wroclaw,London,2023/11/09,2023-06-29
+188,24,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,7:35AM,10:35AM,London,Wroclaw,2023/11/09,2023-06-29
+189,25,pounds,False,Nonstop,Wizz Air,9:30PM,12:30AM,London,Wroclaw,2023/11/09,2023-06-29
+190,47,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,2:25PM,5:25PM,London,Wroclaw,2023/11/09,2023-06-29
+191,590,pounds,True,2,British Airways and Luxair. Operated by BA Cityflyer,3:40PM,8:05AM,London,Enfidha,2023/09/17,2023-06-29
+192,643,pounds,True,2,British Airways and Luxair. Operated by BA Cityflyer,3:45PM,8:05AM,London,Enfidha,2023/09/17,2023-06-29
+193,1025,pounds,True,2,Scandinavian Airlines and Luxair. Operated by Sas Connect,1:55PM,8:05AM,London,Enfidha,2023/09/17,2023-06-29
+194,132,pounds,False,Nonstop,easyJet,1:30PM,3:15PM,Cagliari,London,2023/07/02,2023-06-29
+195,249,pounds,True,1,Lufthansa,6:30PM,10:40PM,Cagliari,London,2023/07/02,2023-06-29
+196,253,pounds,True,1,Edelweiss Air and SWISS,8:55AM,1:00PM,Cagliari,London,2023/07/02,2023-06-29
+197,271,pounds,True,1,ITA,6:45AM,12:00PM,Cagliari,London,2023/07/02,2023-06-29
+198,588,pounds,True,Nonstop,British Airways. Operated by Avion Express for BA Euroflyer,8:55PM,10:40PM,Cagliari,London,2023/07/02,2023-06-29
+199,145,pounds,False,Nonstop,easyJet,8:40AM,12:25PM,London,Cagliari,2023/07/02,2023-06-29
+200,186,pounds,False,1,easyJet,6:25AM,4:15PM,London,Cagliari,2023/07/02,2023-06-29
+201,200,pounds,True,Nonstop,British Airways. Operated by Avion Express for BA Euroflyer,4:10PM,7:50PM,London,Cagliari,2023/07/02,2023-06-29
+202,251,pounds,True,1,Lufthansa,9:00AM,5:40PM,London,Cagliari,2023/07/02,2023-06-29
+203,303,pounds,True,1,ITA,4:45PM,10:50PM,London,Cagliari,2023/07/02,2023-06-29
+204,38,pounds,False,Nonstop,Ryanair. Operated by Malta Air,6:40AM,8:40AM,Naples,London,2023/07/27,2023-06-29
+205,44,pounds,False,Nonstop,easyJet,10:35AM,12:35PM,Naples,London,2023/07/27,2023-06-29
+206,69,pounds,False,Nonstop,Wizz Air,4:05PM,6:00PM,Naples,London,2023/07/27,2023-06-29
+207,117,pounds,True,Nonstop,British Airways,7:55PM,9:50PM,Naples,London,2023/07/27,2023-06-29
+208,99,pounds,False,Nonstop,Wizz Air,6:40PM,10:30PM,London,Naples,2023/07/27,2023-06-29
+209,107,pounds,False,Nonstop,Ryanair,4:10PM,7:55PM,London,Naples,2023/07/27,2023-06-29
+210,123,pounds,False,Nonstop,easyJet,7:05PM,10:50PM,London,Naples,2023/07/27,2023-06-29
+211,143,pounds,True,Nonstop,British Airways,6:15PM,9:55PM,London,Naples,2023/07/27,2023-06-29
+212,38,pounds,False,Nonstop,Ryanair,10:45AM,11:55AM,Vigo,London,2023/10/19,2023-06-29
+213,61,pounds,False,Nonstop,Vueling,6:15PM,7:15PM,Vigo,London,2023/10/19,2023-06-29
+214,65,pounds,False,Nonstop,Ryanair,9:50AM,11:00AM,Vigo,London,2023/10/19,2023-06-29
+215,73,pounds,True,1,Iberia,1:35PM,6:15PM,Vigo,London,2023/10/19,2023-06-29
+216,106,pounds,True,1,Air Europa. Operated by Air Europa Express,12:35PM,4:25PM,Vigo,London,2023/10/19,2023-06-29
+217,32,pounds,False,Nonstop,Ryanair,7:00AM,10:10AM,London,Vigo,2023/10/19,2023-06-29
+218,38,pounds,False,Nonstop,Vueling,7:55PM,10:55PM,London,Vigo,2023/10/19,2023-06-29
+219,42,pounds,False,Nonstop,Ryanair,6:05AM,9:15AM,London,Vigo,2023/10/19,2023-06-29
+220,101,pounds,True,1,Iberia. Operated by Iberia Express,10:50AM,5:00PM,London,Vigo,2023/10/19,2023-06-29
+221,19,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,6:35AM,8:00AM,Rijeka,London,2023/07/11,2023-06-29
+222,72,pounds,False,Nonstop,easyJet,10:45AM,12:05PM,Rijeka,London,2023/07/11,2023-06-29
+223,89,pounds,True,Nonstop,British Airways,1:20PM,2:50PM,Rijeka,London,2023/07/11,2023-06-29
+224,62,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,8:25AM,11:40AM,London,Rijeka,2023/07/11,2023-06-29
+225,63,pounds,False,Nonstop,easyJet,6:40AM,10:05AM,London,Rijeka,2023/07/11,2023-06-29
+226,117,pounds,True,Nonstop,British Airways,8:45AM,12:15PM,London,Rijeka,2023/07/11,2023-06-29
+227,119,pounds,False,1,Eurowings,8:50AM,3:35PM,London,Rijeka,2023/07/11,2023-06-29
+228,48,pounds,False,Nonstop,Ryanair,9:30PM,10:25PM,Carcassonne,London,2023/08/27,2023-06-29
+229,88,pounds,False,Nonstop,easyJet,10:00PM,10:50PM,Carcassonne,London,2023/08/27,2023-06-29
+230,96,pounds,False,Nonstop,Ryanair,12:50PM,1:45PM,Carcassonne,London,2023/08/27,2023-06-29
+231,16,pounds,False,Nonstop,Ryanair,5:55PM,8:50PM,London,Carcassonne,2023/08/27,2023-06-29
+232,35,pounds,False,Nonstop,Ryanair,9:25AM,12:25PM,London,Carcassonne,2023/08/27,2023-06-29
+233,72,pounds,False,Nonstop,easyJet,1:55PM,4:45PM,London,Carcassonne,2023/08/27,2023-06-29
+234,174,pounds,True,Nonstop,British Airways,8:45PM,11:35PM,London,Carcassonne,2023/08/27,2023-06-29
+235,31,pounds,True,Nonstop,British Airways,8:35PM,9:25PM,Aarhus,London,2023/11/03,2023-06-29
+236,33,pounds,False,Nonstop,easyJet,8:40PM,9:45PM,Aarhus,London,2023/11/03,2023-06-29
+237,47,pounds,False,Nonstop,Ryanair,2:00PM,2:45PM,Aarhus,London,2023/11/03,2023-06-29
+238,47,pounds,True,Nonstop,Scandinavian Airlines. Operated by Sas Connect,8:40PM,9:40PM,Aarhus,London,2023/11/03,2023-06-29
+239,29,pounds,False,Nonstop,Ryanair,11:00AM,1:35PM,London,Aarhus,2023/11/03,2023-06-29
+240,32,pounds,False,Nonstop,Ryanair. Operated by Malta Air,8:25PM,10:55PM,London,Aarhus,2023/11/03,2023-06-29
+241,37,pounds,False,Nonstop,Ryanair. Operated by Malta Air,12:40PM,3:10PM,London,Aarhus,2023/11/03,2023-06-29
+242,50,pounds,True,Nonstop,British Airways,5:10PM,7:50PM,London,Aarhus,2023/11/03,2023-06-29
+243,50,pounds,False,Nonstop,easyJet,11:20AM,1:15PM,Gibraltar,London,2023/11/03,2023-06-29
+244,87,pounds,False,Nonstop,Ryanair,10:55AM,12:50PM,Gibraltar,London,2023/11/03,2023-06-29
+245,109,pounds,True,Nonstop,British Airways,5:40PM,7:40PM,Gibraltar,London,2023/11/03,2023-06-29
+246,25,pounds,False,Nonstop,Wizz Air,6:15AM,10:10AM,London,Gibraltar,2023/11/03,2023-06-29
+247,32,pounds,False,Nonstop,Vueling,9:40AM,1:30PM,London,Gibraltar,2023/11/03,2023-06-29
+248,36,pounds,False,Nonstop,easyJet,6:45AM,10:35AM,London,Gibraltar,2023/11/03,2023-06-29
+249,123,pounds,True,Nonstop,British Airways,1:00PM,4:50PM,London,Gibraltar,2023/11/03,2023-06-29
+250,17,pounds,False,Nonstop,Ryanair,10:40PM,11:25PM,Bordeaux,London,2023/07/22,2023-06-29
+251,20,pounds,False,Nonstop,Ryanair. Operated by Malta Air,2:50PM,3:35PM,Bordeaux,London,2023/07/22,2023-06-29
+252,31,pounds,False,Nonstop,easyJet,9:30AM,10:10AM,Bordeaux,London,2023/07/22,2023-06-29
+253,34,pounds,False,Nonstop,easyJet,10:05AM,10:45AM,Bordeaux,London,2023/07/22,2023-06-29
+254,123,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,12:45PM,1:30PM,Bordeaux,London,2023/07/22,2023-06-29
+255,79,pounds,False,Nonstop,Ryanair,7:35PM,10:15PM,London,Bordeaux,2023/07/22,2023-06-29
+256,181,pounds,False,Nonstop,easyJet,3:25PM,6:05PM,London,Bordeaux,2023/07/22,2023-06-29
+257,396,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,9:10AM,11:55AM,London,Bordeaux,2023/07/22,2023-06-29
+258,58,pounds,False,Nonstop,Ryanair. Operated by Malta Air,5:50AM,6:50AM,Nimes,London,2023/09/01,2023-06-29
+259,97,pounds,True,1,Iberia,12:40PM,5:15PM,Nimes,London,2023/09/01,2023-06-29
+260,132,pounds,False,Nonstop,easyJet,11:30AM,12:20PM,Nimes,London,2023/09/01,2023-06-29
+261,41,pounds,False,Nonstop,Ryanair. Operated by Malta Air,8:50PM,11:50PM,London,Nimes,2023/09/01,2023-06-29
+262,42,pounds,False,Nonstop,easyJet,6:55PM,9:50PM,London,Nimes,2023/09/01,2023-06-29
+263,190,pounds,True,Nonstop,British Airways,3:05PM,6:05PM,London,Nimes,2023/09/01,2023-06-29
+264,97,pounds,True,1,Transavia and Vueling,6:40AM,11:10AM,Toulon-Hyeres,London,2023/09/21,2023-06-29
+265,135,pounds,False,1,easyJet,7:00PM,5:00PM,London,Toulon-Hyeres,2023/09/21,2023-06-29
+266,172,pounds,True,1,Vueling and Transavia,11:55AM,5:40PM,London,Toulon-Hyeres,2023/09/21,2023-06-29
+267,187,pounds,True,1,Air France and Transavia,9:00AM,5:40PM,London,Toulon-Hyeres,2023/09/21,2023-06-29
+268,103,pounds,False,Nonstop,Ryanair UK,10:35AM,2:20PM,Agadir,London,2023/08/02,2023-06-29
+269,116,pounds,False,Nonstop,easyJet,11:05AM,2:50PM,Agadir,London,2023/08/02,2023-06-29
+270,145,pounds,False,Nonstop,Ryanair UK,6:20AM,10:10AM,London,Agadir,2023/08/02,2023-06-29
+271,156,pounds,False,Nonstop,easyJet,2:35PM,6:25PM,London,Agadir,2023/08/02,2023-06-29
+272,205,pounds,False,Nonstop,easyJet,6:30AM,10:20AM,London,Agadir,2023/08/02,2023-06-29
+273,24,pounds,False,Nonstop,Ryanair,10:20PM,11:25PM,Poznan,London,2023/09/24,2023-06-29
+274,27,pounds,False,Nonstop,Wizz Air,4:10PM,5:25PM,Poznan,London,2023/09/24,2023-06-29
+275,102,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,6:15AM,10:30AM,Poznan,London,2023/09/24,2023-06-29
+276,122,pounds,True,1,LOT,6:15PM,10:00PM,Poznan,London,2023/09/24,2023-06-29
+277,144,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",2:15PM,5:20PM,Poznan,London,2023/09/24,2023-06-29
+278,18,pounds,False,Nonstop,Wizz Air,12:25PM,3:35PM,London,Poznan,2023/09/24,2023-06-29
+279,38,pounds,False,Nonstop,Ryanair,7:00PM,9:55PM,London,Poznan,2023/09/24,2023-06-29
+280,150,pounds,True,1,LOT,6:30AM,2:25PM,London,Poznan,2023/09/24,2023-06-29
+281,177,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,8:30AM,2:15PM,London,Poznan,2023/09/24,2023-06-29
+282,218,pounds,True,1,KLM. Operated by KLM Cityhopper,8:40AM,1:45PM,London,Poznan,2023/09/24,2023-06-29
+283,103,pounds,True,1,"Scandinavian Airlines. Operated by Smartlynx Airlines, Sas Connect",10:50AM,5:00PM,Split,London,2023/08/27,2023-06-29
+284,150,pounds,False,Nonstop,Wizz Air,9:30PM,11:10PM,Split,London,2023/08/27,2023-06-29
+285,236,pounds,True,Nonstop,British Airways,1:40PM,3:20PM,Split,London,2023/08/27,2023-06-29
+286,22,pounds,False,Nonstop,Wizz Air,5:20PM,8:50PM,London,Split,2023/08/27,2023-06-29
+287,35,pounds,False,Nonstop,easyJet,5:00PM,8:30PM,London,Split,2023/08/27,2023-06-29
+288,50,pounds,False,Nonstop,easyJet,4:25PM,8:05PM,London,Split,2023/08/27,2023-06-29
+289,52,pounds,False,Nonstop,easyJet,3:55PM,7:35PM,London,Split,2023/08/27,2023-06-29
+290,107,pounds,True,Nonstop,British Airways,12:50PM,4:30PM,London,Split,2023/08/27,2023-06-29
+291,41,pounds,False,Nonstop,Ryanair,9:50AM,10:50AM,Perpignan,London,2023/08/08,2023-06-29
+292,44,pounds,False,Nonstop,Vueling,10:50AM,12:15PM,Perpignan,London,2023/08/08,2023-06-29
+293,51,pounds,False,Nonstop,easyJet,10:50AM,12:15PM,Perpignan,London,2023/08/08,2023-06-29
+294,28,pounds,False,Nonstop,Ryanair,6:25AM,9:25AM,London,Perpignan,2023/08/08,2023-06-29
+295,44,pounds,False,Nonstop,Vueling,9:05PM,12:15AM,London,Perpignan,2023/08/08,2023-06-29
+296,59,pounds,False,Nonstop,easyJet,4:45PM,7:55PM,London,Perpignan,2023/08/08,2023-06-29
+297,112,pounds,True,1,Pegasus,7:15AM,11:50AM,Dalaman,London,2023/11/26,2023-06-29
+298,135,pounds,True,1,Pegasus,10:20AM,2:35PM,Dalaman,London,2023/11/26,2023-06-29
+299,181,pounds,True,1,Turkish Airlines,9:50AM,2:40PM,Dalaman,London,2023/11/26,2023-06-29
+300,121,pounds,True,1,Pegasus,10:45AM,9:35PM,London,Dalaman,2023/11/26,2023-06-29
+301,121,pounds,True,1,Pegasus,1:05PM,11:00PM,London,Dalaman,2023/11/26,2023-06-29
+302,202,pounds,True,1,Turkish Airlines,6:45AM,4:25PM,London,Dalaman,2023/11/26,2023-06-29
+303,149,pounds,False,Nonstop,Ryanair,3:25PM,7:10PM,Madeira,London,2023/08/15,2023-06-29
+304,177,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,4:20AM,9:45AM,Madeira,London,2023/08/15,2023-06-29
+305,236,pounds,False,Nonstop,easyJet,12:35PM,4:15PM,Madeira,London,2023/08/15,2023-06-29
+306,105,pounds,False,Nonstop,Ryanair,7:35PM,11:25PM,London,Madeira,2023/08/15,2023-06-29
+307,152,pounds,False,1,easyJet,7:05AM,3:10PM,London,Madeira,2023/08/15,2023-06-29
+308,184,pounds,False,Nonstop,easyJet,2:25PM,6:15PM,London,Madeira,2023/08/15,2023-06-29
+309,193,pounds,False,Nonstop,easyJet,8:15AM,12:05PM,London,Madeira,2023/08/15,2023-06-29
+310,229,pounds,True,1,Tap Air Portugal,6:00AM,11:45AM,London,Madeira,2023/08/15,2023-06-29
+311,78,pounds,False,Nonstop,Wizz Air,3:30PM,4:30PM,Brno,London,2023/09/05,2023-06-29
+312,84,pounds,False,Nonstop,Ryanair,3:55PM,5:00PM,Brno,London,2023/09/05,2023-06-29
+313,100,pounds,True,Nonstop,British Airways,9:25PM,10:25PM,Brno,London,2023/09/05,2023-06-29
+314,18,pounds,False,Nonstop,Wizz Air,7:15PM,10:30PM,London,Brno,2023/09/05,2023-06-29
+315,22,pounds,False,Nonstop,Wizz Air,12:00PM,2:55PM,London,Brno,2023/09/05,2023-06-29
+316,27,pounds,False,Nonstop,Ryanair,12:25PM,3:30PM,London,Brno,2023/09/05,2023-06-29
+317,15,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,3:15PM,3:40PM,Bremen,London,2023/09/25,2023-06-29
+318,115,pounds,True,1,Lufthansa,6:30PM,10:10PM,Bremen,London,2023/09/25,2023-06-29
+319,161,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",6:10PM,8:15PM,Bremen,London,2023/09/25,2023-06-29
+320,35,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,12:25PM,2:45PM,London,Bremen,2023/09/25,2023-06-29
+321,132,pounds,True,1,Lufthansa,5:50PM,10:55PM,London,Bremen,2023/09/25,2023-06-29
+322,145,pounds,True,1,KLM. Operated by KLM Cityhopper,5:10PM,9:30PM,London,Bremen,2023/09/25,2023-06-29
+323,35,pounds,False,Nonstop,Wizz Air. Operated by Wizz Air,6:15AM,7:15AM,Cluj,London,2023/09/26,2023-06-29
+324,47,pounds,False,Nonstop,Wizz Air. Operated by Wizz Air,7:00PM,8:05PM,Cluj,London,2023/09/26,2023-06-29
+325,102,pounds,True,1,LOT,2:00PM,5:20PM,Cluj,London,2023/09/26,2023-06-29
+326,22,pounds,False,Nonstop,Wizz Air. Operated by Wizz Air,8:05AM,1:00PM,London,Cluj,2023/09/26,2023-06-29
+327,25,pounds,False,Nonstop,Wizz Air. Operated by Wizz Air,8:50PM,1:45AM,London,Cluj,2023/09/26,2023-06-29
+328,110,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,10:50AM,5:05PM,London,Cluj,2023/09/26,2023-06-29
+329,169,pounds,False,Nonstop,Ryanair,3:40PM,5:20PM,Murcia,London,2023/08/31,2023-06-29
+330,186,pounds,False,Nonstop,Ryanair,12:10PM,1:50PM,Murcia,London,2023/08/31,2023-06-29
+331,201,pounds,False,Nonstop,easyJet,9:05PM,11:00PM,Murcia,London,2023/08/31,2023-06-29
+332,22,pounds,False,Nonstop,Ryanair,9:55AM,1:30PM,London,Murcia,2023/08/31,2023-06-29
+333,32,pounds,False,Nonstop,Vueling,1:30PM,5:00PM,London,Murcia,2023/08/31,2023-06-29
+334,41,pounds,False,Nonstop,easyJet,4:30PM,8:25PM,London,Murcia,2023/08/31,2023-06-29
+335,96,pounds,True,1,Aegean,3:45PM,9:10PM,Cyprus,London,2023/10/13,2023-06-29
+336,104,pounds,False,Nonstop,Wizz Air,6:40AM,9:40AM,Cyprus,London,2023/10/13,2023-06-29
+337,122,pounds,False,Nonstop,easyJet,10:45PM,1:30AM,Cyprus,London,2023/10/13,2023-06-29
+338,140,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,8:20PM,11:05PM,Cyprus,London,2023/10/13,2023-06-29
+339,30,pounds,False,Nonstop,Norwegian,7:30PM,8:35PM,Stavanger,London,2023/10/10,2023-06-29
+340,31,pounds,True,Nonstop,Scandinavian Airlines,5:50PM,6:50PM,Stavanger,London,2023/10/10,2023-06-29
+341,38,pounds,True,1,Scandinavian Airlines. Operated by Air Baltic,12:20PM,4:25PM,Stavanger,London,2023/10/10,2023-06-29
+342,60,pounds,True,Nonstop,Scandinavian Airlines,7:50PM,10:40PM,London,Stavanger,2023/10/10,2023-06-29
+343,65,pounds,False,Nonstop,Norwegian,9:15PM,11:55PM,London,Stavanger,2023/10/10,2023-06-29
+344,85,pounds,True,1,"Scandinavian Airlines. Operated by Sas Connect, Cityjet",9:55AM,3:15PM,London,Stavanger,2023/10/10,2023-06-29
+345,57,pounds,False,Nonstop,easyJet,11:35AM,1:05PM,Sardinia,London,2023/07/11,2023-06-29
+346,62,pounds,False,Nonstop,easyJet,11:05AM,12:35PM,Sardinia,London,2023/07/11,2023-06-29
+347,69,pounds,False,Nonstop,easyJet,12:15PM,1:50PM,Sardinia,London,2023/07/11,2023-06-29
+348,123,pounds,False,Nonstop,Ryanair,11:20AM,1:05PM,Sardinia,London,2023/07/11,2023-06-29
+349,95,pounds,False,Nonstop,Ryanair,1:50PM,5:20PM,London,Sardinia,2023/07/11,2023-06-29
+350,102,pounds,False,Nonstop,easyJet,8:00AM,11:35AM,London,Sardinia,2023/07/11,2023-06-29
+351,190,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,4:55PM,8:35PM,London,Sardinia,2023/07/11,2023-06-29
+352,15,pounds,False,Nonstop,Ryanair,11:25PM,12:55AM,Shannon,London,2023/07/23,2023-06-29
+353,48,pounds,True,Nonstop,Aer Lingus,9:25PM,10:40PM,Shannon,London,2023/07/23,2023-06-29
+354,19,pounds,False,Nonstop,Ryanair,6:20AM,7:50AM,London,Shannon,2023/07/23,2023-06-29
+355,61,pounds,True,Nonstop,Aer Lingus,2:45PM,4:10PM,London,Shannon,2023/07/23,2023-06-29
+356,61,pounds,True,Nonstop,Aer Lingus,7:10PM,8:35PM,London,Shannon,2023/07/23,2023-06-29
+357,63,pounds,True,1,Scandinavian Airlines,6:30AM,4:25PM,Molde,London,2023/08/22,2023-06-29
+358,66,pounds,False,1,Norwegian,9:45AM,2:25PM,Molde,London,2023/08/22,2023-06-29
+359,80,pounds,True,1,Scandinavian Airlines. Operated by Sas Connect,2:10PM,6:30PM,Molde,London,2023/08/22,2023-06-29
+360,119,pounds,True,2,Scandinavian Airlines. Operated by Sas Connect,6:30AM,12:55PM,Molde,London,2023/08/22,2023-06-29
+361,100,pounds,True,1,Scandinavian Airlines. Operated by Sas Connect,7:05AM,1:40PM,London,Molde,2023/08/22,2023-06-29
+362,111,pounds,False,1,Norwegian,9:20AM,5:05PM,London,Molde,2023/08/22,2023-06-29
+363,123,pounds,False,1,Norwegian,3:05PM,8:55PM,London,Molde,2023/08/22,2023-06-29
+364,209,pounds,True,2,KLM and Wideroe. Operated by KLM Cityhopper,8:40AM,5:55PM,London,Molde,2023/08/22,2023-06-29
+365,200,pounds,False,Nonstop,easyJet,7:25AM,10:35AM,London,Enfidha,2023/07/15,2023-06-29
+366,1424,pounds,True,3,"British Airways, Lufthansa and Luxair. Operated by BA Euroflyer, Lufthansa CityLine",7:10PM,8:05AM,London,Enfidha,2023/07/15,2023-06-29
+367,1443,pounds,True,2,Lufthansa and Luxair,8:25PM,8:05AM,London,Enfidha,2023/07/15,2023-06-29
+368,90,pounds,False,1,easyJet,12:15PM,7:25PM,Corfu,London,2023/11/01,2023-06-29
+369,233,pounds,True,1,Aegean,8:55AM,3:30PM,Corfu,London,2023/11/01,2023-06-29
+370,244,pounds,False,Nonstop,easyJet,12:00PM,1:20PM,Corfu,London,2023/11/01,2023-06-29
+371,33,pounds,False,Nonstop,easyJet,6:00AM,11:10AM,London,Corfu,2023/11/01,2023-06-29
+372,149,pounds,True,1,Aegean,10:15PM,8:20AM,London,Corfu,2023/11/01,2023-06-29
+373,223,pounds,True,2,Brussels Airlines and Aegean,6:50AM,7:00PM,London,Corfu,2023/11/01,2023-06-29
+374,21,pounds,False,Nonstop,Wizz Air,4:25PM,5:40PM,Poznan,London,2023/08/05,2023-06-29
+375,35,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,6:20AM,7:25AM,Poznan,London,2023/08/05,2023-06-29
+376,47,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,11:35AM,12:40PM,Poznan,London,2023/08/05,2023-06-29
+377,156,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,2:55PM,6:40PM,Poznan,London,2023/08/05,2023-06-29
+378,171,pounds,True,1,LOT,5:40AM,9:25AM,Poznan,London,2023/08/05,2023-06-29
+379,96,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,1:05PM,4:00PM,London,Poznan,2023/08/05,2023-06-29
+380,104,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,7:50AM,10:45AM,London,Poznan,2023/08/05,2023-06-29
+381,148,pounds,False,Nonstop,Wizz Air,12:40PM,3:50PM,London,Poznan,2023/08/05,2023-06-29
+382,206,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,5:55PM,10:35PM,London,Poznan,2023/08/05,2023-06-29
+383,63,pounds,True,1,Scandinavian Airlines. Operated by Sas Connect,2:10PM,6:30PM,Molde,London,2023/10/10,2023-06-29
+384,92,pounds,False,1,Norwegian,9:45AM,8:05PM,Molde,London,2023/10/10,2023-06-29
+385,95,pounds,False,1,Norwegian,9:45AM,2:25PM,Molde,London,2023/10/10,2023-06-29
+386,146,pounds,False,1,Norwegian,9:20AM,5:05PM,London,Molde,2023/10/10,2023-06-29
+387,146,pounds,False,1,Norwegian,3:05PM,8:55PM,London,Molde,2023/10/10,2023-06-29
+388,228,pounds,True,2,"KLM and Wideroe. Operated by KLM Cityhopper, KLM Cityhopper",8:40AM,5:55PM,London,Molde,2023/10/10,2023-06-29
+389,16,pounds,False,Nonstop,Ryanair,11:25PM,12:55AM,Shannon,London,2023/08/20,2023-06-29
+390,48,pounds,True,Nonstop,Aer Lingus,9:25PM,10:40PM,Shannon,London,2023/08/20,2023-06-29
+391,19,pounds,False,Nonstop,Ryanair,6:20AM,7:50AM,London,Shannon,2023/08/20,2023-06-29
+392,34,pounds,False,Nonstop,Ryanair,3:35PM,4:05PM,Hamburg,London,2023/11/28,2023-06-29
+393,43,pounds,True,Nonstop,British Airways,1:20PM,2:05PM,Hamburg,London,2023/11/28,2023-06-29
+394,61,pounds,False,Nonstop,Eurowings,5:55PM,6:40PM,Hamburg,London,2023/11/28,2023-06-29
+395,25,pounds,False,Nonstop,Ryanair,12:40PM,3:05PM,London,Hamburg,2023/11/28,2023-06-29
+396,57,pounds,True,Nonstop,British Airways,11:50AM,2:30PM,London,Hamburg,2023/11/28,2023-06-29
+397,90,pounds,False,Nonstop,Eurowings,1:55PM,4:35PM,London,Hamburg,2023/11/28,2023-06-29
+398,402,pounds,True,2,Lufthansa,11:00AM,5:00PM,Tivat,London,2023/08/12,2023-06-29
+399,454,pounds,False,1,easyJet,5:25PM,10:15PM,Tivat,London,2023/08/12,2023-06-29
+400,496,pounds,True,1,Lufthansa,11:00AM,5:05PM,Tivat,London,2023/08/12,2023-06-29
+401,544,pounds,True,1,Turkish Airlines,9:10AM,3:05PM,Tivat,London,2023/08/12,2023-06-29
+402,637,pounds,True,1,Austrian,1:35PM,6:40PM,Tivat,London,2023/08/12,2023-06-29
+403,176,pounds,False,1,easyJet,7:05AM,4:45PM,London,Tivat,2023/08/12,2023-06-29
+404,187,pounds,False,1,easyJet,8:10AM,4:45PM,London,Tivat,2023/08/12,2023-06-29
+405,505,pounds,True,1,Austrian,6:00AM,12:50PM,London,Tivat,2023/08/12,2023-06-29
+406,19,pounds,False,Nonstop,Ryanair,11:05PM,12:20AM,Bologna,London,2023/10/24,2023-06-29
+407,27,pounds,False,Nonstop,Ryanair,10:00AM,11:15AM,Bologna,London,2023/10/24,2023-06-29
+408,74,pounds,True,Nonstop,British Airways,11:45AM,1:05PM,Bologna,London,2023/10/24,2023-06-29
+409,29,pounds,False,Nonstop,Ryanair,6:30AM,9:35AM,London,Bologna,2023/10/24,2023-06-29
+410,58,pounds,True,Nonstop,British Airways,3:20PM,6:30PM,London,Bologna,2023/10/24,2023-06-29
+411,121,pounds,True,1,"SWISS. Operated by Helvetic, Helvetic",9:25AM,2:15PM,London,Bologna,2023/10/24,2023-06-29
+412,67,pounds,True,1,Scandinavian Airlines,7:00AM,12:55PM,Lulea,London,2023/11/11,2023-06-29
+413,86,pounds,True,1,Scandinavian Airlines. Operated by Sas Connect,7:10PM,9:35AM,Lulea,London,2023/11/11,2023-06-29
+414,184,pounds,True,2,Scandinavian Airlines and SWISS. Operated by Xfly,1:45PM,9:40PM,Lulea,London,2023/11/11,2023-06-29
+415,216,pounds,True,2,Scandinavian Airlines and Lufthansa. Operated by Xfly for Scandinavian Airlines,1:45PM,8:45PM,Lulea,London,2023/11/11,2023-06-29
+416,233,pounds,True,2,"Scandinavian Airlines. Operated by Xfly, Xfly, Sas Connect",9:50AM,4:25PM,Lulea,London,2023/11/11,2023-06-29
+417,102,pounds,True,1,Scandinavian Airlines. Operated by Sas Connect,10:35AM,6:40PM,London,Lulea,2023/11/11,2023-06-29
+418,102,pounds,True,1,Scandinavian Airlines,1:55PM,8:20PM,London,Lulea,2023/11/11,2023-06-29
+419,196,pounds,True,1,"Scandinavian Airlines. Operated by Sas Connect, Xfly",10:35AM,4:40PM,London,Lulea,2023/11/11,2023-06-29
+420,39,pounds,False,Nonstop,Wizz Air,4:05PM,5:45PM,Mallorca Palma,London,2023/10/13,2023-06-29
+421,42,pounds,False,Nonstop,Ryanair,11:30AM,1:00PM,Mallorca Palma,London,2023/10/13,2023-06-29
+422,44,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,10:50AM,12:15PM,Mallorca Palma,London,2023/10/13,2023-06-29
+423,50,pounds,False,Nonstop,easyJet,12:00PM,1:30PM,Mallorca Palma,London,2023/10/13,2023-06-29
+424,52,pounds,True,Nonstop,British Airways,8:20PM,9:45PM,Mallorca Palma,London,2023/10/13,2023-06-29
+425,41,pounds,False,Nonstop,easyJet,2:00PM,5:20PM,London,Mallorca Palma,2023/10/13,2023-06-29
+426,42,pounds,False,Nonstop,easyJet,4:55PM,8:20PM,London,Mallorca Palma,2023/10/13,2023-06-29
+427,48,pounds,False,Nonstop,Ryanair,4:35PM,8:05PM,London,Mallorca Palma,2023/10/13,2023-06-29
+428,54,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,6:40AM,10:05AM,London,Mallorca Palma,2023/10/13,2023-06-29
+429,25,pounds,False,Nonstop,Wizz Air,6:00AM,7:40AM,Lodz,London,2023/07/30,2023-06-29
+430,41,pounds,False,Nonstop,Ryanair,9:40AM,11:00AM,Lodz,London,2023/07/30,2023-06-29
+431,41,pounds,False,Nonstop,Wizz Air,5:30PM,7:05PM,Lodz,London,2023/07/30,2023-06-29
+432,48,pounds,False,Nonstop,Wizz Air,11:40AM,1:25PM,Lodz,London,2023/07/30,2023-06-29
+433,140,pounds,False,Nonstop,Ryanair,6:05AM,9:15AM,London,Lodz,2023/07/30,2023-06-29
+434,208,pounds,True,Nonstop,LOT,6:10PM,9:45PM,London,Lodz,2023/07/30,2023-06-29
+435,226,pounds,True,Nonstop,British Airways,6:20PM,9:45PM,London,Lodz,2023/07/30,2023-06-29
+436,57,pounds,False,1,Vueling,5:25PM,8:55PM,Ibiza,London,2023/11/12,2023-06-29
+437,63,pounds,True,Nonstop,British Airways. Operated by BA Cityflyer,5:50PM,7:25PM,Ibiza,London,2023/11/12,2023-06-29
+438,65,pounds,False,1,Vueling,10:55AM,2:40PM,Ibiza,London,2023/11/12,2023-06-29
+439,69,pounds,False,1,Vueling,9:05AM,2:50PM,London,Ibiza,2023/11/12,2023-06-29
+440,79,pounds,False,1,Vueling,9:50AM,2:50PM,London,Ibiza,2023/11/12,2023-06-29
+441,83,pounds,True,Nonstop,British Airways. Operated by BA Cityflyer,1:40PM,5:05PM,London,Ibiza,2023/11/12,2023-06-29
+442,88,pounds,False,1,Vueling,2:35PM,7:30PM,London,Ibiza,2023/11/12,2023-06-29
+443,46,pounds,False,Nonstop,easyJet,4:50PM,5:00PM,Paris,London,2023/10/20,2023-06-29
+444,46,pounds,False,Nonstop,Vueling,11:50AM,11:55AM,Paris,London,2023/10/20,2023-06-29
+445,89,pounds,True,Direct,,1:13PM,2:30PM,Paris,London,2023/10/20,2023-06-29
+446,61,pounds,False,Nonstop,Vueling,7:40PM,10:00PM,London,Paris,2023/10/20,2023-06-29
+447,76,pounds,False,Nonstop,easyJet,5:25PM,7:45PM,London,Paris,2023/10/20,2023-06-29
+448,111,pounds,True,Nonstop,British Airways,5:10PM,7:35PM,London,Paris,2023/10/20,2023-06-29
+449,114,pounds,True,Direct,,4:01PM,7:30PM,London,Paris,2023/10/20,2023-06-29
+450,154,pounds,True,Direct,,4:31PM,7:47PM,London,Paris,2023/10/20,2023-06-29
+451,12,pounds,False,Nonstop,Vueling,7:00AM,7:50AM,Bilbao,London,2023/11/26,2023-06-29
+452,25,pounds,False,Nonstop,Vueling,1:55PM,2:40PM,Bilbao,London,2023/11/26,2023-06-29
+453,32,pounds,False,Nonstop,Vueling,6:15PM,7:05PM,Bilbao,London,2023/11/26,2023-06-29
+454,56,pounds,False,Nonstop,Vueling,8:30AM,11:25AM,London,Bilbao,2023/11/26,2023-06-29
+455,75,pounds,False,Nonstop,Vueling,3:20PM,6:10PM,London,Bilbao,2023/11/26,2023-06-29
+456,89,pounds,False,Nonstop,Vueling,7:45PM,10:30PM,London,Bilbao,2023/11/26,2023-06-29
+457,97,pounds,True,1,Iberia,5:25PM,11:15PM,London,Bilbao,2023/11/26,2023-06-29
+458,100,pounds,False,Nonstop,Ryanair,7:05PM,7:30PM,Bremen,London,2023/09/29,2023-06-29
+459,192,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",3:05PM,5:35PM,Bremen,London,2023/09/29,2023-06-29
+460,260,pounds,True,1,Lufthansa,2:30PM,5:00PM,Bremen,London,2023/09/29,2023-06-29
+461,27,pounds,False,Nonstop,Ryanair,4:15PM,6:35PM,London,Bremen,2023/09/29,2023-06-29
+462,145,pounds,True,1,KLM. Operated by KLM Cityhopper,5:10PM,9:30PM,London,Bremen,2023/09/29,2023-06-29
+463,153,pounds,True,1,Lufthansa,6:00PM,10:20PM,London,Bremen,2023/09/29,2023-06-29
+464,13,pounds,False,Nonstop,Wizz Air,6:00AM,7:35AM,Rzeszow,London,2023/07/27,2023-06-29
+465,25,pounds,False,Nonstop,Ryanair,8:25PM,10:10PM,Rzeszow,London,2023/07/27,2023-06-29
+466,34,pounds,False,Nonstop,easyJet,11:00AM,12:35PM,Rzeszow,London,2023/07/27,2023-06-29
+467,163,pounds,False,Nonstop,Ryanair,4:25PM,8:00PM,London,Rzeszow,2023/07/27,2023-06-29
+468,176,pounds,False,Nonstop,easyJet,5:25PM,8:55PM,London,Rzeszow,2023/07/27,2023-06-29
+469,180,pounds,False,Nonstop,Ryanair,6:00PM,9:25PM,London,Rzeszow,2023/07/27,2023-06-29
+470,245,pounds,True,Nonstop,LOT,10:15AM,1:50PM,London,Rzeszow,2023/07/27,2023-06-29
+471,119,pounds,False,Nonstop,easyJet,2:50PM,4:50PM,Santorini,London,2023/07/22,2023-06-29
+472,153,pounds,True,Nonstop,British Airways,4:05PM,6:05PM,Santorini,London,2023/07/22,2023-06-29
+473,160,pounds,True,1,Aegean,11:35AM,3:30PM,Santorini,London,2023/07/22,2023-06-29
+474,144,pounds,False,Nonstop,easyJet,2:25PM,8:20PM,London,Santorini,2023/07/22,2023-06-29
+475,159,pounds,True,Nonstop,British Airways,10:10AM,4:10PM,London,Santorini,2023/07/22,2023-06-29
+476,162,pounds,True,1,SWISS,7:00AM,3:00PM,London,Santorini,2023/07/22,2023-06-29
+477,62,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,8:30PM,10:15PM,Cagliari,London,2023/07/05,2023-06-29
+478,158,pounds,False,1,easyJet,3:10PM,7:45PM,Cagliari,London,2023/07/05,2023-06-29
+479,181,pounds,True,1,ITA,9:30AM,1:10PM,Cagliari,London,2023/07/05,2023-06-29
+480,158,pounds,True,1,ITA,3:45PM,10:50PM,London,Cagliari,2023/07/05,2023-06-29
+481,164,pounds,True,1,Eurowings,7:35PM,8:55AM,London,Cagliari,2023/07/05,2023-06-29
+482,194,pounds,False,1,easyJet,8:25AM,2:40PM,London,Cagliari,2023/07/05,2023-06-29
+483,197,pounds,True,1,Vueling and Transavia,7:45AM,3:30PM,London,Cagliari,2023/07/05,2023-06-29
+484,237,pounds,True,1,ITA,6:45AM,12:00PM,London,Cagliari,2023/07/05,2023-06-29
+485,88,pounds,False,1,easyJet,11:55AM,6:40PM,Nimes,London,2023/10/16,2023-06-29
+486,134,pounds,False,1,Norwegian,9:45AM,2:50PM,Nimes,London,2023/10/16,2023-06-29
+487,203,pounds,False,Nonstop,easyJet,9:40PM,10:35PM,Nimes,London,2023/10/16,2023-06-29
+488,22,pounds,False,Nonstop,Ryanair. Operated by Malta Air,8:00PM,11:00PM,London,Nimes,2023/10/16,2023-06-29
+489,29,pounds,False,Nonstop,easyJet,1:00PM,3:55PM,London,Nimes,2023/10/16,2023-06-29
+490,29,pounds,False,Nonstop,easyJet,6:15PM,9:10PM,London,Nimes,2023/10/16,2023-06-29
+491,66,pounds,True,Nonstop,British Airways,3:05PM,6:05PM,London,Nimes,2023/10/16,2023-06-29
+492,34,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,6:05AM,7:25AM,Bratislava,London,2023/11/28,2023-06-29
+493,56,pounds,False,Nonstop,Wizz Air,6:25AM,7:55AM,Bratislava,London,2023/11/28,2023-06-29
+494,73,pounds,True,Nonstop,Austrian,8:20PM,9:40PM,Bratislava,London,2023/11/28,2023-06-29
+495,88,pounds,True,Nonstop,British Airways,4:55PM,6:20PM,Bratislava,London,2023/11/28,2023-06-29
+496,34,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,7:50AM,11:00AM,London,Bratislava,2023/11/28,2023-06-29
+497,58,pounds,False,Nonstop,Wizz Air,8:40AM,11:55AM,London,Bratislava,2023/11/28,2023-06-29
+498,67,pounds,True,Nonstop,British Airways,6:40PM,9:55PM,London,Bratislava,2023/11/28,2023-06-29
+499,18,pounds,False,Nonstop,Wizz Air,7:10AM,8:10AM,Genoa,London,2023/11/21,2023-06-29
+500,27,pounds,False,Nonstop,easyJet,6:00PM,6:55PM,Genoa,London,2023/11/21,2023-06-29
+501,27,pounds,False,Nonstop,Ryanair,3:25PM,4:35PM,Genoa,London,2023/11/21,2023-06-29
+502,40,pounds,True,Nonstop,British Airways,1:10PM,2:25PM,Genoa,London,2023/11/21,2023-06-29
+503,18,pounds,False,Nonstop,Wizz Air,8:50PM,11:50PM,London,Genoa,2023/11/21,2023-06-29
+504,22,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,1:40PM,4:30PM,London,Genoa,2023/11/21,2023-06-29
+505,27,pounds,False,Nonstop,Ryanair,11:55AM,2:55PM,London,Genoa,2023/11/21,2023-06-29
+506,94,pounds,True,1,Pegasus,8:10AM,11:50AM,Izmir,London,2023/11/23,2023-06-29
+507,96,pounds,True,Nonstop,Pegasus,10:40AM,11:50AM,Izmir,London,2023/11/23,2023-06-29
+508,125,pounds,True,Nonstop,SunExpress,7:20PM,8:30PM,Izmir,London,2023/11/23,2023-06-29
+509,77,pounds,True,Nonstop,SunExpress,9:30PM,4:15AM,London,Izmir,2023/11/23,2023-06-29
+510,99,pounds,True,1,Pegasus,12:40PM,11:35PM,London,Izmir,2023/11/23,2023-06-29
+511,123,pounds,True,Nonstop,Pegasus,12:45PM,7:25PM,London,Izmir,2023/11/23,2023-06-29
+512,25,pounds,False,Nonstop,Ryanair,12:50PM,1:25PM,Leipzig,London,2023/09/26,2023-06-29
+513,86,pounds,True,1,Austrian,8:00AM,9:40PM,Leipzig,London,2023/09/26,2023-06-29
+514,88,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,3:15PM,5:40PM,Leipzig,London,2023/09/26,2023-06-29
+515,116,pounds,True,2,"Lufthansa. Operated by Deutsche Bahn, Deutsche Bahn",3:33PM,8:40PM,Leipzig,London,2023/09/26,2023-06-29
+516,17,pounds,False,Nonstop,Ryanair,9:50AM,12:25PM,London,Leipzig,2023/09/26,2023-06-29
+517,128,pounds,True,2,"Lufthansa. Operated by Deutsche Bahn, Deutsche Bahn",6:30AM,2:24PM,London,Leipzig,2023/09/26,2023-06-29
+518,128,pounds,True,1,Lufthansa,1:30PM,6:00PM,London,Leipzig,2023/09/26,2023-06-29
+519,26,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,6:25PM,7:50PM,Zagreb,London,2023/07/15,2023-06-29
+520,76,pounds,True,Nonstop,British Airways,8:40PM,10:10PM,Zagreb,London,2023/07/15,2023-06-29
+521,138,pounds,True,1,LOT,6:00PM,10:00PM,Zagreb,London,2023/07/15,2023-06-29
+522,140,pounds,True,1,Lufthansa,1:30PM,5:05PM,Zagreb,London,2023/07/15,2023-06-29
+523,95,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,8:15PM,11:30PM,London,Zagreb,2023/07/15,2023-06-29
+524,214,pounds,True,Nonstop,British Airways,4:15PM,7:45PM,London,Zagreb,2023/07/15,2023-06-29
+525,302,pounds,True,1,Croatia,4:40PM,9:40PM,London,Zagreb,2023/07/15,2023-06-29
+526,17,pounds,False,Nonstop,Ryanair,11:15PM,12:10AM,Copenhagen,London,2023/08/04,2023-06-29
+527,33,pounds,False,Nonstop,easyJet,10:45AM,11:50AM,Copenhagen,London,2023/08/04,2023-06-29
+528,44,pounds,False,Nonstop,Norwegian,5:25PM,6:20PM,Copenhagen,London,2023/08/04,2023-06-29
+529,113,pounds,True,Nonstop,Scandinavian Airlines. Operated by Sas Connect,6:40PM,9:30PM,London,Copenhagen,2023/08/04,2023-06-29
+530,113,pounds,False,Nonstop,Norwegian,3:35PM,6:25PM,London,Copenhagen,2023/08/04,2023-06-29
+531,114,pounds,False,Nonstop,Ryanair,1:30PM,4:15PM,London,Copenhagen,2023/08/04,2023-06-29
+532,121,pounds,False,Nonstop,easyJet,5:40PM,8:35PM,London,Copenhagen,2023/08/04,2023-06-29
+533,175,pounds,False,Nonstop,Ryanair,3:40PM,5:35PM,Bari,London,2023/08/21,2023-06-29
+534,177,pounds,False,Nonstop,easyJet,4:55PM,6:50PM,Bari,London,2023/08/21,2023-06-29
+535,201,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,11:55AM,1:50PM,Bari,London,2023/08/21,2023-06-29
+536,76,pounds,False,Nonstop,Ryanair,11:35AM,3:15PM,London,Bari,2023/08/21,2023-06-29
+537,104,pounds,False,Nonstop,easyJet,12:25PM,4:20PM,London,Bari,2023/08/21,2023-06-29
+538,125,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,7:20AM,11:10AM,London,Bari,2023/08/21,2023-06-29
+539,49,pounds,True,Nonstop,Aer Lingus,8:05PM,9:25PM,Shannon,London,2023/11/19,2023-06-29
+540,63,pounds,True,Nonstop,Aer Lingus,5:30PM,6:55PM,Shannon,London,2023/11/19,2023-06-29
+541,81,pounds,True,Nonstop,Aer Lingus,3:15PM,4:45PM,London,Shannon,2023/11/19,2023-06-29
+542,25,pounds,False,Nonstop,Wizz Air,6:15AM,7:40AM,Sofia,London,2023/10/10,2023-06-29
+543,31,pounds,False,Nonstop,Wizz Air,7:40PM,9:15PM,Sofia,London,2023/10/10,2023-06-29
+544,44,pounds,False,Nonstop,easyJet,11:50AM,1:10PM,Sofia,London,2023/10/10,2023-06-29
+545,85,pounds,True,Nonstop,British Airways,9:15PM,10:40PM,Sofia,London,2023/10/10,2023-06-29
+546,90,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,5:55AM,7:10AM,Sofia,London,2023/10/10,2023-06-29
+547,31,pounds,False,Nonstop,easyJet,5:55AM,11:05AM,London,Sofia,2023/10/10,2023-06-29
+548,34,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,5:15PM,10:20PM,London,Sofia,2023/10/10,2023-06-29
+549,40,pounds,False,Nonstop,Wizz Air,8:35AM,1:45PM,London,Sofia,2023/10/10,2023-06-29
+550,58,pounds,True,Nonstop,British Airways,3:15PM,8:25PM,London,Sofia,2023/10/10,2023-06-29
+551,158,pounds,True,1,Aegean and Olympic,10:15PM,4:20PM,London,Kefalonia,2023/11/11,2023-06-29
+552,152,pounds,False,Nonstop,Ryanair,1:00PM,3:15PM,Rhodes,London,2023/09/18,2023-06-29
+553,156,pounds,True,Nonstop,Jet2,12:50PM,3:00PM,Rhodes,London,2023/09/18,2023-06-29
+554,158,pounds,False,Nonstop,easyJet,1:10PM,3:25PM,Rhodes,London,2023/09/18,2023-06-29
+555,68,pounds,False,Nonstop,easyJet,2:00PM,8:15PM,London,Rhodes,2023/09/18,2023-06-29
+556,73,pounds,False,Nonstop,easyJet,1:10PM,7:15PM,London,Rhodes,2023/09/18,2023-06-29
+557,78,pounds,False,Nonstop,Ryanair,6:35AM,12:35PM,London,Rhodes,2023/09/18,2023-06-29
+558,91,pounds,True,Nonstop,Jet2,4:15PM,10:20PM,London,Rhodes,2023/09/18,2023-06-29
+559,82,pounds,False,Nonstop,Ryanair,4:15PM,5:10PM,Asturias,London,2023/08/20,2023-06-29
+560,87,pounds,False,Nonstop,Vueling,3:15PM,4:05PM,Asturias,London,2023/08/20,2023-06-29
+561,191,pounds,False,1,Vueling,6:10PM,10:40PM,Asturias,London,2023/08/20,2023-06-29
+562,467,pounds,True,1,Delta,2:19PM,7:55AM,Corsica,London,2023/11/23,2023-06-29
+563,478,pounds,True,1,Air France,3:55PM,10:30AM,Corsica,London,2023/11/23,2023-06-29
+564,689,pounds,True,1,American. Operated by Skywest Airlines as American Eagle,12:52PM,6:20AM,Corsica,London,2023/11/23,2023-06-29
+565,42,pounds,False,Nonstop,Ryanair,2:30PM,3:20PM,Berlin,London,2023/11/02,2023-06-29
+566,45,pounds,False,Nonstop,easyJet,7:15AM,8:10AM,Berlin,London,2023/11/02,2023-06-29
+567,47,pounds,True,Nonstop,British Airways. Operated by BA Cityflyer,11:55AM,12:40PM,Berlin,London,2023/11/02,2023-06-29
+568,47,pounds,True,Nonstop,British Airways. Operated by BA Cityflyer,5:00PM,5:55PM,Berlin,London,2023/11/02,2023-06-29
+569,55,pounds,False,Nonstop,easyJet,7:45PM,10:35PM,London,Berlin,2023/11/02,2023-06-29
+570,64,pounds,False,Nonstop,Ryanair,11:20AM,2:05PM,London,Berlin,2023/11/02,2023-06-29
+571,101,pounds,True,Nonstop,British Airways. Operated by BA Cityflyer,10:50AM,1:30PM,London,Berlin,2023/11/02,2023-06-29
+572,26,pounds,False,Nonstop,Wizz Air,11:35PM,1:55AM,Tirana,London,2023/07/26,2023-06-29
+573,31,pounds,False,Nonstop,Wizz Air,8:05PM,10:25PM,Tirana,London,2023/07/26,2023-06-29
+574,35,pounds,False,Nonstop,Wizz Air,12:25PM,2:45PM,Tirana,London,2023/07/26,2023-06-29
+575,56,pounds,False,Nonstop,easyJet,12:15PM,2:25PM,Tirana,London,2023/07/26,2023-06-29
+576,86,pounds,True,Nonstop,British Airways. Operated by Finnair for British Airways,7:05PM,9:10PM,Tirana,London,2023/07/26,2023-06-29
+577,price,unavailable,True,Nonstop,Albawings,6:00AM,8:00AM,Tirana,London,2023/07/26,2023-06-29
+578,154,pounds,False,1,Eurowings,8:50AM,3:15PM,London,Tirana,2023/07/26,2023-06-29
+579,163,pounds,True,1,Pegasus,3:45PM,1:20AM,London,Tirana,2023/07/26,2023-06-29
+580,188,pounds,False,Nonstop,Wizz Air,7:05PM,11:05PM,London,Tirana,2023/07/26,2023-06-29
+581,56,pounds,False,Nonstop,Ryanair,11:10AM,12:10PM,Tallinn,London,2023/09/14,2023-06-29
+582,58,pounds,True,Nonstop,Air Baltic,5:45PM,6:50PM,Tallinn,London,2023/09/14,2023-06-29
+583,78,pounds,True,1,Scandinavian Airlines,1:15PM,4:25PM,Tallinn,London,2023/09/14,2023-06-29
+584,34,pounds,False,Nonstop,Ryanair,5:55AM,10:40AM,London,Tallinn,2023/09/14,2023-06-29
+585,60,pounds,True,Nonstop,Air Baltic,8:00PM,12:45AM,London,Tallinn,2023/09/14,2023-06-29
+586,124,pounds,True,1,"Scandinavian Airlines. Operated by Sas Connect, Cityjet",1:55PM,8:45PM,London,Tallinn,2023/09/14,2023-06-29
+587,145,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,7:30AM,2:50PM,London,Tallinn,2023/09/14,2023-06-29
+588,145,pounds,True,1,Air Baltic,5:20PM,12:05AM,London,Tallinn,2023/09/14,2023-06-29
+589,93,pounds,False,Nonstop,easyJet,12:55AM,2:15AM,Ibiza,London,2023/07/17,2023-06-29
+590,110,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,10:40AM,12:10PM,Ibiza,London,2023/07/17,2023-06-29
+591,153,pounds,True,Nonstop,British Airways. Operated by BA Cityflyer,6:35PM,8:10PM,Ibiza,London,2023/07/17,2023-06-29
+592,164,pounds,True,Nonstop,TUI Airways,9:00PM,10:25PM,Ibiza,London,2023/07/17,2023-06-29
+593,179,pounds,True,Nonstop,Jet2,4:35PM,6:15PM,Ibiza,London,2023/07/17,2023-06-29
+594,37,pounds,False,Nonstop,easyJet,8:00PM,11:30PM,London,Ibiza,2023/07/17,2023-06-29
+595,41,pounds,False,Nonstop,Ryanair,5:05PM,8:40PM,London,Ibiza,2023/07/17,2023-06-29
+596,67,pounds,True,Nonstop,Jet2,12:15PM,3:50PM,London,Ibiza,2023/07/17,2023-06-29
+597,86,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,12:35PM,2:10PM,Krakow,London,2023/08/22,2023-06-29
+598,91,pounds,False,Nonstop,Ryanair,9:40AM,11:05AM,Krakow,London,2023/08/22,2023-06-29
+599,94,pounds,False,Nonstop,easyJet,9:45PM,11:20PM,Krakow,London,2023/08/22,2023-06-29
+600,122,pounds,False,Nonstop,Ryanair,4:45PM,6:10PM,Krakow,London,2023/08/22,2023-06-29
+601,129,pounds,False,Nonstop,Wizz Air,5:55PM,7:25PM,Krakow,London,2023/08/22,2023-06-29
+602,16,pounds,False,Nonstop,Wizz Air,8:20AM,11:45AM,London,Krakow,2023/08/22,2023-06-29
+603,16,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,2:35PM,5:55PM,London,Krakow,2023/08/22,2023-06-29
+604,18,pounds,False,Nonstop,Wizz Air,8:15PM,11:40PM,London,Krakow,2023/08/22,2023-06-29
+605,23,pounds,False,Nonstop,Ryanair,4:40PM,7:55PM,London,Krakow,2023/08/22,2023-06-29
+606,28,pounds,False,Nonstop,Ryanair,1:05PM,4:20PM,London,Krakow,2023/08/22,2023-06-29
+607,61,pounds,False,Nonstop,Wizz Air,6:55AM,7:50AM,Vilnius,London,2023/10/28,2023-06-29
+608,82,pounds,False,Nonstop,Ryanair,8:10PM,9:05PM,Vilnius,London,2023/10/28,2023-06-29
+609,95,pounds,True,1,LOT,2:45PM,5:20PM,Vilnius,London,2023/10/28,2023-06-29
+610,36,pounds,False,Nonstop,Wizz Air,8:40AM,1:25PM,London,Vilnius,2023/10/28,2023-06-29
+611,45,pounds,False,Nonstop,Ryanair,3:05PM,7:45PM,London,Vilnius,2023/10/28,2023-06-29
+612,100,pounds,True,1,LOT,6:30AM,2:05PM,London,Vilnius,2023/10/28,2023-06-29
+613,114,pounds,True,1,"Scandinavian Airlines. Operated by Sas Connect, Xfly",5:00PM,11:25PM,London,Vilnius,2023/10/28,2023-06-29
+614,93,pounds,True,1,"Scandinavian Airlines. Operated by Sas Connect, Sas Connect",10:20AM,4:00PM,Split,London,2023/09/17,2023-06-29
+615,151,pounds,False,Nonstop,Wizz Air,9:30PM,11:10PM,Split,London,2023/09/17,2023-06-29
+616,170,pounds,False,Nonstop,easyJet,10:15AM,11:50AM,Split,London,2023/09/17,2023-06-29
+617,22,pounds,False,Nonstop,Wizz Air,5:20PM,8:50PM,London,Split,2023/09/17,2023-06-29
+618,31,pounds,False,Nonstop,easyJet,5:00PM,8:30PM,London,Split,2023/09/17,2023-06-29
+619,42,pounds,False,Nonstop,easyJet,4:25PM,8:05PM,London,Split,2023/09/17,2023-06-29
+620,97,pounds,True,Nonstop,Jet2,8:00AM,11:35AM,London,Split,2023/09/17,2023-06-29
+621,105,pounds,True,Nonstop,British Airways. Operated by Finnair for British Airways,7:40AM,11:20AM,London,Split,2023/09/17,2023-06-29
+622,44,pounds,False,Nonstop,Wizz Air,9:55PM,10:55PM,Tallinn,London,2023/09/25,2023-06-29
+623,99,pounds,True,1,Air Baltic,5:40AM,8:10AM,Tallinn,London,2023/09/25,2023-06-29
+624,102,pounds,True,1,"Scandinavian Airlines. Operated by Cityjet, Sas Connect",3:15PM,5:40PM,Tallinn,London,2023/09/25,2023-06-29
+625,152,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,12:55PM,3:10PM,Tallinn,London,2023/09/25,2023-06-29
+626,72,pounds,False,Nonstop,Wizz Air,4:25PM,9:20PM,London,Tallinn,2023/09/25,2023-06-29
+627,81,pounds,True,1,Air Baltic,5:20PM,12:05AM,London,Tallinn,2023/09/25,2023-06-29
+628,109,pounds,True,1,"Scandinavian Airlines. Operated by Sas Connect, Cityjet",1:55PM,8:20PM,London,Tallinn,2023/09/25,2023-06-29
+629,145,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,7:30AM,2:50PM,London,Tallinn,2023/09/25,2023-06-29
+630,19,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,6:35AM,8:00AM,Zagreb,London,2023/07/11,2023-06-29
+631,89,pounds,True,Nonstop,British Airways,1:20PM,2:50PM,Zagreb,London,2023/07/11,2023-06-29
+632,108,pounds,False,1,Eurowings,2:10PM,6:50PM,Zagreb,London,2023/07/11,2023-06-29
+633,62,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,8:25AM,11:40AM,London,Zagreb,2023/07/11,2023-06-29
+634,110,pounds,False,1,Eurowings,8:05AM,1:25PM,London,Zagreb,2023/07/11,2023-06-29
+635,117,pounds,True,Nonstop,British Airways,8:45AM,12:15PM,London,Zagreb,2023/07/11,2023-06-29
+636,30,pounds,False,Nonstop,Ryanair UK,11:05AM,2:40PM,Ouarzazate,London,2023/09/19,2023-06-29
+637,118,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,5:10PM,10:55PM,Ouarzazate,London,2023/09/19,2023-06-29
+638,125,pounds,False,Nonstop,Wizz Air,12:20PM,3:50PM,Ouarzazate,London,2023/09/19,2023-06-29
+639,148,pounds,False,Nonstop,easyJet,11:00AM,2:40PM,Ouarzazate,London,2023/09/19,2023-06-29
+640,196,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,11:05AM,2:30PM,Ouarzazate,London,2023/09/19,2023-06-29
+641,26,pounds,False,Nonstop,Ryanair UK,5:55AM,9:30AM,London,Ouarzazate,2023/09/19,2023-06-29
+642,67,pounds,False,Nonstop,Wizz Air,8:00AM,11:30AM,London,Ouarzazate,2023/09/19,2023-06-29
+643,81,pounds,False,Nonstop,easyJet,1:15PM,4:55PM,London,Ouarzazate,2023/09/19,2023-06-29
+644,173,pounds,True,1,Scandinavian Airlines. Operated by Sas Connect,1:05PM,7:30PM,Faro,London,2023/08/02,2023-06-29
+645,269,pounds,True,1,Atlantic Airways and Air France,12:45PM,9:25PM,Faro,London,2023/08/02,2023-06-29
+646,443,pounds,True,2,Atlantic Airways and Air France,4:05PM,8:00AM,Faro,London,2023/08/02,2023-06-29
+647,538,pounds,True,2,Scandinavian Airlines and Turkish Airlines,1:05PM,9:55AM,Faro,London,2023/08/02,2023-06-29
+648,541,pounds,True,2,"Atlantic Airways and KLM. Operated by KLM Cityhopper, KLM Cityhopper",8:20AM,5:20PM,Faro,London,2023/08/02,2023-06-29

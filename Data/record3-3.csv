@@ -1,0 +1,1991 @@
+,Price,Unit,Luggage,Stops,Airline,Depart,Arrive,Start,Destination,FlightDate,CheckDate
+0,27,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,5:45AM,7:10AM,Rijeka,London,2024/04/09,2024-01-15
+1,104,pounds,True,1,LOT,12:45PM,5:20PM,Rijeka,London,2024/04/09,2024-01-15
+2,122,pounds,True,1,Croatia and Lufthansa,9:05AM,12:40PM,Rijeka,London,2024/04/09,2024-01-15
+3,133,pounds,True,Nonstop,British Airways,1:25PM,3:00PM,Rijeka,London,2024/04/09,2024-01-15
+4,90,pounds,True,1,Iberia,7:30PM,10:35AM,Rijeka,London,2024/04/09,2024-01-15
+5,104,pounds,True,1,LOT,12:45PM,10:00PM,Rijeka,London,2024/04/09,2024-01-15
+6,104,pounds,True,1,LOT,6:00PM,10:00PM,Rijeka,London,2024/04/09,2024-01-15
+7,104,pounds,True,1,LOT,6:00PM,9:25AM,Rijeka,London,2024/04/09,2024-01-15
+8,112,pounds,True,1,Croatia and Lufthansa,6:50AM,9:45AM,Rijeka,London,2024/04/09,2024-01-15
+9,112,pounds,True,1,Croatia and Lufthansa,6:50AM,3:45PM,Rijeka,London,2024/04/09,2024-01-15
+10,112,pounds,True,1,Croatia and Lufthansa,6:50AM,5:05PM,Rijeka,London,2024/04/09,2024-01-15
+11,112,pounds,True,1,Croatia and Lufthansa,6:50AM,6:30PM,Rijeka,London,2024/04/09,2024-01-15
+12,112,pounds,True,1,Croatia and Lufthansa,6:50AM,7:40PM,Rijeka,London,2024/04/09,2024-01-15
+13,112,pounds,True,1,Croatia and Lufthansa,6:50AM,8:45PM,Rijeka,London,2024/04/09,2024-01-15
+14,112,pounds,True,1,Croatia and Lufthansa,6:45PM,10:40PM,Rijeka,London,2024/04/09,2024-01-15
+15,118,pounds,True,1,Croatia and Lufthansa,5:55PM,10:10PM,Rijeka,London,2024/04/09,2024-01-15
+16,119,pounds,True,1,Croatia and Lufthansa,6:45PM,8:15AM,Rijeka,London,2024/04/09,2024-01-15
+17,122,pounds,True,1,Croatia and Lufthansa,9:05AM,2:40PM,Rijeka,London,2024/04/09,2024-01-15
+18,122,pounds,True,1,Croatia and Lufthansa,9:05AM,3:40PM,Rijeka,London,2024/04/09,2024-01-15
+19,122,pounds,True,1,Croatia and Lufthansa. Operated by Lufthansa CityLine,9:05AM,4:25PM,Rijeka,London,2024/04/09,2024-01-15
+20,122,pounds,True,1,Croatia and Lufthansa,9:05AM,4:40PM,Rijeka,London,2024/04/09,2024-01-15
+21,122,pounds,True,1,Croatia and Lufthansa,9:05AM,5:00PM,Rijeka,London,2024/04/09,2024-01-15
+22,122,pounds,True,1,Croatia and Lufthansa,9:05AM,5:40PM,Rijeka,London,2024/04/09,2024-01-15
+23,122,pounds,True,1,Croatia and Lufthansa,9:05AM,6:40PM,Rijeka,London,2024/04/09,2024-01-15
+24,122,pounds,True,1,Croatia and Lufthansa. Operated by Lufthansa CityLine,9:05AM,6:40PM,Rijeka,London,2024/04/09,2024-01-15
+25,24,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,7:35AM,10:45AM,London,Rijeka,2024/04/09,2024-01-15
+26,153,pounds,True,Nonstop,British Airways,8:45AM,12:05PM,London,Rijeka,2024/04/09,2024-01-15
+27,122,pounds,True,1,Lufthansa,6:55AM,9:20PM,London,Rijeka,2024/04/09,2024-01-15
+28,122,pounds,True,1,Lufthansa,7:25AM,9:20PM,London,Rijeka,2024/04/09,2024-01-15
+29,122,pounds,True,1,Lufthansa,9:00AM,9:20PM,London,Rijeka,2024/04/09,2024-01-15
+30,122,pounds,True,1,Lufthansa,10:50AM,9:20PM,London,Rijeka,2024/04/09,2024-01-15
+31,122,pounds,True,1,Lufthansa,1:50PM,9:20PM,London,Rijeka,2024/04/09,2024-01-15
+32,122,pounds,True,1,Lufthansa,4:25PM,9:20PM,London,Rijeka,2024/04/09,2024-01-15
+33,123,pounds,True,1,LOT,6:10PM,12:05PM,London,Rijeka,2024/04/09,2024-01-15
+34,125,pounds,False,1,Eurowings,12:10PM,6:50PM,London,Rijeka,2024/04/09,2024-01-15
+35,127,pounds,True,1,Austrian,6:00AM,11:00AM,London,Rijeka,2024/04/09,2024-01-15
+36,136,pounds,True,1,LOT,6:30AM,5:20PM,London,Rijeka,2024/04/09,2024-01-15
+37,136,pounds,True,1,LOT,10:15AM,5:20PM,London,Rijeka,2024/04/09,2024-01-15
+38,137,pounds,True,1,Aegean,4:35PM,6:20PM,London,Rijeka,2024/04/09,2024-01-15
+39,137,pounds,True,1,Aegean,10:15PM,6:20PM,London,Rijeka,2024/04/09,2024-01-15
+40,146,pounds,True,2,Lufthansa,11:15AM,9:20PM,London,Rijeka,2024/04/09,2024-01-15
+41,146,pounds,True,2,Lufthansa,11:15AM,9:20PM,London,Rijeka,2024/04/09,2024-01-15
+42,146,pounds,True,2,Lufthansa,11:15AM,9:20PM,London,Rijeka,2024/04/09,2024-01-15
+43,146,pounds,True,2,Lufthansa,11:15AM,9:20PM,London,Rijeka,2024/04/09,2024-01-15
+44,147,pounds,True,1,KLM. Operated by KLM Cityhopper,6:30AM,10:35PM,London,Rijeka,2024/04/09,2024-01-15
+45,147,pounds,True,1,KLM. Operated by KLM Cityhopper,8:40AM,10:35PM,London,Rijeka,2024/04/09,2024-01-15
+46,147,pounds,True,1,KLM. Operated by KLM Cityhopper,9:55AM,10:35PM,London,Rijeka,2024/04/09,2024-01-15
+47,147,pounds,True,1,KLM. Operated by KLM Cityhopper,11:45AM,10:35PM,London,Rijeka,2024/04/09,2024-01-15
+48,147,pounds,True,1,KLM. Operated by KLM Cityhopper,2:45PM,10:35PM,London,Rijeka,2024/04/09,2024-01-15
+49,147,pounds,True,1,KLM. Operated by KLM Cityhopper,5:10PM,10:35PM,London,Rijeka,2024/04/09,2024-01-15
+50,36,pounds,False,Nonstop,Wizz Air,9:30AM,10:30AM,Dresden,London,2024/04/11,2024-01-15
+51,67,pounds,True,Nonstop,British Airways,8:55PM,10:05PM,Dresden,London,2024/04/11,2024-01-15
+52,84,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,1:15PM,5:05PM,Dresden,London,2024/04/11,2024-01-15
+53,43,pounds,False,Nonstop,Wizz Air,3:35PM,4:35PM,Dresden,London,2024/04/11,2024-01-15
+54,49,pounds,False,Nonstop,easyJet,9:55PM,11:00PM,Dresden,London,2024/04/11,2024-01-15
+55,63,pounds,False,1,easyJet and Wizz Air,11:40AM,7:45PM,Dresden,London,2024/04/11,2024-01-15
+56,65,pounds,True,Nonstop,British Airways,9:35PM,10:45PM,Dresden,London,2024/04/11,2024-01-15
+57,66,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,4:00PM,4:50PM,Dresden,London,2024/04/11,2024-01-15
+58,67,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,5:50PM,6:40PM,Dresden,London,2024/04/11,2024-01-15
+59,72,pounds,False,1,easyJet,3:30PM,10:15PM,Dresden,London,2024/04/11,2024-01-15
+60,74,pounds,False,Nonstop,Ryanair,9:45AM,10:35AM,Dresden,London,2024/04/11,2024-01-15
+61,81,pounds,True,Nonstop,British Airways,7:05AM,8:20AM,Dresden,London,2024/04/11,2024-01-15
+62,83,pounds,False,1,easyJet,11:40AM,7:35PM,Dresden,London,2024/04/11,2024-01-15
+63,84,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,6:05AM,3:45PM,Dresden,London,2024/04/11,2024-01-15
+64,84,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,6:05AM,5:05PM,Dresden,London,2024/04/11,2024-01-15
+65,84,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,6:05AM,6:30PM,Dresden,London,2024/04/11,2024-01-15
+66,84,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,6:05AM,7:40PM,Dresden,London,2024/04/11,2024-01-15
+67,84,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,1:15PM,6:30PM,Dresden,London,2024/04/11,2024-01-15
+68,84,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,1:15PM,7:40PM,Dresden,London,2024/04/11,2024-01-15
+69,84,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,1:15PM,8:45PM,Dresden,London,2024/04/11,2024-01-15
+70,84,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,1:15PM,10:40PM,Dresden,London,2024/04/11,2024-01-15
+71,90,pounds,True,1,Lufthansa,3:30PM,6:40PM,Dresden,London,2024/04/11,2024-01-15
+72,90,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,3:30PM,6:40PM,Dresden,London,2024/04/11,2024-01-15
+73,90,pounds,True,1,Lufthansa,3:30PM,10:10PM,Dresden,London,2024/04/11,2024-01-15
+74,95,pounds,False,1,Eurowings,8:55AM,4:25PM,Dresden,London,2024/04/11,2024-01-15
+75,25,pounds,False,Nonstop,easyJet,6:25PM,9:25PM,London,Dresden,2024/04/11,2024-01-15
+76,29,pounds,False,Nonstop,Wizz Air,12:05PM,3:00PM,London,Dresden,2024/04/11,2024-01-15
+77,33,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,5:15PM,8:05PM,London,Dresden,2024/04/11,2024-01-15
+78,70,pounds,True,Nonstop,British Airways,5:45PM,8:45PM,London,Dresden,2024/04/11,2024-01-15
+79,26,pounds,False,Nonstop,Wizz Air,6:00AM,8:55AM,London,Dresden,2024/04/11,2024-01-15
+80,37,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,7:05PM,9:55PM,London,Dresden,2024/04/11,2024-01-15
+81,54,pounds,False,1,easyJet,9:25AM,6:50PM,London,Dresden,2024/04/11,2024-01-15
+82,62,pounds,False,1,Wizz Air and easyJet,8:50AM,6:50PM,London,Dresden,2024/04/11,2024-01-15
+83,67,pounds,False,1,easyJet and Wizz Air,6:30PM,7:40AM,London,Dresden,2024/04/11,2024-01-15
+84,69,pounds,False,1,easyJet and Wizz Air,8:25PM,7:40AM,London,Dresden,2024/04/11,2024-01-15
+85,74,pounds,False,Nonstop,Ryanair,6:30AM,9:20AM,London,Dresden,2024/04/11,2024-01-15
+86,77,pounds,False,1,easyJet,8:25AM,3:00PM,London,Dresden,2024/04/11,2024-01-15
+87,86,pounds,True,1,LOT,6:30AM,5:20PM,London,Dresden,2024/04/11,2024-01-15
+88,86,pounds,True,1,LOT,6:30AM,7:05PM,London,Dresden,2024/04/11,2024-01-15
+89,86,pounds,True,1,LOT,6:10PM,9:15AM,London,Dresden,2024/04/11,2024-01-15
+90,86,pounds,True,1,LOT,6:10PM,12:10PM,London,Dresden,2024/04/11,2024-01-15
+91,90,pounds,True,Nonstop,British Airways,6:15AM,9:10AM,London,Dresden,2024/04/11,2024-01-15
+92,100,pounds,False,1,easyJet and Norwegian,4:35PM,8:20AM,London,Dresden,2024/04/11,2024-01-15
+93,101,pounds,False,1,Norwegian,8:45PM,8:20AM,London,Dresden,2024/04/11,2024-01-15
+94,103,pounds,True,Nonstop,British Airways,4:30PM,7:30PM,London,Dresden,2024/04/11,2024-01-15
+95,105,pounds,False,1,easyJet,12:45PM,8:05PM,London,Dresden,2024/04/11,2024-01-15
+96,106,pounds,True,1,SWISS,6:00AM,6:20PM,London,Dresden,2024/04/11,2024-01-15
+97,106,pounds,True,1,SWISS,8:40AM,6:20PM,London,Dresden,2024/04/11,2024-01-15
+98,106,pounds,True,1,SWISS. Operated by Helvetic,8:40AM,11:15PM,London,Dresden,2024/04/11,2024-01-15
+99,106,pounds,True,Nonstop,British Airways,8:00PM,11:00PM,London,Dresden,2024/04/11,2024-01-15
+100,171,pounds,True,1,Royal Air Maroc. Operated by Ram Express,3:25PM,12:25AM,London,Fez,2024/03/12,2024-01-15
+101,201,pounds,True,1,Royal Air Maroc. Operated by Ram Express,6:00PM,12:25AM,London,Fez,2024/03/12,2024-01-15
+102,379,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Ram Express",6:05AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+103,201,pounds,True,1,Royal Air Maroc. Operated by Ram Express,5:10PM,12:25AM,London,Fez,2024/03/12,2024-01-15
+104,379,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Ram Express",6:05AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+105,379,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Ram Express",6:05AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+106,379,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Ram Express",6:05AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+107,405,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Air Nostrum for Iberia, Ram Express",8:00AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+108,409,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Ram Express",7:20AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+109,409,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Ram Express",7:20AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+110,409,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Ram Express",7:20AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+111,409,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Ram Express",8:20AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+112,409,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Ram Express",8:20AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+113,409,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Ram Express",8:20AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+114,427,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Air Nostrum for Iberia, Ram Express",7:45AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+115,432,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Iberia Express, Ram Express",6:10AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+116,435,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by BA Euroflyer, Iberia Express, Ram Express",7:50AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+117,438,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by BA Euroflyer, Iberia Express, Ram Express",7:45AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+118,439,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Ram Express",6:30AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+119,439,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Ram Express",8:55AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+120,454,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by Iberia Express, Ram Express",6:55AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+121,454,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by BA Euroflyer, Ram Express",7:35AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+122,454,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by BA Euroflyer, Ram Express",7:35AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+123,459,pounds,True,3,Lufthansa and Royal Air Maroc. Operated by Ram Express,8:15PM,12:25AM,London,Fez,2024/03/12,2024-01-15
+124,470,pounds,True,3,"British Airways, Iberia and Royal Air Maroc. Operated by BA Cityflyer, Iberia Express, Ram Express",7:15AM,12:25AM,London,Fez,2024/03/12,2024-01-15
+125,51,pounds,False,Nonstop,Wizz Air,7:20PM,9:10PM,Ancona,London,2024/01/18,2024-01-15
+126,61,pounds,True,Nonstop,British Airways,12:50PM,2:15PM,Ancona,London,2024/01/18,2024-01-15
+127,93,pounds,False,Nonstop,Ryanair. Operated by May,10:05AM,11:25AM,Ancona,London,2024/01/18,2024-01-15
+128,51,pounds,False,Nonstop,Wizz Air,7:20AM,9:10AM,Ancona,London,2024/01/18,2024-01-15
+129,80,pounds,False,Nonstop,Vueling,5:35PM,7:15PM,Ancona,London,2024/01/18,2024-01-15
+130,84,pounds,False,1,Vueling,9:00AM,3:45PM,Ancona,London,2024/01/18,2024-01-15
+131,90,pounds,False,1,Vueling,9:00AM,9:40PM,Ancona,London,2024/01/18,2024-01-15
+132,92,pounds,True,Nonstop,British Airways,11:30AM,1:10PM,Ancona,London,2024/01/18,2024-01-15
+133,100,pounds,False,1,Vueling,7:10AM,12:05PM,Ancona,London,2024/01/18,2024-01-15
+134,100,pounds,False,1,Vueling,7:10AM,3:45PM,Ancona,London,2024/01/18,2024-01-15
+135,100,pounds,False,1,Vueling,9:50AM,3:45PM,Ancona,London,2024/01/18,2024-01-15
+136,103,pounds,False,1,Vueling,9:00AM,8:15PM,Ancona,London,2024/01/18,2024-01-15
+137,106,pounds,False,1,Vueling,7:10AM,9:40PM,Ancona,London,2024/01/18,2024-01-15
+138,106,pounds,False,1,Vueling,9:50AM,9:40PM,Ancona,London,2024/01/18,2024-01-15
+139,106,pounds,False,1,Vueling,1:50PM,9:40PM,Ancona,London,2024/01/18,2024-01-15
+140,106,pounds,False,1,Vueling,2:30PM,9:40PM,Ancona,London,2024/01/18,2024-01-15
+141,109,pounds,False,1,Vueling,6:40AM,12:15PM,Ancona,London,2024/01/18,2024-01-15
+142,109,pounds,False,1,Vueling,6:40AM,2:20PM,Ancona,London,2024/01/18,2024-01-15
+143,109,pounds,False,1,Vueling,6:40AM,6:15PM,Ancona,London,2024/01/18,2024-01-15
+144,109,pounds,True,2,ITA,10:55AM,12:00PM,Ancona,London,2024/01/18,2024-01-15
+145,111,pounds,False,1,Vueling and easyJet,7:10AM,12:05PM,Ancona,London,2024/01/18,2024-01-15
+146,111,pounds,False,1,Vueling and easyJet,7:10AM,12:10PM,Ancona,London,2024/01/18,2024-01-15
+147,112,pounds,False,1,Wizz Air and Vueling,8:15AM,3:45PM,Ancona,London,2024/01/18,2024-01-15
+148,112,pounds,False,1,Vueling,10:35PM,8:25AM,Ancona,London,2024/01/18,2024-01-15
+149,112,pounds,False,1,Vueling,10:35PM,12:05PM,Ancona,London,2024/01/18,2024-01-15
+150,27,pounds,False,Nonstop,Ryanair. Operated by May,12:05PM,3:10PM,London,Ancona,2024/01/18,2024-01-15
+151,54,pounds,False,Nonstop,Wizz Air,10:10AM,1:45PM,London,Ancona,2024/01/18,2024-01-15
+152,117,pounds,True,Nonstop,British Airways,8:40AM,11:55AM,London,Ancona,2024/01/18,2024-01-15
+153,54,pounds,False,Nonstop,Wizz Air,9:50PM,1:25AM,London,Ancona,2024/01/18,2024-01-15
+154,74,pounds,False,Nonstop,Vueling,8:10PM,11:30PM,London,Ancona,2024/01/18,2024-01-15
+155,86,pounds,True,1,Iberia. Operated by Iberia Express,11:00AM,6:15PM,London,Ancona,2024/01/18,2024-01-15
+156,86,pounds,True,1,Iberia. Operated by Iberia Express,11:00AM,7:40PM,London,Ancona,2024/01/18,2024-01-15
+157,86,pounds,True,1,Iberia. Operated by Iberia Express,11:00AM,12:05AM,London,Ancona,2024/01/18,2024-01-15
+158,87,pounds,True,Nonstop,British Airways,6:25PM,10:05PM,London,Ancona,2024/01/18,2024-01-15
+159,91,pounds,True,1,Iberia,11:25AM,7:40PM,London,Ancona,2024/01/18,2024-01-15
+160,91,pounds,True,1,Iberia,11:25AM,12:05AM,London,Ancona,2024/01/18,2024-01-15
+161,102,pounds,False,1,Vueling,4:05PM,8:10AM,London,Ancona,2024/01/18,2024-01-15
+162,102,pounds,False,1,Vueling,4:25PM,8:10AM,London,Ancona,2024/01/18,2024-01-15
+163,103,pounds,False,1,easyJet and Vueling,6:50AM,9:50PM,London,Ancona,2024/01/18,2024-01-15
+164,112,pounds,True,2,ITA,6:45AM,6:55PM,London,Ancona,2024/01/18,2024-01-15
+165,112,pounds,True,2,ITA,6:45AM,6:55PM,London,Ancona,2024/01/18,2024-01-15
+166,112,pounds,True,2,ITA,6:45AM,6:55PM,London,Ancona,2024/01/18,2024-01-15
+167,112,pounds,True,2,ITA,6:45AM,6:55PM,London,Ancona,2024/01/18,2024-01-15
+168,112,pounds,True,2,ITA,6:45AM,6:55PM,London,Ancona,2024/01/18,2024-01-15
+169,112,pounds,True,2,ITA,6:45AM,6:55PM,London,Ancona,2024/01/18,2024-01-15
+170,112,pounds,True,2,ITA,6:45AM,10:50PM,London,Ancona,2024/01/18,2024-01-15
+171,112,pounds,True,2,ITA,6:45AM,10:50PM,London,Ancona,2024/01/18,2024-01-15
+172,112,pounds,True,2,ITA,6:45AM,10:50PM,London,Ancona,2024/01/18,2024-01-15
+173,112,pounds,True,2,ITA,6:45AM,10:50PM,London,Ancona,2024/01/18,2024-01-15
+174,112,pounds,True,2,ITA,6:45AM,10:50PM,London,Ancona,2024/01/18,2024-01-15
+175,75,pounds,False,1,Vueling,6:55AM,1:50PM,Tel Aviv,London,2024/03/15,2024-01-15
+176,135,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, 6Y for Anadolujet Trademark of TK",9:45AM,3:20PM,Tel Aviv,London,2024/03/15,2024-01-15
+177,148,pounds,True,1,Aegean,5:20AM,11:10AM,Tel Aviv,London,2024/03/15,2024-01-15
+178,286,pounds,True,Nonstop,El Al,9:15AM,12:35PM,Tel Aviv,London,2024/03/15,2024-01-15
+179,60,pounds,False,1,Wizz Air and easyJet,11:55AM,10:05PM,Tel Aviv,London,2024/03/15,2024-01-15
+180,61,pounds,False,1,Wizz Air and Vueling,9:55PM,8:35AM,Tel Aviv,London,2024/03/15,2024-01-15
+181,61,pounds,False,1,Wizz Air,9:55PM,9:10AM,Tel Aviv,London,2024/03/15,2024-01-15
+182,63,pounds,False,1,Wizz Air,10:25PM,8:45AM,Tel Aviv,London,2024/03/15,2024-01-15
+183,65,pounds,False,1,Wizz Air,10:25PM,7:55AM,Tel Aviv,London,2024/03/15,2024-01-15
+184,66,pounds,False,1,Wizz Air,10:05AM,8:50PM,Tel Aviv,London,2024/03/15,2024-01-15
+185,67,pounds,False,1,Wizz Air,11:55AM,8:10PM,Tel Aviv,London,2024/03/15,2024-01-15
+186,68,pounds,False,1,Wizz Air and easyJet,11:55AM,7:05PM,Tel Aviv,London,2024/03/15,2024-01-15
+187,70,pounds,False,1,Wizz Air and easyJet,11:55AM,9:50PM,Tel Aviv,London,2024/03/15,2024-01-15
+188,75,pounds,False,1,Wizz Air,9:25AM,6:55PM,Tel Aviv,London,2024/03/15,2024-01-15
+189,76,pounds,False,1,Vueling and easyJet,6:55AM,11:35PM,Tel Aviv,London,2024/03/15,2024-01-15
+190,77,pounds,False,1,Wizz Air and easyJet,1:40PM,11:25PM,Tel Aviv,London,2024/03/15,2024-01-15
+191,80,pounds,False,1,Wizz Air,9:25AM,4:50PM,Tel Aviv,London,2024/03/15,2024-01-15
+192,81,pounds,False,1,TAROM and Wizz Air,12:20AM,8:40AM,Tel Aviv,London,2024/03/15,2024-01-15
+193,82,pounds,False,1,Wizz Air and easyJet,9:55PM,12:50PM,Tel Aviv,London,2024/03/15,2024-01-15
+194,84,pounds,False,1,Vueling and easyJet,6:55AM,9:05PM,Tel Aviv,London,2024/03/15,2024-01-15
+195,85,pounds,False,1,Wizz Air,10:55AM,7:15PM,Tel Aviv,London,2024/03/15,2024-01-15
+196,90,pounds,False,1,Vueling,6:55AM,3:45PM,Tel Aviv,London,2024/03/15,2024-01-15
+197,91,pounds,False,1,Wizz Air,12:00PM,8:40PM,Tel Aviv,London,2024/03/15,2024-01-15
+198,91,pounds,False,1,Vueling and easyJet,6:55AM,10:15PM,Tel Aviv,London,2024/03/15,2024-01-15
+199,93,pounds,False,1,easyJet,1:05PM,6:35PM,Tel Aviv,London,2024/03/15,2024-01-15
+200,50,pounds,False,1,Wizz Air,9:35PM,8:30AM,London,Tel Aviv,2024/03/15,2024-01-15
+201,190,pounds,True,1,LOT,6:10PM,3:45AM,London,Tel Aviv,2024/03/15,2024-01-15
+202,242,pounds,True,Nonstop,El Al,7:50AM,2:40PM,London,Tel Aviv,2024/03/15,2024-01-15
+203,50,pounds,False,1,Wizz Air,7:35PM,8:30AM,London,Tel Aviv,2024/03/15,2024-01-15
+204,50,pounds,False,1,Wizz Air,9:35PM,7:00PM,London,Tel Aviv,2024/03/15,2024-01-15
+205,52,pounds,False,1,Wizz Air,8:50AM,9:30PM,London,Tel Aviv,2024/03/15,2024-01-15
+206,56,pounds,False,1,Wizz Air,9:25AM,9:30PM,London,Tel Aviv,2024/03/15,2024-01-15
+207,62,pounds,False,1,Wizz Air,8:50PM,11:05AM,London,Tel Aviv,2024/03/15,2024-01-15
+208,65,pounds,False,1,Wizz Air,7:55PM,10:05AM,London,Tel Aviv,2024/03/15,2024-01-15
+209,66,pounds,False,2,easyJet and Wizz Air,3:00PM,8:30AM,London,Tel Aviv,2024/03/15,2024-01-15
+210,68,pounds,False,1,easyJet and Wizz Air,5:35PM,11:05AM,London,Tel Aviv,2024/03/15,2024-01-15
+211,68,pounds,False,1,easyJet and Wizz Air,7:50PM,11:05AM,London,Tel Aviv,2024/03/15,2024-01-15
+212,68,pounds,False,1,easyJet,3:00PM,6:10PM,London,Tel Aviv,2024/03/15,2024-01-15
+213,68,pounds,False,1,easyJet,5:35PM,6:10PM,London,Tel Aviv,2024/03/15,2024-01-15
+214,68,pounds,False,1,easyJet,7:50PM,6:10PM,London,Tel Aviv,2024/03/15,2024-01-15
+215,74,pounds,False,1,easyJet and Wizz Air,5:30PM,11:05AM,London,Tel Aviv,2024/03/15,2024-01-15
+216,74,pounds,False,1,easyJet,5:30PM,6:10PM,London,Tel Aviv,2024/03/15,2024-01-15
+217,81,pounds,False,1,Wizz Air,9:45AM,7:00PM,London,Tel Aviv,2024/03/15,2024-01-15
+218,81,pounds,False,2,easyJet and Wizz Air,8:10PM,8:30AM,London,Tel Aviv,2024/03/15,2024-01-15
+219,87,pounds,False,1,easyJet,12:55PM,6:10PM,London,Tel Aviv,2024/03/15,2024-01-15
+220,90,pounds,False,1,Wizz Air,7:45PM,9:05AM,London,Tel Aviv,2024/03/15,2024-01-15
+221,91,pounds,False,2,Wizz Air and Pegasus,6:25PM,9:10AM,London,Tel Aviv,2024/03/15,2024-01-15
+222,92,pounds,False,1,Wizz Air,9:45PM,8:05AM,London,Tel Aviv,2024/03/15,2024-01-15
+223,94,pounds,False,1,easyJet,6:25PM,1:00PM,London,Tel Aviv,2024/03/15,2024-01-15
+224,98,pounds,False,1,easyJet,8:00PM,1:00PM,London,Tel Aviv,2024/03/15,2024-01-15
+225,15,pounds,False,Nonstop,Ryanair,9:15PM,10:45PM,Stockholm,London,2024/03/14,2024-01-15
+226,37,pounds,False,Nonstop,Scandinavian Airlines. Operated by Sas Connect,4:15PM,5:55PM,Stockholm,London,2024/03/14,2024-01-15
+227,39,pounds,True,Nonstop,British Airways,3:05PM,4:50PM,Stockholm,London,2024/03/14,2024-01-15
+228,46,pounds,False,Nonstop,Norwegian,2:45PM,4:20PM,Stockholm,London,2024/03/14,2024-01-15
+229,22,pounds,False,Nonstop,Ryanair,10:15AM,11:45AM,Stockholm,London,2024/03/14,2024-01-15
+230,37,pounds,False,Nonstop,Scandinavian Airlines. Operated by Sas Connect,7:30AM,9:20AM,Stockholm,London,2024/03/14,2024-01-15
+231,37,pounds,False,Nonstop,Scandinavian Airlines. Operated by Sas Connect,7:40PM,9:20PM,Stockholm,London,2024/03/14,2024-01-15
+232,38,pounds,True,Nonstop,British Airways,8:10PM,9:50PM,Stockholm,London,2024/03/14,2024-01-15
+233,38,pounds,False,Nonstop,Norwegian,7:00AM,8:35AM,Stockholm,London,2024/03/14,2024-01-15
+234,39,pounds,True,Nonstop,British Airways,6:45AM,8:45AM,Stockholm,London,2024/03/14,2024-01-15
+235,39,pounds,True,Nonstop,British Airways,6:00PM,7:40PM,Stockholm,London,2024/03/14,2024-01-15
+236,46,pounds,False,Nonstop,Norwegian,5:55PM,7:30PM,Stockholm,London,2024/03/14,2024-01-15
+237,48,pounds,False,1,Scandinavian Airlines. Operated by Sas Connect,6:00AM,9:35AM,Stockholm,London,2024/03/14,2024-01-15
+238,48,pounds,False,1,Scandinavian Airlines. Operated by Sas Connect,7:00AM,2:35PM,Stockholm,London,2024/03/14,2024-01-15
+239,48,pounds,False,1,Scandinavian Airlines. Operated by Sas Connect,8:15AM,2:35PM,Stockholm,London,2024/03/14,2024-01-15
+240,48,pounds,False,1,Scandinavian Airlines,8:15AM,4:25PM,Stockholm,London,2024/03/14,2024-01-15
+241,48,pounds,False,1,Scandinavian Airlines. Operated by Sas Connect,8:45AM,2:35PM,Stockholm,London,2024/03/14,2024-01-15
+242,48,pounds,False,1,Scandinavian Airlines,8:45AM,4:25PM,Stockholm,London,2024/03/14,2024-01-15
+243,54,pounds,False,Nonstop,Scandinavian Airlines. Operated by Sas Connect,6:10PM,7:55PM,Stockholm,London,2024/03/14,2024-01-15
+244,54,pounds,False,Nonstop,Norwegian,10:45AM,12:20PM,Stockholm,London,2024/03/14,2024-01-15
+245,60,pounds,False,1,Scandinavian Airlines. Operated by Sas Connect,9:15AM,4:00PM,Stockholm,London,2024/03/14,2024-01-15
+246,60,pounds,False,1,Scandinavian Airlines. Operated by Sas Connect,12:20PM,9:40PM,Stockholm,London,2024/03/14,2024-01-15
+247,60,pounds,False,1,"Scandinavian Airlines. Operated by Sas Connect, Sas Connect",4:15PM,7:30PM,Stockholm,London,2024/03/14,2024-01-15
+248,60,pounds,False,1,"Scandinavian Airlines. Operated by Sas Connect, Sas Connect",4:15PM,9:40PM,Stockholm,London,2024/03/14,2024-01-15
+249,60,pounds,False,1,"Scandinavian Airlines. Operated by Sas Connect, Sas Connect",5:10PM,9:40PM,Stockholm,London,2024/03/14,2024-01-15
+250,20,pounds,False,Nonstop,Ryanair,5:25PM,8:50PM,London,Stockholm,2024/03/14,2024-01-15
+251,44,pounds,False,Nonstop,Norwegian,5:00PM,8:25PM,London,Stockholm,2024/03/14,2024-01-15
+252,55,pounds,True,Nonstop,British Airways,1:35PM,5:10PM,London,Stockholm,2024/03/14,2024-01-15
+253,59,pounds,False,Nonstop,Scandinavian Airlines. Operated by Sas Connect,10:20AM,1:55PM,London,Stockholm,2024/03/14,2024-01-15
+254,20,pounds,False,Nonstop,Ryanair,6:25AM,9:50AM,London,Stockholm,2024/03/14,2024-01-15
+255,44,pounds,False,Nonstop,Norwegian,8:10PM,11:30PM,London,Stockholm,2024/03/14,2024-01-15
+256,52,pounds,False,Nonstop,Norwegian,9:15AM,12:40PM,London,Stockholm,2024/03/14,2024-01-15
+257,52,pounds,False,Nonstop,Norwegian,1:00PM,4:25PM,London,Stockholm,2024/03/14,2024-01-15
+258,54,pounds,True,Nonstop,British Airways,7:40PM,11:15PM,London,Stockholm,2024/03/14,2024-01-15
+259,55,pounds,True,Nonstop,British Airways. Operated by Finnair for British Airways,7:10AM,10:40AM,London,Stockholm,2024/03/14,2024-01-15
+260,55,pounds,True,Nonstop,British Airways,3:40PM,7:15PM,London,Stockholm,2024/03/14,2024-01-15
+261,59,pounds,False,Nonstop,Scandinavian Airlines. Operated by Sas Connect,6:40AM,10:10AM,London,Stockholm,2024/03/14,2024-01-15
+262,59,pounds,False,Nonstop,Scandinavian Airlines. Operated by Sas Connect,1:55PM,5:30PM,London,Stockholm,2024/03/14,2024-01-15
+263,59,pounds,False,Nonstop,Scandinavian Airlines. Operated by Sas Connect,6:05PM,9:40PM,London,Stockholm,2024/03/14,2024-01-15
+264,59,pounds,False,Nonstop,Scandinavian Airlines. Operated by Sas Connect,7:00PM,10:30PM,London,Stockholm,2024/03/14,2024-01-15
+265,59,pounds,False,Nonstop,Scandinavian Airlines. Operated by Sas Connect,9:05PM,12:30AM,London,Stockholm,2024/03/14,2024-01-15
+266,65,pounds,False,1,Vueling,4:05PM,10:50AM,London,Stockholm,2024/03/14,2024-01-15
+267,72,pounds,False,1,Vueling,4:25PM,10:50AM,London,Stockholm,2024/03/14,2024-01-15
+268,72,pounds,False,1,Vueling,7:35PM,10:50AM,London,Stockholm,2024/03/14,2024-01-15
+269,72,pounds,False,1,Vueling,9:05PM,10:50AM,London,Stockholm,2024/03/14,2024-01-15
+270,73,pounds,False,1,Scandinavian Airlines. Operated by Sas Connect,7:05AM,2:50PM,London,Stockholm,2024/03/14,2024-01-15
+271,73,pounds,False,1,Scandinavian Airlines. Operated by Sas Connect,7:05AM,5:10PM,London,Stockholm,2024/03/14,2024-01-15
+272,73,pounds,False,1,Scandinavian Airlines. Operated by Sas Connect,7:05AM,6:55PM,London,Stockholm,2024/03/14,2024-01-15
+273,73,pounds,False,1,Scandinavian Airlines,10:35AM,5:10PM,London,Stockholm,2024/03/14,2024-01-15
+274,73,pounds,False,1,Scandinavian Airlines,10:35AM,6:55PM,London,Stockholm,2024/03/14,2024-01-15
+275,299,pounds,True,3,"LOT, Lufthansa and Eurowings",6:45PM,11:30AM,Mazury,London,2024/04/22,2024-01-15
+276,324,pounds,True,2,LOT and SWISS. Operated by Air Baltic,6:45PM,7:25PM,Mazury,London,2024/04/22,2024-01-15
+277,325,pounds,True,2,LOT and Lufthansa,6:45PM,9:45AM,Mazury,London,2024/04/22,2024-01-15
+278,331,pounds,True,2,LOT and Lufthansa,6:45PM,9:40AM,Mazury,London,2024/04/22,2024-01-15
+279,272,pounds,True,3,"LOT, SWISS and Lufthansa",6:45PM,10:20AM,Mazury,London,2024/04/22,2024-01-15
+280,272,pounds,True,3,"LOT, SWISS and Lufthansa",6:45PM,10:20AM,Mazury,London,2024/04/22,2024-01-15
+281,298,pounds,True,3,"LOT, SWISS and Lufthansa",6:45PM,10:20AM,Mazury,London,2024/04/22,2024-01-15
+282,313,pounds,True,3,"LOT, SWISS and Lufthansa",6:45PM,10:20AM,Mazury,London,2024/04/22,2024-01-15
+283,324,pounds,True,2,LOT and SWISS,6:45PM,9:45PM,Mazury,London,2024/04/22,2024-01-15
+284,324,pounds,True,2,LOT and SWISS,6:45PM,7:30AM,Mazury,London,2024/04/22,2024-01-15
+285,324,pounds,True,2,LOT and SWISS. Operated by Helvetic,6:45PM,8:50AM,Mazury,London,2024/04/22,2024-01-15
+286,324,pounds,True,2,LOT and SWISS,6:45PM,12:30PM,Mazury,London,2024/04/22,2024-01-15
+287,325,pounds,True,2,LOT and Lufthansa,6:45PM,12:50PM,Mazury,London,2024/04/22,2024-01-15
+288,325,pounds,True,2,LOT and Lufthansa,6:45PM,3:45PM,Mazury,London,2024/04/22,2024-01-15
+289,325,pounds,True,2,LOT and Lufthansa,6:45PM,5:05PM,Mazury,London,2024/04/22,2024-01-15
+290,325,pounds,True,2,LOT and Lufthansa,6:45PM,5:05PM,Mazury,London,2024/04/22,2024-01-15
+291,325,pounds,True,2,LOT and Lufthansa,6:45PM,6:30PM,Mazury,London,2024/04/22,2024-01-15
+292,325,pounds,True,2,LOT and Lufthansa,6:45PM,6:30PM,Mazury,London,2024/04/22,2024-01-15
+293,325,pounds,True,2,LOT and Lufthansa. Operated by Air Dolomiti,6:45PM,7:40PM,Mazury,London,2024/04/22,2024-01-15
+294,325,pounds,True,2,LOT and Lufthansa,6:45PM,7:40PM,Mazury,London,2024/04/22,2024-01-15
+295,325,pounds,True,2,LOT and Lufthansa,6:45PM,7:40PM,Mazury,London,2024/04/22,2024-01-15
+296,325,pounds,True,2,LOT and Lufthansa,6:45PM,8:45PM,Mazury,London,2024/04/22,2024-01-15
+297,325,pounds,True,2,LOT and Lufthansa. Operated by Air Dolomiti,6:45PM,8:45PM,Mazury,London,2024/04/22,2024-01-15
+298,325,pounds,True,2,LOT and Lufthansa,6:45PM,10:40PM,Mazury,London,2024/04/22,2024-01-15
+299,325,pounds,True,2,LOT and Lufthansa. Operated by Air Dolomiti,6:45PM,10:40PM,Mazury,London,2024/04/22,2024-01-15
+300,299,pounds,True,2,Brussels Airlines and LOT,6:50AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+301,301,pounds,True,2,Lufthansa and LOT,6:55AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+302,301,pounds,True,2,Lufthansa and LOT,7:25AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+303,308,pounds,True,2,Lufthansa and LOT,6:30AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+304,308,pounds,True,2,Lufthansa and LOT,7:30AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+305,308,pounds,True,2,Lufthansa and LOT,8:30AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+306,328,pounds,True,2,Lufthansa and LOT. Operated by Lufthansa CityLine,7:50AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+307,432,pounds,True,3,"SWISS, Lufthansa and LOT",6:00AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+308,481,pounds,True,2,Lufthansa and LOT,6:30AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+309,974,pounds,True,2,"British Airways, Lufthansa and LOT",6:55AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+310,995,pounds,True,2,"British Airways, Lufthansa and LOT. Operated by BA Cityflyer",7:05AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+311,995,pounds,True,2,"British Airways, Lufthansa and LOT. Operated by BA Cityflyer",8:10AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+312,1000,pounds,True,3,Brussels Airlines and LOT,6:50AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+313,1056,pounds,True,3,Lufthansa and LOT,6:30AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+314,1070,pounds,True,3,"SWISS, Lufthansa and LOT. Operated by Lufthansa CityLine",6:00AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+315,1075,pounds,True,3,"Brussels Airlines, Austrian and LOT",6:50AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+316,1079,pounds,True,3,"SWISS, Austrian and LOT",6:00AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+317,1217,pounds,True,2,LOT,6:30AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+318,1846,pounds,True,3,"British Airways, Austrian and LOT. Operated by BA Cityflyer",6:55AM,6:05PM,London,Mazury,2024/04/22,2024-01-15
+319,30,pounds,False,Nonstop,Ryanair,9:25PM,11:15PM,Gibraltar,London,2024/05/21,2024-01-15
+320,53,pounds,False,Nonstop,Wizz Air,11:50AM,1:45PM,Gibraltar,London,2024/05/21,2024-01-15
+321,54,pounds,False,Nonstop,easyJet,10:25AM,12:15PM,Gibraltar,London,2024/05/21,2024-01-15
+322,33,pounds,False,Nonstop,Ryanair,10:20PM,12:15AM,Gibraltar,London,2024/05/21,2024-01-15
+323,39,pounds,True,1,Vueling,6:25AM,6:55PM,Gibraltar,London,2024/05/21,2024-01-15
+324,43,pounds,True,1,Vueling,6:25AM,2:45PM,Gibraltar,London,2024/05/21,2024-01-15
+325,46,pounds,False,Nonstop,easyJet,7:35PM,9:30PM,Gibraltar,London,2024/05/21,2024-01-15
+326,49,pounds,False,Nonstop,easyJet,7:50PM,9:40PM,Gibraltar,London,2024/05/21,2024-01-15
+327,51,pounds,True,1,Air Europa. Operated by Air Europa Express,8:35AM,9:00AM,Gibraltar,London,2024/05/21,2024-01-15
+328,51,pounds,True,1,Air Europa. Operated by Air Europa Express,12:35PM,9:00AM,Gibraltar,London,2024/05/21,2024-01-15
+329,51,pounds,True,1,Air Europa. Operated by Air Europa Express,5:00PM,9:00AM,Gibraltar,London,2024/05/21,2024-01-15
+330,51,pounds,True,1,Air Europa. Operated by Air Europa Express,5:00PM,4:25PM,Gibraltar,London,2024/05/21,2024-01-15
+331,51,pounds,True,1,Air Europa. Operated by Air Europa Express,9:05PM,4:25PM,Gibraltar,London,2024/05/21,2024-01-15
+332,54,pounds,False,1,Vueling,9:40PM,8:45AM,Gibraltar,London,2024/05/21,2024-01-15
+333,54,pounds,True,1,Air Europa. Operated by Air Europa Express,8:35AM,4:25PM,Gibraltar,London,2024/05/21,2024-01-15
+334,54,pounds,True,1,Air Europa. Operated by Air Europa Express,12:35PM,4:25PM,Gibraltar,London,2024/05/21,2024-01-15
+335,54,pounds,True,1,Air Europa. Operated by Air Europa Express,9:05PM,9:00AM,Gibraltar,London,2024/05/21,2024-01-15
+336,58,pounds,False,1,Vueling,7:25PM,8:30AM,Gibraltar,London,2024/05/21,2024-01-15
+337,58,pounds,False,1,Vueling,7:25PM,8:55AM,Gibraltar,London,2024/05/21,2024-01-15
+338,58,pounds,False,1,Vueling,7:50PM,8:30AM,Gibraltar,London,2024/05/21,2024-01-15
+339,58,pounds,False,1,Vueling,7:50PM,8:55AM,Gibraltar,London,2024/05/21,2024-01-15
+340,58,pounds,False,1,Vueling,10:45PM,8:30AM,Gibraltar,London,2024/05/21,2024-01-15
+341,58,pounds,False,1,Vueling,10:45PM,8:55AM,Gibraltar,London,2024/05/21,2024-01-15
+342,58,pounds,False,1,Vueling,6:30AM,12:50PM,Gibraltar,London,2024/05/21,2024-01-15
+343,59,pounds,False,Nonstop,easyJet,1:50PM,3:40PM,Gibraltar,London,2024/05/21,2024-01-15
+344,52,pounds,False,Nonstop,Wizz Air,7:15AM,11:10AM,London,Gibraltar,2024/05/21,2024-01-15
+345,57,pounds,False,Nonstop,Ryanair,5:00PM,8:50PM,London,Gibraltar,2024/05/21,2024-01-15
+346,63,pounds,False,Nonstop,easyJet,6:45AM,10:45AM,London,Gibraltar,2024/05/21,2024-01-15
+347,114,pounds,True,Nonstop,British Airways,10:10AM,2:05PM,London,Gibraltar,2024/05/21,2024-01-15
+348,49,pounds,False,Nonstop,Ryanair,5:50PM,9:45PM,London,Gibraltar,2024/05/21,2024-01-15
+349,53,pounds,False,Nonstop,easyJet,8:25PM,12:15AM,London,Gibraltar,2024/05/21,2024-01-15
+350,55,pounds,False,Nonstop,easyJet,8:15PM,12:10AM,London,Gibraltar,2024/05/21,2024-01-15
+351,57,pounds,False,1,easyJet,7:20AM,6:10PM,London,Gibraltar,2024/05/21,2024-01-15
+352,58,pounds,False,Nonstop,easyJet,8:40AM,12:40PM,London,Gibraltar,2024/05/21,2024-01-15
+353,66,pounds,False,Nonstop,easyJet,12:10PM,4:05PM,London,Gibraltar,2024/05/21,2024-01-15
+354,66,pounds,False,Nonstop,Ryanair,8:25PM,12:20AM,London,Gibraltar,2024/05/21,2024-01-15
+355,66,pounds,False,Nonstop,Ryanair,8:20AM,12:15PM,London,Gibraltar,2024/05/21,2024-01-15
+356,69,pounds,False,Nonstop,easyJet,5:45AM,9:40AM,London,Gibraltar,2024/05/21,2024-01-15
+357,72,pounds,True,1,Vueling,7:40PM,10:25AM,London,Gibraltar,2024/05/21,2024-01-15
+358,73,pounds,True,1,"Iberia. Operated by Iberia Express, Iberia Express",8:35PM,8:30AM,London,Gibraltar,2024/05/21,2024-01-15
+359,74,pounds,True,1,Air Europa. Operated by Air Europa Express,10:00AM,8:20PM,London,Gibraltar,2024/05/21,2024-01-15
+360,76,pounds,True,1,Iberia. Operated by Iberia Express,5:10PM,8:30AM,London,Gibraltar,2024/05/21,2024-01-15
+361,76,pounds,True,1,Iberia. Operated by Iberia Express,6:45PM,8:30AM,London,Gibraltar,2024/05/21,2024-01-15
+362,76,pounds,True,1,Iberia. Operated by Iberia Express,7:10PM,8:30AM,London,Gibraltar,2024/05/21,2024-01-15
+363,76,pounds,True,1,Iberia. Operated by Iberia Express,8:10PM,8:30AM,London,Gibraltar,2024/05/21,2024-01-15
+364,78,pounds,False,Nonstop,Vueling,7:40PM,11:30PM,London,Gibraltar,2024/05/21,2024-01-15
+365,79,pounds,False,Nonstop,easyJet,7:10AM,11:05AM,London,Gibraltar,2024/05/21,2024-01-15
+366,80,pounds,False,1,easyJet and Volotea,8:15AM,8:05PM,London,Gibraltar,2024/05/21,2024-01-15
+367,81,pounds,True,1,Air Europa. Operated by Air Europa Express,10:00AM,7:50AM,London,Gibraltar,2024/05/21,2024-01-15
+368,81,pounds,True,1,Air Europa. Operated by Air Europa Express,10:00AM,11:50AM,London,Gibraltar,2024/05/21,2024-01-15
+369,76,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,6:00AM,9:10AM,Tallinn,London,2024/02/25,2024-01-15
+370,101,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,11:10AM,12:05PM,Tallinn,London,2024/02/25,2024-01-15
+371,103,pounds,True,1,Air Baltic and KLM,7:35AM,10:45AM,Tallinn,London,2024/02/25,2024-01-15
+372,128,pounds,False,1,"Scandinavian Airlines. Operated by Cityjet, Sas Connect",2:10PM,5:40PM,Tallinn,London,2024/02/25,2024-01-15
+373,76,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,6:00AM,5:00PM,Tallinn,London,2024/02/25,2024-01-15
+374,76,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,6:25PM,9:10AM,Tallinn,London,2024/02/25,2024-01-15
+375,76,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,10:05PM,9:10AM,Tallinn,London,2024/02/25,2024-01-15
+376,76,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,10:05PM,5:00PM,Tallinn,London,2024/02/25,2024-01-15
+377,93,pounds,True,1,Air Baltic and KLM. Operated by KLM Cityhopper,7:35AM,5:20PM,Tallinn,London,2024/02/25,2024-01-15
+378,93,pounds,True,1,Air Baltic and KLM. Operated by KLM Cityhopper,7:35AM,5:50PM,Tallinn,London,2024/02/25,2024-01-15
+379,93,pounds,True,1,Air Baltic and KLM. Operated by KLM Cityhopper,7:35AM,7:35PM,Tallinn,London,2024/02/25,2024-01-15
+380,99,pounds,True,1,Air Baltic,9:20PM,8:40AM,Tallinn,London,2024/02/25,2024-01-15
+381,103,pounds,True,1,Air Baltic and KLM,7:35AM,12:05PM,Tallinn,London,2024/02/25,2024-01-15
+382,103,pounds,True,1,Air Baltic and KLM,7:35AM,4:05PM,Tallinn,London,2024/02/25,2024-01-15
+383,103,pounds,True,1,Air Baltic and KLM,7:35AM,5:00PM,Tallinn,London,2024/02/25,2024-01-15
+384,103,pounds,True,1,Air Baltic and KLM. Operated by KLM Cityhopper,7:35AM,7:15PM,Tallinn,London,2024/02/25,2024-01-15
+385,109,pounds,True,1,Air Baltic and KLM. Operated by KLM Cityhopper,7:35AM,1:15PM,Tallinn,London,2024/02/25,2024-01-15
+386,115,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,6:00AM,12:35PM,Tallinn,London,2024/02/25,2024-01-15
+387,117,pounds,True,1,Air Baltic and KLM,7:35AM,8:50PM,Tallinn,London,2024/02/25,2024-01-15
+388,128,pounds,False,1,"Scandinavian Airlines. Operated by Cityjet, Sas Connect",2:10PM,7:30PM,Tallinn,London,2024/02/25,2024-01-15
+389,128,pounds,False,1,"Scandinavian Airlines. Operated by Cityjet, Sas Connect",2:10PM,9:40PM,Tallinn,London,2024/02/25,2024-01-15
+390,132,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,6:00AM,3:15PM,Tallinn,London,2024/02/25,2024-01-15
+391,132,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,6:00AM,8:40PM,Tallinn,London,2024/02/25,2024-01-15
+392,132,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,8:25AM,12:35PM,Tallinn,London,2024/02/25,2024-01-15
+393,132,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,8:25AM,5:00PM,Tallinn,London,2024/02/25,2024-01-15
+394,26,pounds,False,Nonstop,Ryanair. Operated by Lauda Europe,6:00AM,10:45AM,London,Tallinn,2024/02/25,2024-01-15
+395,100,pounds,True,1,LOT,10:25AM,5:40PM,London,Tallinn,2024/02/25,2024-01-15
+396,100,pounds,True,1,LOT,10:25AM,1:40AM,London,Tallinn,2024/02/25,2024-01-15
+397,100,pounds,True,1,LOT,6:10PM,1:40AM,London,Tallinn,2024/02/25,2024-01-15
+398,100,pounds,True,1,LOT,6:10PM,1:20PM,London,Tallinn,2024/02/25,2024-01-15
+399,106,pounds,True,1,Lufthansa,11:15AM,11:55PM,London,Tallinn,2024/02/25,2024-01-15
+400,109,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,10:20AM,12:25AM,London,Tallinn,2024/02/25,2024-01-15
+401,109,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,10:20AM,8:00AM,London,Tallinn,2024/02/25,2024-01-15
+402,109,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,10:20AM,10:10AM,London,Tallinn,2024/02/25,2024-01-15
+403,109,pounds,True,1,Lufthansa,6:30AM,5:10PM,London,Tallinn,2024/02/25,2024-01-15
+404,109,pounds,True,1,Lufthansa,6:30AM,11:55PM,London,Tallinn,2024/02/25,2024-01-15
+405,109,pounds,True,1,Lufthansa,7:30AM,5:10PM,London,Tallinn,2024/02/25,2024-01-15
+406,109,pounds,True,1,Lufthansa,7:30AM,11:55PM,London,Tallinn,2024/02/25,2024-01-15
+407,109,pounds,True,1,Lufthansa,8:30AM,5:10PM,London,Tallinn,2024/02/25,2024-01-15
+408,109,pounds,True,1,Lufthansa,8:30AM,11:55PM,London,Tallinn,2024/02/25,2024-01-15
+409,109,pounds,True,1,Lufthansa,9:30AM,5:10PM,London,Tallinn,2024/02/25,2024-01-15
+410,109,pounds,True,1,Lufthansa,9:30AM,11:55PM,London,Tallinn,2024/02/25,2024-01-15
+411,109,pounds,True,1,Lufthansa,10:30AM,11:55PM,London,Tallinn,2024/02/25,2024-01-15
+412,109,pounds,True,1,Lufthansa,11:30AM,11:55PM,London,Tallinn,2024/02/25,2024-01-15
+413,109,pounds,True,1,Lufthansa,1:30PM,11:55PM,London,Tallinn,2024/02/25,2024-01-15
+414,109,pounds,True,1,Lufthansa,3:30PM,11:55PM,London,Tallinn,2024/02/25,2024-01-15
+415,109,pounds,True,1,Lufthansa,4:30PM,11:55PM,London,Tallinn,2024/02/25,2024-01-15
+416,115,pounds,True,1,LOT,6:10PM,5:40PM,London,Tallinn,2024/02/25,2024-01-15
+417,118,pounds,True,1,KLM and Air Baltic,6:30AM,1:30PM,London,Tallinn,2024/02/25,2024-01-15
+418,125,pounds,True,1,Air Baltic,5:30PM,8:15AM,London,Tallinn,2024/02/25,2024-01-15
+419,46,pounds,False,Nonstop,easyJet,8:55AM,9:10AM,Amsterdam,London,2024/05/07,2024-01-15
+420,69,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,1:55PM,2:15PM,Amsterdam,London,2024/05/07,2024-01-15
+421,88,pounds,True,Nonstop,KLM. Operated by KLM Cityhopper,4:35PM,4:40PM,Amsterdam,London,2024/05/07,2024-01-15
+422,price,unavailable,True,Direct,,2:45PM,5:47PM,Amsterdam,London,2024/05/07,2024-01-15
+423,47,pounds,False,Nonstop,easyJet,8:15PM,8:30PM,Amsterdam,London,2024/05/07,2024-01-15
+424,53,pounds,False,Nonstop,easyJet,3:50PM,4:10PM,Amsterdam,London,2024/05/07,2024-01-15
+425,53,pounds,False,Nonstop,easyJet,8:55PM,9:10PM,Amsterdam,London,2024/05/07,2024-01-15
+426,54,pounds,False,Nonstop,easyJet,7:10AM,7:25AM,Amsterdam,London,2024/05/07,2024-01-15
+427,54,pounds,False,Nonstop,easyJet,8:45AM,9:00AM,Amsterdam,London,2024/05/07,2024-01-15
+428,54,pounds,False,Nonstop,easyJet,12:25PM,12:40PM,Amsterdam,London,2024/05/07,2024-01-15
+429,54,pounds,False,Nonstop,easyJet,3:30PM,3:45PM,Amsterdam,London,2024/05/07,2024-01-15
+430,54,pounds,False,Nonstop,easyJet,6:50PM,7:00PM,Amsterdam,London,2024/05/07,2024-01-15
+431,54,pounds,False,Nonstop,easyJet,6:55PM,7:00PM,Amsterdam,London,2024/05/07,2024-01-15
+432,54,pounds,False,Nonstop,easyJet,9:35PM,9:45PM,Amsterdam,London,2024/05/07,2024-01-15
+433,61,pounds,False,Nonstop,easyJet,11:10AM,11:15AM,Amsterdam,London,2024/05/07,2024-01-15
+434,70,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,7:15PM,7:35PM,Amsterdam,London,2024/05/07,2024-01-15
+435,75,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,10:50AM,11:10AM,Amsterdam,London,2024/05/07,2024-01-15
+436,77,pounds,True,Nonstop,British Airways,7:15AM,7:35AM,Amsterdam,London,2024/05/07,2024-01-15
+437,77,pounds,True,Nonstop,British Airways,10:15AM,10:35AM,Amsterdam,London,2024/05/07,2024-01-15
+438,77,pounds,True,Nonstop,British Airways,3:45PM,4:00PM,Amsterdam,London,2024/05/07,2024-01-15
+439,77,pounds,True,Nonstop,British Airways,9:25PM,9:40PM,Amsterdam,London,2024/05/07,2024-01-15
+440,88,pounds,True,Nonstop,KLM. Operated by KLM Cityhopper,5:15PM,5:20PM,Amsterdam,London,2024/05/07,2024-01-15
+441,88,pounds,True,Nonstop,KLM. Operated by KLM Cityhopper,6:25PM,6:35PM,Amsterdam,London,2024/05/07,2024-01-15
+442,88,pounds,True,Nonstop,KLM. Operated by KLM Cityhopper,7:25PM,7:35PM,Amsterdam,London,2024/05/07,2024-01-15
+443,88,pounds,True,Nonstop,KLM. Operated by KLM Cityhopper,8:05PM,8:15PM,Amsterdam,London,2024/05/07,2024-01-15
+444,27,pounds,False,Nonstop,easyJet,12:45PM,2:55PM,London,Amsterdam,2024/05/07,2024-01-15
+445,28,pounds,False,Nonstop,easyJet,4:10PM,6:20PM,London,Amsterdam,2024/05/07,2024-01-15
+446,42,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,4:10PM,6:30PM,London,Amsterdam,2024/05/07,2024-01-15
+447,price,unavailable,True,Direct,,11:04AM,4:15PM,London,Amsterdam,2024/05/07,2024-01-15
+448,24,pounds,False,Nonstop,easyJet,6:00AM,8:20AM,London,Amsterdam,2024/05/07,2024-01-15
+449,30,pounds,False,Nonstop,easyJet,6:00AM,8:15AM,London,Amsterdam,2024/05/07,2024-01-15
+450,30,pounds,False,Nonstop,easyJet,11:45AM,1:50PM,London,Amsterdam,2024/05/07,2024-01-15
+451,30,pounds,False,Nonstop,easyJet,5:20PM,7:35PM,London,Amsterdam,2024/05/07,2024-01-15
+452,30,pounds,False,Nonstop,easyJet,7:35PM,9:35PM,London,Amsterdam,2024/05/07,2024-01-15
+453,31,pounds,False,Nonstop,easyJet,12:55PM,3:15PM,London,Amsterdam,2024/05/07,2024-01-15
+454,35,pounds,False,Nonstop,easyJet,8:00AM,10:20AM,London,Amsterdam,2024/05/07,2024-01-15
+455,35,pounds,False,Nonstop,easyJet,6:10PM,8:25PM,London,Amsterdam,2024/05/07,2024-01-15
+456,39,pounds,False,Nonstop,easyJet,6:55PM,9:05PM,London,Amsterdam,2024/05/07,2024-01-15
+457,41,pounds,False,Nonstop,easyJet,9:30AM,11:45AM,London,Amsterdam,2024/05/07,2024-01-15
+458,42,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,7:35AM,10:05AM,London,Amsterdam,2024/05/07,2024-01-15
+459,44,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,10:25AM,1:05PM,London,Amsterdam,2024/05/07,2024-01-15
+460,54,pounds,True,Nonstop,British Airways,6:45AM,9:05AM,London,Amsterdam,2024/05/07,2024-01-15
+461,54,pounds,True,Nonstop,British Airways,6:15PM,8:35PM,London,Amsterdam,2024/05/07,2024-01-15
+462,55,pounds,False,1,easyJet,1:50PM,10:10PM,London,Amsterdam,2024/05/07,2024-01-15
+463,57,pounds,True,Nonstop,British Airways,7:30PM,9:50PM,London,Amsterdam,2024/05/07,2024-01-15
+464,62,pounds,True,Nonstop,British Airways,4:10PM,6:30PM,London,Amsterdam,2024/05/07,2024-01-15
+465,66,pounds,False,1,easyJet,3:55PM,10:10PM,London,Amsterdam,2024/05/07,2024-01-15
+466,68,pounds,True,Nonstop,KLM,6:30AM,8:50AM,London,Amsterdam,2024/05/07,2024-01-15
+467,68,pounds,True,Nonstop,KLM,5:10PM,7:35PM,London,Amsterdam,2024/05/07,2024-01-15
+468,68,pounds,True,Nonstop,KLM. Operated by KLM Cityhopper,8:55PM,11:10PM,London,Amsterdam,2024/05/07,2024-01-15
+469,13,pounds,False,Nonstop,Ryanair,11:45AM,1:00PM,Bydgoszcz,London,2024/01/28,2024-01-15
+470,20,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,6:25AM,7:50AM,Bydgoszcz,London,2024/01/28,2024-01-15
+471,50,pounds,False,Nonstop,Wizz Air,11:55AM,1:40PM,Bydgoszcz,London,2024/01/28,2024-01-15
+472,58,pounds,True,Nonstop,LOT,7:35AM,9:35AM,Bydgoszcz,London,2024/01/28,2024-01-15
+473,41,pounds,False,Nonstop,Wizz Air,5:50AM,7:30AM,Bydgoszcz,London,2024/01/28,2024-01-15
+474,45,pounds,False,1,Wizz Air and Norwegian,5:50AM,1:25PM,Bydgoszcz,London,2024/01/28,2024-01-15
+475,45,pounds,False,Nonstop,Wizz Air,6:20AM,7:50AM,Bydgoszcz,London,2024/01/28,2024-01-15
+476,59,pounds,False,Nonstop,Wizz Air,5:20PM,7:05PM,Bydgoszcz,London,2024/01/28,2024-01-15
+477,60,pounds,False,1,Wizz Air,5:40PM,8:50AM,Bydgoszcz,London,2024/01/28,2024-01-15
+478,63,pounds,False,Nonstop,Wizz Air,7:30PM,8:55PM,Bydgoszcz,London,2024/01/28,2024-01-15
+479,83,pounds,True,1,LOT,12:00PM,6:00PM,Bydgoszcz,London,2024/01/28,2024-01-15
+480,83,pounds,True,1,LOT,2:10PM,6:00PM,Bydgoszcz,London,2024/01/28,2024-01-15
+481,98,pounds,False,1,Wizz Air and easyJet,6:05AM,12:05PM,Bydgoszcz,London,2024/01/28,2024-01-15
+482,99,pounds,False,1,Norwegian,9:05AM,2:15PM,Bydgoszcz,London,2024/01/28,2024-01-15
+483,100,pounds,True,1,LOT,4:25PM,6:00PM,Bydgoszcz,London,2024/01/28,2024-01-15
+484,110,pounds,False,1,Wizz Air and easyJet,6:15AM,1:25PM,Bydgoszcz,London,2024/01/28,2024-01-15
+485,110,pounds,False,1,Wizz Air and easyJet,6:30AM,1:45PM,Bydgoszcz,London,2024/01/28,2024-01-15
+486,114,pounds,False,1,Norwegian,9:05AM,6:05PM,Bydgoszcz,London,2024/01/28,2024-01-15
+487,117,pounds,True,1,LOT,3:05PM,10:00PM,Bydgoszcz,London,2024/01/28,2024-01-15
+488,117,pounds,True,1,LOT,3:05PM,9:35AM,Bydgoszcz,London,2024/01/28,2024-01-15
+489,117,pounds,True,1,LOT,3:05PM,5:20PM,Bydgoszcz,London,2024/01/28,2024-01-15
+490,118,pounds,True,1,Aegean,5:45PM,11:10AM,Bydgoszcz,London,2024/01/28,2024-01-15
+491,118,pounds,True,1,Aegean,5:45PM,9:15PM,Bydgoszcz,London,2024/01/28,2024-01-15
+492,119,pounds,True,1,LOT,10:55PM,6:00PM,Bydgoszcz,London,2024/01/28,2024-01-15
+493,121,pounds,True,1,LOT,5:40AM,9:35AM,Bydgoszcz,London,2024/01/28,2024-01-15
+494,13,pounds,False,Nonstop,Ryanair,8:15AM,11:20AM,London,Bydgoszcz,2024/01/28,2024-01-15
+495,13,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,9:35PM,12:40AM,London,Bydgoszcz,2024/01/28,2024-01-15
+496,14,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,8:15AM,11:20AM,London,Bydgoszcz,2024/01/28,2024-01-15
+497,22,pounds,False,Nonstop,Wizz Air,8:35AM,11:50AM,London,Bydgoszcz,2024/01/28,2024-01-15
+498,29,pounds,False,Nonstop,Wizz Air,9:40PM,12:55AM,London,Bydgoszcz,2024/01/28,2024-01-15
+499,41,pounds,False,Nonstop,Wizz Air,8:25AM,11:55AM,London,Bydgoszcz,2024/01/28,2024-01-15
+500,59,pounds,False,Nonstop,Wizz Air,7:45PM,11:10PM,London,Bydgoszcz,2024/01/28,2024-01-15
+501,68,pounds,False,1,easyJet and Wizz Air,4:30PM,7:35AM,London,Bydgoszcz,2024/01/28,2024-01-15
+502,81,pounds,False,Nonstop,Wizz Air,2:20PM,5:45PM,London,Bydgoszcz,2024/01/28,2024-01-15
+503,92,pounds,False,1,Wizz Air and LOT,8:15PM,6:35AM,London,Bydgoszcz,2024/01/28,2024-01-15
+504,94,pounds,False,1,Norwegian and Wizz Air,8:35PM,9:50AM,London,Bydgoszcz,2024/01/28,2024-01-15
+505,98,pounds,True,Nonstop,LOT,10:25AM,1:55PM,London,Bydgoszcz,2024/01/28,2024-01-15
+506,106,pounds,False,1,Norwegian and Wizz Air,6:10PM,12:40AM,London,Bydgoszcz,2024/01/28,2024-01-15
+507,112,pounds,False,1,British Airways and Wizz Air,7:05PM,9:50AM,London,Bydgoszcz,2024/01/28,2024-01-15
+508,118,pounds,True,Nonstop,LOT,6:10PM,9:50PM,London,Bydgoszcz,2024/01/28,2024-01-15
+509,118,pounds,False,1,easyJet and Wizz Air,10:15AM,5:20PM,London,Bydgoszcz,2024/01/28,2024-01-15
+510,121,pounds,False,1,Wizz Air,9:10PM,11:45AM,London,Bydgoszcz,2024/01/28,2024-01-15
+511,121,pounds,False,2,Wizz Air,9:35PM,11:45AM,London,Bydgoszcz,2024/01/28,2024-01-15
+512,122,pounds,False,1,easyJet and LOT,2:20PM,6:35AM,London,Bydgoszcz,2024/01/28,2024-01-15
+513,123,pounds,False,1,Norwegian and Wizz Air,2:05PM,12:40AM,London,Bydgoszcz,2024/01/28,2024-01-15
+514,124,pounds,True,1,British Airways and LOT,8:35PM,9:40AM,London,Bydgoszcz,2024/01/28,2024-01-15
+515,130,pounds,False,1,easyJet and LOT,2:20PM,10:20PM,London,Bydgoszcz,2024/01/28,2024-01-15
+516,133,pounds,True,1,Brussels Airlines,6:50AM,5:15PM,London,Bydgoszcz,2024/01/28,2024-01-15
+517,133,pounds,True,1,Brussels Airlines,6:50AM,10:50PM,London,Bydgoszcz,2024/01/28,2024-01-15
+518,133,pounds,True,1,Brussels Airlines,7:10AM,5:15PM,London,Bydgoszcz,2024/01/28,2024-01-15
+519,40,pounds,False,Nonstop,Ryanair. Operated by May,10:05AM,11:25AM,Rimini,London,2024/03/07,2024-01-15
+520,56,pounds,True,Nonstop,British Airways,12:50PM,2:15PM,Rimini,London,2024/03/07,2024-01-15
+521,56,pounds,True,Nonstop,British Airways. Operated by Finnair for British Airways,6:30PM,7:50PM,Rimini,London,2024/03/07,2024-01-15
+522,60,pounds,True,Nonstop,British Airways,7:25AM,8:55AM,Rimini,London,2024/03/07,2024-01-15
+523,98,pounds,True,1,KLM. Operated by KLM Cityhopper,1:00PM,4:05PM,Rimini,London,2024/03/07,2024-01-15
+524,53,pounds,False,1,Vueling,9:00AM,9:40PM,Rimini,London,2024/03/07,2024-01-15
+525,137,pounds,True,1,SWISS,2:25PM,5:05PM,Rimini,London,2024/03/07,2024-01-15
+526,138,pounds,True,1,Air Dolomiti and Lufthansa,1:20PM,5:05PM,Rimini,London,2024/03/07,2024-01-15
+527,144,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,2:55PM,5:40PM,Rimini,London,2024/03/07,2024-01-15
+528,21,pounds,False,Nonstop,Ryanair. Operated by May,12:05PM,3:10PM,London,Rimini,2024/03/07,2024-01-15
+529,75,pounds,True,Nonstop,British Airways,8:40AM,11:55AM,London,Rimini,2024/03/07,2024-01-15
+530,80,pounds,True,Nonstop,British Airways. Operated by Finnair for British Airways,2:35PM,5:40PM,London,Rimini,2024/03/07,2024-01-15
+531,61,pounds,True,1,Vueling,7:00PM,8:15AM,London,Rimini,2024/03/07,2024-01-15
+532,62,pounds,False,1,Vueling,4:25PM,8:10AM,London,Rimini,2024/03/07,2024-01-15
+533,69,pounds,False,1,Vueling,7:35PM,8:10AM,London,Rimini,2024/03/07,2024-01-15
+534,75,pounds,True,1,Vueling,3:05PM,8:15AM,London,Rimini,2024/03/07,2024-01-15
+535,75,pounds,True,Nonstop,British Airways,7:40PM,10:50PM,London,Rimini,2024/03/07,2024-01-15
+536,87,pounds,False,1,Vueling,9:05PM,8:10AM,London,Rimini,2024/03/07,2024-01-15
+537,88,pounds,True,1,Vueling,1:00PM,8:15AM,London,Rimini,2024/03/07,2024-01-15
+538,91,pounds,False,1,Vueling,4:05PM,8:10AM,London,Rimini,2024/03/07,2024-01-15
+539,91,pounds,False,1,Vueling,12:50PM,9:50PM,London,Rimini,2024/03/07,2024-01-15
+540,91,pounds,False,1,Vueling,4:05PM,9:50PM,London,Rimini,2024/03/07,2024-01-15
+541,92,pounds,True,1,Air France,6:20AM,2:30PM,London,Rimini,2024/03/07,2024-01-15
+542,92,pounds,True,1,Air France,6:20AM,6:00PM,London,Rimini,2024/03/07,2024-01-15
+543,92,pounds,True,1,Air France,11:30AM,6:00PM,London,Rimini,2024/03/07,2024-01-15
+544,92,pounds,True,1,Air France,11:30AM,11:30PM,London,Rimini,2024/03/07,2024-01-15
+545,93,pounds,True,1,Air France,6:20AM,11:30PM,London,Rimini,2024/03/07,2024-01-15
+546,93,pounds,False,1,easyJet and Vueling,6:30PM,8:10AM,London,Rimini,2024/03/07,2024-01-15
+547,97,pounds,False,1,easyJet and Vueling,6:50AM,9:50PM,London,Rimini,2024/03/07,2024-01-15
+548,101,pounds,True,1,SWISS,6:00AM,1:40PM,London,Rimini,2024/03/07,2024-01-15
+549,101,pounds,True,1,SWISS,8:50AM,1:40PM,London,Rimini,2024/03/07,2024-01-15
+550,101,pounds,True,1,SWISS. Operated by Helvetic,6:40PM,9:55AM,London,Rimini,2024/03/07,2024-01-15
+551,101,pounds,True,1,SWISS. Operated by Helvetic,8:05PM,9:55AM,London,Rimini,2024/03/07,2024-01-15
+552,102,pounds,False,1,Vueling,9:10AM,9:50PM,London,Rimini,2024/03/07,2024-01-15
+553,105,pounds,False,1,Vueling and easyJet,8:40AM,12:25PM,Menorca,London,2024/02/18,2024-01-15
+554,174,pounds,False,1,Vueling,5:35PM,8:55PM,Menorca,London,2024/02/18,2024-01-15
+555,212,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,1:45PM,6:15PM,Menorca,London,2024/02/18,2024-01-15
+556,82,pounds,False,1,Vueling,8:45PM,9:05AM,Menorca,London,2024/02/18,2024-01-15
+557,82,pounds,False,1,Vueling,8:45PM,9:25AM,Menorca,London,2024/02/18,2024-01-15
+558,90,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,7:00AM,9:15AM,Menorca,London,2024/02/18,2024-01-15
+559,96,pounds,False,1,Vueling and easyJet,8:45PM,8:50AM,Menorca,London,2024/02/18,2024-01-15
+560,100,pounds,True,1,Vueling,9:10PM,7:50AM,Menorca,London,2024/02/18,2024-01-15
+561,100,pounds,True,1,Vueling,9:10PM,2:40PM,Menorca,London,2024/02/18,2024-01-15
+562,105,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",10:15AM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+563,105,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",11:10AM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+564,105,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",12:25PM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+565,105,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",1:50PM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+566,105,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",4:15PM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+567,105,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",4:35PM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+568,105,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",5:00PM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+569,105,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",6:30PM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+570,105,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",7:10PM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+571,107,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,7:00AM,8:25AM,Menorca,London,2024/02/18,2024-01-15
+572,107,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",8:20AM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+573,111,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",8:20AM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+574,111,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",8:20AM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+575,111,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",10:15AM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+576,111,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",10:15AM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+577,111,pounds,True,2,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express, Iberia Express for Iberia",11:10AM,10:15AM,Menorca,London,2024/02/18,2024-01-15
+578,90,pounds,False,1,Vueling,9:50AM,3:20PM,London,Menorca,2024/02/18,2024-01-15
+579,112,pounds,False,1,easyJet and Vueling,7:15AM,1:25PM,London,Menorca,2024/02/18,2024-01-15
+580,133,pounds,False,1,easyJet and Vueling,9:45AM,3:20PM,London,Menorca,2024/02/18,2024-01-15
+581,348,pounds,True,1,British Airways and Iberia. Operated by Air Nostrum for Iberia,10:15AM,3:40PM,London,Menorca,2024/02/18,2024-01-15
+582,75,pounds,False,1,easyJet and Vueling,5:45PM,8:00AM,London,Menorca,2024/02/18,2024-01-15
+583,76,pounds,False,1,Vueling,5:25PM,8:00AM,London,Menorca,2024/02/18,2024-01-15
+584,79,pounds,False,1,easyJet and Vueling,5:00PM,8:00AM,London,Menorca,2024/02/18,2024-01-15
+585,81,pounds,False,1,Vueling,5:10PM,8:00AM,London,Menorca,2024/02/18,2024-01-15
+586,91,pounds,False,1,Vueling,9:05PM,8:00AM,London,Menorca,2024/02/18,2024-01-15
+587,91,pounds,False,1,Vueling,9:40PM,8:00AM,London,Menorca,2024/02/18,2024-01-15
+588,98,pounds,False,1,easyJet and Vueling,7:15AM,3:20PM,London,Menorca,2024/02/18,2024-01-15
+589,103,pounds,False,1,Vueling,9:05PM,12:55PM,London,Menorca,2024/02/18,2024-01-15
+590,103,pounds,False,1,Vueling,9:40PM,12:55PM,London,Menorca,2024/02/18,2024-01-15
+591,107,pounds,False,1,Vueling,9:05AM,3:20PM,London,Menorca,2024/02/18,2024-01-15
+592,118,pounds,False,1,Vueling,9:50AM,4:55PM,London,Menorca,2024/02/18,2024-01-15
+593,129,pounds,False,1,easyJet and Vueling,7:15AM,4:55PM,London,Menorca,2024/02/18,2024-01-15
+594,132,pounds,True,1,Vueling,8:30AM,8:25PM,London,Menorca,2024/02/18,2024-01-15
+595,135,pounds,False,1,Vueling,9:05AM,4:55PM,London,Menorca,2024/02/18,2024-01-15
+596,137,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,5:25PM,9:45PM,London,Menorca,2024/02/18,2024-01-15
+597,137,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,6:45PM,1:10PM,London,Menorca,2024/02/18,2024-01-15
+598,137,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,6:45PM,9:45PM,London,Menorca,2024/02/18,2024-01-15
+599,137,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,7:05PM,9:45PM,London,Menorca,2024/02/18,2024-01-15
+600,137,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,7:40PM,9:45PM,London,Menorca,2024/02/18,2024-01-15
+601,154,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,5:25PM,1:10PM,London,Menorca,2024/02/18,2024-01-15
+602,154,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,7:05PM,1:10PM,London,Menorca,2024/02/18,2024-01-15
+603,28,pounds,False,Nonstop,easyJet,10:35AM,10:55AM,Rennes,London,2024/05/19,2024-01-15
+604,29,pounds,False,Nonstop,easyJet,9:55PM,10:15PM,Rennes,London,2024/05/19,2024-01-15
+605,50,pounds,False,Nonstop,Ryanair,9:00AM,9:25AM,Rennes,London,2024/05/19,2024-01-15
+606,60,pounds,False,1,Vueling,11:10PM,8:30AM,Rennes,London,2024/05/19,2024-01-15
+607,60,pounds,False,1,easyJet,2:20PM,10:55PM,Rennes,London,2024/05/19,2024-01-15
+608,64,pounds,False,1,Vueling,11:10PM,8:55AM,Rennes,London,2024/05/19,2024-01-15
+609,65,pounds,False,1,easyJet,3:40PM,10:55PM,Rennes,London,2024/05/19,2024-01-15
+610,73,pounds,False,1,easyJet,7:05AM,12:10PM,Rennes,London,2024/05/19,2024-01-15
+611,74,pounds,False,1,Vueling,11:10PM,12:15PM,Rennes,London,2024/05/19,2024-01-15
+612,79,pounds,False,1,Vueling,11:10PM,12:20PM,Rennes,London,2024/05/19,2024-01-15
+613,80,pounds,False,1,easyJet,11:20AM,5:30PM,Rennes,London,2024/05/19,2024-01-15
+614,81,pounds,False,1,easyJet,11:20AM,4:25PM,Rennes,London,2024/05/19,2024-01-15
+615,82,pounds,False,1,easyJet,7:05AM,3:25PM,Rennes,London,2024/05/19,2024-01-15
+616,85,pounds,False,1,easyJet,1:45PM,9:35PM,Rennes,London,2024/05/19,2024-01-15
+617,85,pounds,False,1,Vueling,11:10PM,1:50PM,Rennes,London,2024/05/19,2024-01-15
+618,88,pounds,False,1,easyJet,1:45PM,7:45PM,Rennes,London,2024/05/19,2024-01-15
+619,89,pounds,False,1,easyJet,11:20AM,5:30PM,Rennes,London,2024/05/19,2024-01-15
+620,92,pounds,False,1,easyJet,1:35PM,6:30PM,Rennes,London,2024/05/19,2024-01-15
+621,130,pounds,False,1,easyJet,7:05AM,2:05PM,Rennes,London,2024/05/19,2024-01-15
+622,132,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,6:25PM,10:10PM,Rennes,London,2024/05/19,2024-01-15
+623,144,pounds,True,1,Air France,6:05AM,10:30AM,Rennes,London,2024/05/19,2024-01-15
+624,154,pounds,False,1,Vueling,5:00PM,9:05PM,Rennes,London,2024/05/19,2024-01-15
+625,154,pounds,True,1,KLM. Operated by KLM Cityhopper,11:35AM,4:15PM,Rennes,London,2024/05/19,2024-01-15
+626,154,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",11:35AM,5:20PM,Rennes,London,2024/05/19,2024-01-15
+627,154,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",11:35AM,5:50PM,Rennes,London,2024/05/19,2024-01-15
+628,41,pounds,False,Nonstop,easyJet,7:40AM,10:05AM,London,Rennes,2024/05/19,2024-01-15
+629,67,pounds,False,Nonstop,easyJet,7:00PM,9:25PM,London,Rennes,2024/05/19,2024-01-15
+630,106,pounds,False,Nonstop,Ryanair,6:05AM,8:35AM,London,Rennes,2024/05/19,2024-01-15
+631,67,pounds,False,1,easyJet,6:25AM,1:15PM,London,Rennes,2024/05/19,2024-01-15
+632,67,pounds,False,1,easyJet,6:25AM,2:40PM,London,Rennes,2024/05/19,2024-01-15
+633,70,pounds,False,1,easyJet,12:25PM,10:35PM,London,Rennes,2024/05/19,2024-01-15
+634,74,pounds,False,1,easyJet,11:10AM,9:00PM,London,Rennes,2024/05/19,2024-01-15
+635,77,pounds,False,1,easyJet,8:15AM,4:10PM,London,Rennes,2024/05/19,2024-01-15
+636,79,pounds,False,1,easyJet,12:55PM,9:00PM,London,Rennes,2024/05/19,2024-01-15
+637,81,pounds,False,1,easyJet,1:50PM,10:35PM,London,Rennes,2024/05/19,2024-01-15
+638,82,pounds,False,1,easyJet,1:30PM,9:00PM,London,Rennes,2024/05/19,2024-01-15
+639,82,pounds,False,1,easyJet,1:35PM,9:00PM,London,Rennes,2024/05/19,2024-01-15
+640,83,pounds,False,1,easyJet,7:10AM,5:20PM,London,Rennes,2024/05/19,2024-01-15
+641,83,pounds,False,1,easyJet,7:05AM,4:10PM,London,Rennes,2024/05/19,2024-01-15
+642,83,pounds,False,1,easyJet,7:45AM,2:40PM,London,Rennes,2024/05/19,2024-01-15
+643,89,pounds,False,1,easyJet,9:25AM,5:20PM,London,Rennes,2024/05/19,2024-01-15
+644,144,pounds,True,1,Aegean,10:15PM,5:20PM,London,Rennes,2024/05/19,2024-01-15
+645,145,pounds,False,1,easyJet,3:25PM,10:25PM,London,Rennes,2024/05/19,2024-01-15
+646,148,pounds,False,1,Vueling,9:05PM,9:05AM,London,Rennes,2024/05/19,2024-01-15
+647,148,pounds,False,1,Vueling,9:45PM,9:05AM,London,Rennes,2024/05/19,2024-01-15
+648,153,pounds,False,1,easyJet,6:40PM,4:30PM,London,Rennes,2024/05/19,2024-01-15
+649,160,pounds,False,1,Vueling,4:50PM,9:05AM,London,Rennes,2024/05/19,2024-01-15
+650,171,pounds,True,1,Aegean,4:35PM,5:20PM,London,Rennes,2024/05/19,2024-01-15
+651,190,pounds,True,1,Aer Lingus,8:50AM,3:55PM,London,Rennes,2024/05/19,2024-01-15
+652,192,pounds,False,1,Vueling,6:20PM,9:05AM,London,Rennes,2024/05/19,2024-01-15
+653,27,pounds,False,Nonstop,Ryanair,4:15PM,5:35PM,Ostrava,London,2024/05/09,2024-01-15
+654,28,pounds,False,Nonstop,Wizz Air,7:35PM,9:10PM,Ostrava,London,2024/05/09,2024-01-15
+655,31,pounds,False,Nonstop,Wizz Air,3:35PM,4:35PM,Ostrava,London,2024/05/09,2024-01-15
+656,28,pounds,False,Nonstop,Wizz Air,6:05AM,7:40AM,Ostrava,London,2024/05/09,2024-01-15
+657,31,pounds,False,Nonstop,easyJet,9:55PM,11:00PM,Ostrava,London,2024/05/09,2024-01-15
+658,35,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,6:30AM,7:50AM,Ostrava,London,2024/05/09,2024-01-15
+659,35,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,5:50PM,6:40PM,Ostrava,London,2024/05/09,2024-01-15
+660,39,pounds,False,Nonstop,Wizz Air,9:30AM,10:30AM,Ostrava,London,2024/05/09,2024-01-15
+661,49,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,4:00PM,4:50PM,Ostrava,London,2024/05/09,2024-01-15
+662,56,pounds,True,Nonstop,British Airways,9:35PM,10:45PM,Ostrava,London,2024/05/09,2024-01-15
+663,56,pounds,False,Nonstop,Ryanair,9:45AM,10:35AM,Ostrava,London,2024/05/09,2024-01-15
+664,75,pounds,False,1,easyJet,11:40AM,7:35PM,Ostrava,London,2024/05/09,2024-01-15
+665,85,pounds,True,Nonstop,British Airways,8:55PM,10:05PM,Ostrava,London,2024/05/09,2024-01-15
+666,96,pounds,False,1,"Scandinavian Airlines. Operated by Sas Connect, Sas Connect",10:55AM,5:00PM,Ostrava,London,2024/05/09,2024-01-15
+667,96,pounds,True,Nonstop,British Airways,2:05PM,3:15PM,Ostrava,London,2024/05/09,2024-01-15
+668,99,pounds,True,1,LOT,9:55AM,5:20PM,Ostrava,London,2024/05/09,2024-01-15
+669,99,pounds,True,1,LOT,9:55AM,10:00PM,Ostrava,London,2024/05/09,2024-01-15
+670,99,pounds,True,1,LOT,12:50PM,5:20PM,Ostrava,London,2024/05/09,2024-01-15
+671,99,pounds,True,1,LOT,12:50PM,10:00PM,Ostrava,London,2024/05/09,2024-01-15
+672,99,pounds,True,1,LOT,6:00PM,9:25AM,Ostrava,London,2024/05/09,2024-01-15
+673,99,pounds,True,1,LOT,7:45PM,9:25AM,Ostrava,London,2024/05/09,2024-01-15
+674,99,pounds,True,Nonstop,British Airways,5:45PM,6:55PM,Ostrava,London,2024/05/09,2024-01-15
+675,102,pounds,True,1,LOT,2:45PM,10:00PM,Ostrava,London,2024/05/09,2024-01-15
+676,106,pounds,False,1,easyJet,8:45PM,7:00PM,Ostrava,London,2024/05/09,2024-01-15
+677,107,pounds,False,1,Norwegian,9:00AM,8:10PM,Ostrava,London,2024/05/09,2024-01-15
+678,27,pounds,False,Nonstop,Ryanair,12:40PM,3:50PM,London,Ostrava,2024/05/09,2024-01-15
+679,54,pounds,False,Nonstop,Wizz Air,8:25AM,11:45AM,London,Ostrava,2024/05/09,2024-01-15
+680,119,pounds,True,Nonstop,British Airways,5:45PM,8:45PM,London,Ostrava,2024/05/09,2024-01-15
+681,34,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,8:20AM,11:30AM,London,Ostrava,2024/05/09,2024-01-15
+682,47,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,7:05PM,9:55PM,London,Ostrava,2024/05/09,2024-01-15
+683,50,pounds,False,Nonstop,Wizz Air,9:50PM,1:10AM,London,Ostrava,2024/05/09,2024-01-15
+684,60,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,5:15PM,8:05PM,London,Ostrava,2024/05/09,2024-01-15
+685,68,pounds,False,Nonstop,Ryanair,6:30AM,9:20AM,London,Ostrava,2024/05/09,2024-01-15
+686,71,pounds,False,Nonstop,Wizz Air,6:00AM,8:55AM,London,Ostrava,2024/05/09,2024-01-15
+687,86,pounds,True,1,LOT,6:30AM,7:05PM,London,Ostrava,2024/05/09,2024-01-15
+688,86,pounds,True,1,LOT,6:10PM,9:15AM,London,Ostrava,2024/05/09,2024-01-15
+689,89,pounds,True,1,LOT,6:30AM,11:25PM,London,Ostrava,2024/05/09,2024-01-15
+690,89,pounds,False,Nonstop,easyJet,6:25PM,9:25PM,London,Ostrava,2024/05/09,2024-01-15
+691,97,pounds,False,Nonstop,Wizz Air,12:05PM,3:00PM,London,Ostrava,2024/05/09,2024-01-15
+692,104,pounds,True,1,LOT,10:15AM,5:40PM,London,Ostrava,2024/05/09,2024-01-15
+693,104,pounds,True,1,LOT,6:10PM,11:25PM,London,Ostrava,2024/05/09,2024-01-15
+694,112,pounds,True,Nonstop,British Airways,8:00PM,11:00PM,London,Ostrava,2024/05/09,2024-01-15
+695,114,pounds,False,1,easyJet,9:25AM,6:50PM,London,Ostrava,2024/05/09,2024-01-15
+696,115,pounds,True,1,Iberia. Operated by Iberia Express,10:50AM,6:55PM,London,Ostrava,2024/05/09,2024-01-15
+697,126,pounds,True,1,Iberia,9:15AM,6:55PM,London,Ostrava,2024/05/09,2024-01-15
+698,126,pounds,True,1,Iberia,10:50AM,6:55PM,London,Ostrava,2024/05/09,2024-01-15
+699,126,pounds,True,1,LOT,6:10PM,2:10PM,London,Ostrava,2024/05/09,2024-01-15
+700,131,pounds,True,1,LOT,6:30AM,12:10PM,London,Ostrava,2024/05/09,2024-01-15
+701,135,pounds,True,1,Iberia,11:30AM,6:55PM,London,Ostrava,2024/05/09,2024-01-15
+702,138,pounds,True,Nonstop,British Airways,4:30PM,7:30PM,London,Ostrava,2024/05/09,2024-01-15
+703,33,pounds,False,Nonstop,easyJet,10:40AM,12:35PM,Dubrovnik,London,2024/04/27,2024-01-15
+704,46,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,1:55PM,3:45PM,Dubrovnik,London,2024/04/27,2024-01-15
+705,77,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,11:30AM,1:20PM,Dubrovnik,London,2024/04/27,2024-01-15
+706,91,pounds,True,1,LOT,7:15PM,9:25AM,Dubrovnik,London,2024/04/27,2024-01-15
+707,95,pounds,False,1,easyJet,3:00PM,10:30AM,Dubrovnik,London,2024/04/27,2024-01-15
+708,96,pounds,False,1,easyJet,3:00PM,5:30PM,Dubrovnik,London,2024/04/27,2024-01-15
+709,102,pounds,False,1,easyJet,3:00PM,9:35PM,Dubrovnik,London,2024/04/27,2024-01-15
+710,120,pounds,True,1,Brussels Airlines,6:15PM,9:35PM,Dubrovnik,London,2024/04/27,2024-01-15
+711,126,pounds,True,1,Brussels Airlines,6:15PM,5:05PM,Dubrovnik,London,2024/04/27,2024-01-15
+712,127,pounds,True,2,Croatia,6:15AM,3:50PM,Dubrovnik,London,2024/04/27,2024-01-15
+713,127,pounds,True,2,Croatia,6:15AM,3:50PM,Dubrovnik,London,2024/04/27,2024-01-15
+714,130,pounds,False,1,Eurowings,9:55AM,4:25PM,Dubrovnik,London,2024/04/27,2024-01-15
+715,130,pounds,True,1,Austrian,1:00PM,6:40PM,Dubrovnik,London,2024/04/27,2024-01-15
+716,130,pounds,True,1,Austrian,1:00PM,9:40PM,Dubrovnik,London,2024/04/27,2024-01-15
+717,139,pounds,True,1,LOT,7:15PM,5:20PM,Dubrovnik,London,2024/04/27,2024-01-15
+718,139,pounds,True,1,LOT,7:15PM,10:00PM,Dubrovnik,London,2024/04/27,2024-01-15
+719,142,pounds,False,1,easyJet,9:30AM,11:20PM,Dubrovnik,London,2024/04/27,2024-01-15
+720,148,pounds,False,1,easyJet,9:30AM,11:00AM,Dubrovnik,London,2024/04/27,2024-01-15
+721,149,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",1:25PM,5:50PM,Dubrovnik,London,2024/04/27,2024-01-15
+722,149,pounds,True,1,KLM. Operated by KLM Cityhopper,1:25PM,8:55PM,Dubrovnik,London,2024/04/27,2024-01-15
+723,154,pounds,True,2,Croatia and Lufthansa,6:15AM,5:40PM,Dubrovnik,London,2024/04/27,2024-01-15
+724,156,pounds,True,2,Croatia and Lufthansa,6:15AM,10:40AM,Dubrovnik,London,2024/04/27,2024-01-15
+725,156,pounds,True,2,Croatia and Lufthansa,6:15AM,12:40PM,Dubrovnik,London,2024/04/27,2024-01-15
+726,156,pounds,True,2,Croatia and Lufthansa,6:15AM,12:40PM,Dubrovnik,London,2024/04/27,2024-01-15
+727,156,pounds,True,2,Croatia and Lufthansa,6:15AM,4:40PM,Dubrovnik,London,2024/04/27,2024-01-15
+728,33,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,4:10PM,8:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+729,59,pounds,False,Nonstop,easyJet,6:15AM,10:00AM,London,Dubrovnik,2024/04/27,2024-01-15
+730,94,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,6:50AM,10:40AM,London,Dubrovnik,2024/04/27,2024-01-15
+731,77,pounds,False,1,easyJet,7:15AM,2:20PM,London,Dubrovnik,2024/04/27,2024-01-15
+732,132,pounds,True,1,Croatia,4:40PM,12:20AM,London,Dubrovnik,2024/04/27,2024-01-15
+733,135,pounds,True,1,LOT,6:10PM,6:25PM,London,Dubrovnik,2024/04/27,2024-01-15
+734,138,pounds,False,1,easyJet and Vueling,7:00AM,2:10PM,London,Dubrovnik,2024/04/27,2024-01-15
+735,146,pounds,True,2,Croatia,4:40PM,8:40AM,London,Dubrovnik,2024/04/27,2024-01-15
+736,146,pounds,True,2,Croatia,4:40PM,1:15PM,London,Dubrovnik,2024/04/27,2024-01-15
+737,165,pounds,False,1,easyJet and Vueling,7:00AM,2:10PM,London,Dubrovnik,2024/04/27,2024-01-15
+738,170,pounds,True,1,LOT,6:30AM,6:25PM,London,Dubrovnik,2024/04/27,2024-01-15
+739,170,pounds,True,1,LOT,10:15AM,6:25PM,London,Dubrovnik,2024/04/27,2024-01-15
+740,171,pounds,True,1,Austrian,6:00AM,12:15PM,London,Dubrovnik,2024/04/27,2024-01-15
+741,172,pounds,True,1,Lufthansa and Croatia,6:30AM,8:35PM,London,Dubrovnik,2024/04/27,2024-01-15
+742,172,pounds,True,1,Lufthansa and Croatia,7:30AM,8:35PM,London,Dubrovnik,2024/04/27,2024-01-15
+743,172,pounds,True,1,Lufthansa and Croatia,11:30AM,8:35PM,London,Dubrovnik,2024/04/27,2024-01-15
+744,172,pounds,True,1,Lufthansa and Croatia,3:30PM,8:35PM,London,Dubrovnik,2024/04/27,2024-01-15
+745,177,pounds,True,2,Lufthansa and Croatia,6:55AM,11:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+746,177,pounds,True,2,Lufthansa and Croatia,7:25AM,11:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+747,177,pounds,True,2,Lufthansa and Croatia,4:25PM,8:40AM,London,Dubrovnik,2024/04/27,2024-01-15
+748,186,pounds,True,2,Lufthansa and Croatia,6:30AM,7:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+749,186,pounds,True,2,Lufthansa and Croatia,6:30AM,11:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+750,186,pounds,True,2,Lufthansa and Croatia,7:30AM,7:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+751,186,pounds,True,2,Lufthansa and Croatia,7:30AM,11:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+752,186,pounds,True,2,Lufthansa and Croatia,11:30AM,7:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+753,71,pounds,False,1,easyJet,8:15AM,12:20PM,Nice,London,2024/06/02,2024-01-15
+754,123,pounds,False,Nonstop,easyJet,10:05PM,11:05PM,Nice,London,2024/06/02,2024-01-15
+755,209,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,3:30PM,4:35PM,Nice,London,2024/06/02,2024-01-15
+756,102,pounds,False,1,Norwegian,9:40PM,8:05AM,Nice,London,2024/06/02,2024-01-15
+757,103,pounds,False,1,easyJet,9:15PM,10:55AM,Nice,London,2024/06/02,2024-01-15
+758,113,pounds,False,1,easyJet,1:50PM,7:45PM,Nice,London,2024/06/02,2024-01-15
+759,114,pounds,False,1,Norwegian,9:40PM,9:15AM,Nice,London,2024/06/02,2024-01-15
+760,115,pounds,False,1,easyJet,3:40PM,10:15PM,Nice,London,2024/06/02,2024-01-15
+761,116,pounds,False,1,"Scandinavian Airlines. Operated by Sas Link, Sas Connect",10:05AM,4:00PM,Nice,London,2024/06/02,2024-01-15
+762,116,pounds,False,1,"Scandinavian Airlines. Operated by Sas Link, Sas Connect",10:05AM,5:40PM,Nice,London,2024/06/02,2024-01-15
+763,121,pounds,False,1,easyJet,1:50PM,5:30PM,Nice,London,2024/06/02,2024-01-15
+764,124,pounds,True,2,Tap Air Portugal. Operated by Portugalia Airlines,12:25PM,11:10AM,Nice,London,2024/06/02,2024-01-15
+765,124,pounds,True,2,Tap Air Portugal. Operated by Portugalia Airlines,12:25PM,11:10AM,Nice,London,2024/06/02,2024-01-15
+766,124,pounds,True,2,Tap Air Portugal. Operated by Portugalia Airlines,12:25PM,11:10AM,Nice,London,2024/06/02,2024-01-15
+767,125,pounds,False,1,easyJet,5:30PM,10:05PM,Nice,London,2024/06/02,2024-01-15
+768,129,pounds,False,1,Scandinavian Airlines. Operated by Sas Connect,11:20AM,9:35PM,Nice,London,2024/06/02,2024-01-15
+769,137,pounds,True,1,Iberia. Operated by Iberia Express,6:55PM,10:10AM,Nice,London,2024/06/02,2024-01-15
+770,143,pounds,True,2,"Tap Air Portugal. Operated by Portugalia Airlines, Portugalia Airlines",12:25PM,11:10AM,Nice,London,2024/06/02,2024-01-15
+771,143,pounds,True,2,Tap Air Portugal. Operated by Portugalia Airlines,6:05PM,11:10AM,Nice,London,2024/06/02,2024-01-15
+772,144,pounds,False,1,easyJet,4:20PM,10:55AM,Nice,London,2024/06/02,2024-01-15
+773,146,pounds,False,1,easyJet,3:20PM,11:50PM,Nice,London,2024/06/02,2024-01-15
+774,146,pounds,False,1,easyJet,8:00AM,1:35PM,Nice,London,2024/06/02,2024-01-15
+775,153,pounds,False,1,easyJet,6:10PM,10:55PM,Nice,London,2024/06/02,2024-01-15
+776,153,pounds,False,1,Scandinavian Airlines,11:20AM,4:25PM,Nice,London,2024/06/02,2024-01-15
+777,153,pounds,False,1,Scandinavian Airlines. Operated by Sas Connect,11:20AM,6:30PM,Nice,London,2024/06/02,2024-01-15
+778,17,pounds,False,Nonstop,Wizz Air,5:40PM,8:50PM,London,Nice,2024/06/02,2024-01-15
+779,28,pounds,False,Nonstop,easyJet,4:00PM,7:05PM,London,Nice,2024/06/02,2024-01-15
+780,49,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,11:35AM,2:40PM,London,Nice,2024/06/02,2024-01-15
+781,28,pounds,False,Nonstop,easyJet,6:20PM,9:25PM,London,Nice,2024/06/02,2024-01-15
+782,28,pounds,False,Nonstop,easyJet,6:40PM,9:45PM,London,Nice,2024/06/02,2024-01-15
+783,33,pounds,False,Nonstop,easyJet,7:10AM,10:20AM,London,Nice,2024/06/02,2024-01-15
+784,35,pounds,False,Nonstop,easyJet,6:05AM,9:10AM,London,Nice,2024/06/02,2024-01-15
+785,35,pounds,False,Nonstop,easyJet,1:50PM,4:55PM,London,Nice,2024/06/02,2024-01-15
+786,37,pounds,False,Nonstop,easyJet,9:25AM,12:30PM,London,Nice,2024/06/02,2024-01-15
+787,41,pounds,False,Nonstop,easyJet,12:25PM,3:30PM,London,Nice,2024/06/02,2024-01-15
+788,51,pounds,False,Nonstop,Ryanair,10:50AM,2:00PM,London,Nice,2024/06/02,2024-01-15
+789,53,pounds,False,1,easyJet,6:25AM,1:20PM,London,Nice,2024/06/02,2024-01-15
+790,53,pounds,True,Nonstop,British Airways,7:20AM,10:25AM,London,Nice,2024/06/02,2024-01-15
+791,60,pounds,True,Nonstop,British Airways,4:10PM,7:15PM,London,Nice,2024/06/02,2024-01-15
+792,60,pounds,True,Nonstop,British Airways,5:40PM,8:45PM,London,Nice,2024/06/02,2024-01-15
+793,64,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,1:40PM,4:40PM,London,Nice,2024/06/02,2024-01-15
+794,64,pounds,False,1,easyJet,7:40AM,3:10PM,London,Nice,2024/06/02,2024-01-15
+795,68,pounds,False,1,easyJet,8:15AM,2:40PM,London,Nice,2024/06/02,2024-01-15
+796,72,pounds,False,1,easyJet,4:30PM,10:50PM,London,Nice,2024/06/02,2024-01-15
+797,73,pounds,True,Nonstop,British Airways. Operated by BA Cityflyer,8:35AM,11:35AM,London,Nice,2024/06/02,2024-01-15
+798,74,pounds,False,1,Vueling and easyJet,1:15PM,8:30PM,London,Nice,2024/06/02,2024-01-15
+799,74,pounds,False,1,easyJet,8:15AM,5:00PM,London,Nice,2024/06/02,2024-01-15
+800,78,pounds,False,1,Vueling and easyJet,1:15PM,10:55PM,London,Nice,2024/06/02,2024-01-15
+801,79,pounds,False,1,easyJet and Volotea,7:40AM,4:50PM,London,Nice,2024/06/02,2024-01-15
+802,79,pounds,True,Nonstop,British Airways,8:10PM,11:15PM,London,Nice,2024/06/02,2024-01-15
+803,45,pounds,False,Nonstop,easyJet,3:30PM,3:45PM,Amsterdam,London,2024/06/05,2024-01-15
+804,45,pounds,False,Nonstop,easyJet,5:35PM,5:45PM,Amsterdam,London,2024/06/05,2024-01-15
+805,45,pounds,False,Nonstop,easyJet,7:45PM,7:45PM,Amsterdam,London,2024/06/05,2024-01-15
+806,69,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,1:50PM,2:10PM,Amsterdam,London,2024/06/05,2024-01-15
+807,47,pounds,False,Nonstop,easyJet,8:45AM,9:00AM,Amsterdam,London,2024/06/05,2024-01-15
+808,47,pounds,False,Nonstop,easyJet,7:30PM,7:40PM,Amsterdam,London,2024/06/05,2024-01-15
+809,50,pounds,False,Nonstop,easyJet,12:25PM,12:40PM,Amsterdam,London,2024/06/05,2024-01-15
+810,50,pounds,False,Nonstop,easyJet,6:55PM,7:00PM,Amsterdam,London,2024/06/05,2024-01-15
+811,53,pounds,False,Nonstop,easyJet,7:05AM,7:20AM,Amsterdam,London,2024/06/05,2024-01-15
+812,53,pounds,False,Nonstop,easyJet,8:55AM,9:10AM,Amsterdam,London,2024/06/05,2024-01-15
+813,53,pounds,False,Nonstop,easyJet,11:10AM,11:15AM,Amsterdam,London,2024/06/05,2024-01-15
+814,53,pounds,False,Nonstop,easyJet,3:00PM,3:20PM,Amsterdam,London,2024/06/05,2024-01-15
+815,63,pounds,True,5,"AccesRail and Brussels Airlines. Operated by Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International",6:28AM,5:05PM,Amsterdam,London,2024/06/05,2024-01-15
+816,63,pounds,True,5,"AccesRail and Brussels Airlines. Operated by Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International",6:28AM,9:35PM,Amsterdam,London,2024/06/05,2024-01-15
+817,63,pounds,True,4,"AccesRail and Brussels Airlines. Operated by Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International",6:43AM,5:05PM,Amsterdam,London,2024/06/05,2024-01-15
+818,63,pounds,True,5,"AccesRail and Brussels Airlines. Operated by Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International",7:28AM,5:05PM,Amsterdam,London,2024/06/05,2024-01-15
+819,63,pounds,True,5,"AccesRail and Brussels Airlines. Operated by Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International",7:28AM,9:35PM,Amsterdam,London,2024/06/05,2024-01-15
+820,63,pounds,True,4,"AccesRail and Brussels Airlines. Operated by Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International",7:43AM,5:05PM,Amsterdam,London,2024/06/05,2024-01-15
+821,63,pounds,True,5,"AccesRail and Brussels Airlines. Operated by Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International",4:28PM,9:35PM,Amsterdam,London,2024/06/05,2024-01-15
+822,63,pounds,True,5,"AccesRail and Brussels Airlines. Operated by Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International",4:28PM,5:05PM,Amsterdam,London,2024/06/05,2024-01-15
+823,63,pounds,True,4,"AccesRail and Brussels Airlines. Operated by Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International",4:43PM,9:35PM,Amsterdam,London,2024/06/05,2024-01-15
+824,63,pounds,True,5,"AccesRail and Brussels Airlines. Operated by Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International",9:28PM,5:05PM,Amsterdam,London,2024/06/05,2024-01-15
+825,63,pounds,True,5,"AccesRail and Brussels Airlines. Operated by Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International, Sncb Europe - NS International",9:28PM,9:35PM,Amsterdam,London,2024/06/05,2024-01-15
+826,69,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,10:55AM,11:15AM,Amsterdam,London,2024/06/05,2024-01-15
+827,69,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,7:10PM,7:30PM,Amsterdam,London,2024/06/05,2024-01-15
+828,26,pounds,False,Nonstop,easyJet,9:30AM,11:45AM,London,Amsterdam,2024/06/05,2024-01-15
+829,26,pounds,False,Nonstop,easyJet,2:55PM,5:05PM,London,Amsterdam,2024/06/05,2024-01-15
+830,40,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,4:00PM,6:20PM,London,Amsterdam,2024/06/05,2024-01-15
+831,26,pounds,False,Nonstop,easyJet,6:00AM,8:15AM,London,Amsterdam,2024/06/05,2024-01-15
+832,27,pounds,False,Nonstop,easyJet,6:00AM,8:20AM,London,Amsterdam,2024/06/05,2024-01-15
+833,28,pounds,False,Nonstop,easyJet,3:55PM,6:15PM,London,Amsterdam,2024/06/05,2024-01-15
+834,28,pounds,False,Nonstop,easyJet,5:20PM,7:35PM,London,Amsterdam,2024/06/05,2024-01-15
+835,28,pounds,False,Nonstop,easyJet,6:10PM,8:25PM,London,Amsterdam,2024/06/05,2024-01-15
+836,28,pounds,False,Nonstop,easyJet,8:05PM,10:20PM,London,Amsterdam,2024/06/05,2024-01-15
+837,30,pounds,False,Nonstop,easyJet,11:45AM,1:50PM,London,Amsterdam,2024/06/05,2024-01-15
+838,30,pounds,False,Nonstop,easyJet,12:45PM,2:55PM,London,Amsterdam,2024/06/05,2024-01-15
+839,30,pounds,False,Nonstop,easyJet,5:10PM,7:15PM,London,Amsterdam,2024/06/05,2024-01-15
+840,30,pounds,False,Nonstop,easyJet,7:35PM,9:35PM,London,Amsterdam,2024/06/05,2024-01-15
+841,30,pounds,False,Nonstop,easyJet,8:10PM,10:20PM,London,Amsterdam,2024/06/05,2024-01-15
+842,38,pounds,False,Nonstop,easyJet,8:05AM,10:25AM,London,Amsterdam,2024/06/05,2024-01-15
+843,42,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,7:35AM,10:05AM,London,Amsterdam,2024/06/05,2024-01-15
+844,42,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,10:25AM,1:05PM,London,Amsterdam,2024/06/05,2024-01-15
+845,46,pounds,True,Nonstop,British Airways,4:05PM,6:25PM,London,Amsterdam,2024/06/05,2024-01-15
+846,46,pounds,True,Nonstop,British Airways,6:00PM,8:20PM,London,Amsterdam,2024/06/05,2024-01-15
+847,46,pounds,True,Nonstop,British Airways,7:40PM,10:00PM,London,Amsterdam,2024/06/05,2024-01-15
+848,49,pounds,True,Nonstop,British Airways,6:50AM,9:10AM,London,Amsterdam,2024/06/05,2024-01-15
+849,52,pounds,True,Nonstop,British Airways,2:30PM,4:50PM,London,Amsterdam,2024/06/05,2024-01-15
+850,63,pounds,False,1,easyJet,8:50AM,6:25PM,London,Amsterdam,2024/06/05,2024-01-15
+851,63,pounds,False,1,easyJet,8:55AM,6:25PM,London,Amsterdam,2024/06/05,2024-01-15
+852,66,pounds,False,1,easyJet,8:55AM,6:25PM,London,Amsterdam,2024/06/05,2024-01-15
+853,95,pounds,False,Nonstop,Ryanair,5:45PM,6:30PM,Bergerac,London,2024/02/17,2024-01-15
+854,101,pounds,False,1,easyJet,6:00AM,11:40AM,Bergerac,London,2024/02/17,2024-01-15
+855,142,pounds,False,Nonstop,easyJet,7:00AM,7:40AM,Bergerac,London,2024/02/17,2024-01-15
+856,119,pounds,False,1,easyJet,6:00AM,12:00PM,Bergerac,London,2024/02/17,2024-01-15
+857,130,pounds,False,2,Vueling and Wizz Air,12:55PM,8:15AM,Bergerac,London,2024/02/17,2024-01-15
+858,147,pounds,False,2,easyJet and Vueling,4:20PM,7:00AM,Bergerac,London,2024/02/17,2024-01-15
+859,152,pounds,False,1,Vueling,12:55PM,8:25AM,Bergerac,London,2024/02/17,2024-01-15
+860,159,pounds,False,2,Vueling and Transavia,12:55PM,7:00AM,Bergerac,London,2024/02/17,2024-01-15
+861,165,pounds,False,2,Vueling,12:55PM,7:00AM,Bergerac,London,2024/02/17,2024-01-15
+862,181,pounds,False,1,easyJet,4:20PM,10:30PM,Bergerac,London,2024/02/17,2024-01-15
+863,192,pounds,False,1,Vueling,12:55PM,6:45PM,Bergerac,London,2024/02/17,2024-01-15
+864,212,pounds,False,1,easyJet,1:30PM,9:45PM,Bergerac,London,2024/02/17,2024-01-15
+865,227,pounds,False,1,Vueling and easyJet,12:55PM,6:35PM,Bergerac,London,2024/02/17,2024-01-15
+866,309,pounds,False,1,Vueling,12:55PM,8:15PM,Bergerac,London,2024/02/17,2024-01-15
+867,369,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,5:55PM,9:15AM,Bergerac,London,2024/02/17,2024-01-15
+868,369,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,5:55PM,10:35AM,Bergerac,London,2024/02/17,2024-01-15
+869,369,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,5:55PM,2:55PM,Bergerac,London,2024/02/17,2024-01-15
+870,369,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,5:55PM,4:35PM,Bergerac,London,2024/02/17,2024-01-15
+871,378,pounds,True,2,"SWISS and Eurowings. Operated by Air Baltic, Helvetic",9:50AM,3:00PM,Bergerac,London,2024/02/17,2024-01-15
+872,383,pounds,True,2,Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines,6:00PM,2:55PM,Bergerac,London,2024/02/17,2024-01-15
+873,383,pounds,True,2,Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines,6:00PM,2:55PM,Bergerac,London,2024/02/17,2024-01-15
+874,397,pounds,False,1,easyJet,8:50AM,7:20PM,Bergerac,London,2024/02/17,2024-01-15
+875,408,pounds,True,1,Iberia and British Airways. Operated by Air Nostrum for Iberia,5:55PM,12:15PM,Bergerac,London,2024/02/17,2024-01-15
+876,419,pounds,True,1,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express",5:55PM,10:15AM,Bergerac,London,2024/02/17,2024-01-15
+877,429,pounds,True,1,Air France,12:55PM,9:25PM,Bergerac,London,2024/02/17,2024-01-15
+878,16,pounds,False,Nonstop,Ryanair,2:40PM,5:20PM,London,Bergerac,2024/02/17,2024-01-15
+879,23,pounds,False,Nonstop,easyJet,8:30AM,11:05AM,London,Bergerac,2024/02/17,2024-01-15
+880,78,pounds,False,1,easyJet,8:05AM,5:00PM,London,Bergerac,2024/02/17,2024-01-15
+881,83,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,5:25PM,8:35AM,London,Bergerac,2024/02/17,2024-01-15
+882,83,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,6:45PM,8:35AM,London,Bergerac,2024/02/17,2024-01-15
+883,83,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,7:05PM,8:35AM,London,Bergerac,2024/02/17,2024-01-15
+884,90,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,10:45AM,5:25PM,London,Bergerac,2024/02/17,2024-01-15
+885,96,pounds,True,1,Air France,6:20AM,12:10PM,London,Bergerac,2024/02/17,2024-01-15
+886,96,pounds,True,1,Air France,7:45PM,8:30AM,London,Bergerac,2024/02/17,2024-01-15
+887,96,pounds,True,1,Air France,7:45PM,9:50AM,London,Bergerac,2024/02/17,2024-01-15
+888,97,pounds,True,1,Air France,7:45PM,12:10PM,London,Bergerac,2024/02/17,2024-01-15
+889,100,pounds,False,1,Wizz Air and easyJet,5:55AM,1:05PM,London,Bergerac,2024/02/17,2024-01-15
+890,109,pounds,True,1,Air France,5:35PM,8:30AM,London,Bergerac,2024/02/17,2024-01-15
+891,110,pounds,True,1,Air France,3:00PM,8:30AM,London,Bergerac,2024/02/17,2024-01-15
+892,110,pounds,True,1,Air France,5:35PM,9:50AM,London,Bergerac,2024/02/17,2024-01-15
+893,113,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,3:45PM,8:35AM,London,Bergerac,2024/02/17,2024-01-15
+894,114,pounds,True,2,SWISS. Operated by Air Baltic,7:30PM,2:00PM,London,Bergerac,2024/02/17,2024-01-15
+895,114,pounds,True,2,SWISS. Operated by Air Baltic,7:30PM,2:00PM,London,Bergerac,2024/02/17,2024-01-15
+896,114,pounds,True,2,SWISS. Operated by Air Baltic,7:30PM,2:00PM,London,Bergerac,2024/02/17,2024-01-15
+897,117,pounds,False,1,easyJet,6:25AM,1:05PM,London,Bergerac,2024/02/17,2024-01-15
+898,119,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,10:45AM,8:35AM,London,Bergerac,2024/02/17,2024-01-15
+899,119,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,11:25AM,8:35AM,London,Bergerac,2024/02/17,2024-01-15
+900,120,pounds,False,1,easyJet,2:40PM,10:45AM,London,Bergerac,2024/02/17,2024-01-15
+901,121,pounds,False,1,easyJet,2:20PM,8:15PM,London,Bergerac,2024/02/17,2024-01-15
+902,124,pounds,True,1,Air France. Operated by HOP!,6:20AM,1:05PM,London,Bergerac,2024/02/17,2024-01-15
+903,74,pounds,True,1,Pegasus,7:15AM,12:00PM,Dalaman,London,2024/03/10,2024-01-15
+904,75,pounds,True,1,Pegasus,10:20AM,2:35PM,Dalaman,London,2024/03/10,2024-01-15
+905,105,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, 6Y for Anadolujet Trademark of TK",9:55AM,3:20PM,Dalaman,London,2024/03/10,2024-01-15
+906,67,pounds,True,1,Pegasus,10:20AM,10:10PM,Dalaman,London,2024/03/10,2024-01-15
+907,75,pounds,True,1,Pegasus,7:15AM,2:35PM,Dalaman,London,2024/03/10,2024-01-15
+908,75,pounds,True,1,Pegasus,2:25PM,10:10PM,Dalaman,London,2024/03/10,2024-01-15
+909,81,pounds,True,1,Pegasus,10:10PM,9:30AM,Dalaman,London,2024/03/10,2024-01-15
+910,87,pounds,True,1,Pegasus,10:10PM,12:00PM,Dalaman,London,2024/03/10,2024-01-15
+911,117,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",9:55AM,11:45AM,Dalaman,London,2024/03/10,2024-01-15
+912,181,pounds,True,1,Turkish Airlines,9:50AM,2:40PM,Dalaman,London,2024/03/10,2024-01-15
+913,181,pounds,True,1,Turkish Airlines,9:50AM,3:55PM,Dalaman,London,2024/03/10,2024-01-15
+914,181,pounds,True,1,Turkish Airlines,9:50AM,4:10PM,Dalaman,London,2024/03/10,2024-01-15
+915,181,pounds,True,1,Turkish Airlines,9:50AM,4:20PM,Dalaman,London,2024/03/10,2024-01-15
+916,181,pounds,True,1,Turkish Airlines,9:50AM,10:15PM,Dalaman,London,2024/03/10,2024-01-15
+917,181,pounds,True,1,Turkish Airlines,9:50AM,9:30AM,Dalaman,London,2024/03/10,2024-01-15
+918,181,pounds,True,1,Turkish Airlines,9:50AM,9:55AM,Dalaman,London,2024/03/10,2024-01-15
+919,181,pounds,True,1,Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines,9:55AM,10:15PM,Dalaman,London,2024/03/10,2024-01-15
+920,181,pounds,True,1,Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines,9:55AM,9:30AM,Dalaman,London,2024/03/10,2024-01-15
+921,181,pounds,True,1,Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines,9:55AM,9:55AM,Dalaman,London,2024/03/10,2024-01-15
+922,181,pounds,True,1,Turkish Airlines,1:55PM,10:15PM,Dalaman,London,2024/03/10,2024-01-15
+923,181,pounds,True,1,Turkish Airlines,1:55PM,9:30AM,Dalaman,London,2024/03/10,2024-01-15
+924,181,pounds,True,1,Turkish Airlines,1:55PM,9:55AM,Dalaman,London,2024/03/10,2024-01-15
+925,181,pounds,True,1,Turkish Airlines,1:55PM,12:55PM,Dalaman,London,2024/03/10,2024-01-15
+926,181,pounds,True,1,Turkish Airlines,1:55PM,2:40PM,Dalaman,London,2024/03/10,2024-01-15
+927,181,pounds,True,1,Turkish Airlines,1:55PM,3:50PM,Dalaman,London,2024/03/10,2024-01-15
+928,84,pounds,True,1,Pegasus,3:50PM,1:45AM,London,Dalaman,2024/03/10,2024-01-15
+929,89,pounds,True,1,Pegasus,10:45AM,9:35PM,London,Dalaman,2024/03/10,2024-01-15
+930,91,pounds,True,1,Pegasus,11:15PM,9:45AM,London,Dalaman,2024/03/10,2024-01-15
+931,154,pounds,True,1,Turkish Airlines,10:20AM,8:55PM,London,Dalaman,2024/03/10,2024-01-15
+932,83,pounds,True,1,Pegasus,10:45AM,1:45AM,London,Dalaman,2024/03/10,2024-01-15
+933,84,pounds,True,1,Pegasus,3:50PM,9:45AM,London,Dalaman,2024/03/10,2024-01-15
+934,103,pounds,True,1,Pegasus,1:15PM,1:45AM,London,Dalaman,2024/03/10,2024-01-15
+935,137,pounds,True,1,"Turkish Airlines. Operated by 6Y for Anadolujet Trademark of TK, 6Y for Anadolujet Trademark of TK",12:40PM,8:20AM,London,Dalaman,2024/03/10,2024-01-15
+936,137,pounds,True,1,"Turkish Airlines. Operated by 6Y for Anadolujet Trademark of TK, 6Y for Anadolujet Trademark of TK",4:25PM,8:20AM,London,Dalaman,2024/03/10,2024-01-15
+937,154,pounds,True,1,Turkish Airlines,10:20AM,9:05AM,London,Dalaman,2024/03/10,2024-01-15
+938,154,pounds,True,1,Turkish Airlines,10:20AM,4:25PM,London,Dalaman,2024/03/10,2024-01-15
+939,154,pounds,True,1,Turkish Airlines,1:45PM,9:05AM,London,Dalaman,2024/03/10,2024-01-15
+940,154,pounds,True,1,Turkish Airlines,1:45PM,4:25PM,London,Dalaman,2024/03/10,2024-01-15
+941,154,pounds,True,1,Turkish Airlines,1:45PM,8:55PM,London,Dalaman,2024/03/10,2024-01-15
+942,154,pounds,True,1,Turkish Airlines,4:50PM,9:05AM,London,Dalaman,2024/03/10,2024-01-15
+943,154,pounds,True,1,Turkish Airlines,4:50PM,4:25PM,London,Dalaman,2024/03/10,2024-01-15
+944,154,pounds,True,1,Turkish Airlines,4:50PM,8:55PM,London,Dalaman,2024/03/10,2024-01-15
+945,156,pounds,True,1,Turkish Airlines. Operated by 6Y for Anadolujet Trademark of TK,10:20AM,8:20AM,London,Dalaman,2024/03/10,2024-01-15
+946,156,pounds,True,1,Turkish Airlines. Operated by 6Y for Anadolujet Trademark of TK,1:45PM,8:20AM,London,Dalaman,2024/03/10,2024-01-15
+947,156,pounds,True,1,Turkish Airlines. Operated by 6Y for Anadolujet Trademark of TK,4:50PM,8:20AM,London,Dalaman,2024/03/10,2024-01-15
+948,160,pounds,True,1,Turkish Airlines,5:45PM,9:05AM,London,Dalaman,2024/03/10,2024-01-15
+949,160,pounds,True,1,Turkish Airlines,5:45PM,4:25PM,London,Dalaman,2024/03/10,2024-01-15
+950,160,pounds,True,1,Turkish Airlines,5:45PM,8:55PM,London,Dalaman,2024/03/10,2024-01-15
+951,160,pounds,True,1,Turkish Airlines,7:55PM,9:05AM,London,Dalaman,2024/03/10,2024-01-15
+952,160,pounds,True,1,Turkish Airlines,7:55PM,4:25PM,London,Dalaman,2024/03/10,2024-01-15
+953,100,pounds,False,Nonstop,easyJet,1:10PM,3:15PM,Mykonos,London,2024/05/26,2024-01-15
+954,157,pounds,True,Nonstop,British Airways,6:50PM,8:50PM,Mykonos,London,2024/05/26,2024-01-15
+955,160,pounds,True,1,Aegean,5:45PM,9:10PM,Mykonos,London,2024/05/26,2024-01-15
+956,129,pounds,False,1,Volotea and easyJet,10:05AM,11:10PM,Mykonos,London,2024/05/26,2024-01-15
+957,137,pounds,True,1,Aegean,6:00AM,9:10PM,Mykonos,London,2024/05/26,2024-01-15
+958,160,pounds,True,1,Aegean,6:00AM,11:15AM,Mykonos,London,2024/05/26,2024-01-15
+959,160,pounds,True,1,Aegean,9:10AM,9:10PM,Mykonos,London,2024/05/26,2024-01-15
+960,160,pounds,True,1,Aegean,12:00PM,9:10PM,Mykonos,London,2024/05/26,2024-01-15
+961,160,pounds,True,1,Aegean,2:50PM,9:10PM,Mykonos,London,2024/05/26,2024-01-15
+962,168,pounds,False,1,Volotea and Aegean,10:05AM,9:10PM,Mykonos,London,2024/05/26,2024-01-15
+963,169,pounds,False,1,Volotea and easyJet,10:05AM,3:40PM,Mykonos,London,2024/05/26,2024-01-15
+964,172,pounds,False,1,Aegean and easyJet,5:45PM,11:10PM,Mykonos,London,2024/05/26,2024-01-15
+965,180,pounds,False,1,Aegean and easyJet,2:50PM,11:10PM,Mykonos,London,2024/05/26,2024-01-15
+966,182,pounds,True,1,Edelweiss Air and SWISS,8:15PM,7:30AM,Mykonos,London,2024/05/26,2024-01-15
+967,182,pounds,True,1,Edelweiss Air and SWISS,8:15PM,7:55AM,Mykonos,London,2024/05/26,2024-01-15
+968,185,pounds,True,1,SKY express and Aegean,9:50PM,11:15AM,Mykonos,London,2024/05/26,2024-01-15
+969,185,pounds,True,1,Aegean,6:00AM,3:30PM,Mykonos,London,2024/05/26,2024-01-15
+970,191,pounds,False,1,Volotea and Aegean,10:05AM,3:30PM,Mykonos,London,2024/05/26,2024-01-15
+971,199,pounds,True,1,SKY express and Aegean,9:10AM,9:10PM,Mykonos,London,2024/05/26,2024-01-15
+972,199,pounds,True,1,SKY express and Aegean,2:25PM,9:10PM,Mykonos,London,2024/05/26,2024-01-15
+973,206,pounds,True,1,Aegean,5:45PM,11:15AM,Mykonos,London,2024/05/26,2024-01-15
+974,206,pounds,True,1,Aegean,8:45PM,11:15AM,Mykonos,London,2024/05/26,2024-01-15
+975,206,pounds,True,1,Aegean,8:45PM,3:30PM,Mykonos,London,2024/05/26,2024-01-15
+976,213,pounds,False,1,Aegean and easyJet,9:10AM,3:40PM,Mykonos,London,2024/05/26,2024-01-15
+977,213,pounds,True,1,Aegean,9:10AM,3:30PM,Mykonos,London,2024/05/26,2024-01-15
+978,190,pounds,False,Nonstop,easyJet,6:25AM,12:20PM,London,Mykonos,2024/05/26,2024-01-15
+979,198,pounds,True,1,Aegean,4:35PM,12:35AM,London,Mykonos,2024/05/26,2024-01-15
+980,272,pounds,True,Nonstop,British Airways,11:55AM,5:45PM,London,Mykonos,2024/05/26,2024-01-15
+981,152,pounds,True,1,Aegean,10:15PM,8:35AM,London,Mykonos,2024/05/26,2024-01-15
+982,196,pounds,True,1,Aegean,10:15PM,11:25AM,London,Mykonos,2024/05/26,2024-01-15
+983,196,pounds,True,1,Aegean,10:15PM,2:10PM,London,Mykonos,2024/05/26,2024-01-15
+984,196,pounds,True,1,Aegean,10:15PM,5:10PM,London,Mykonos,2024/05/26,2024-01-15
+985,196,pounds,True,1,Aegean,10:15PM,8:10PM,London,Mykonos,2024/05/26,2024-01-15
+986,244,pounds,False,1,Eurowings,8:05AM,4:10PM,London,Mykonos,2024/05/26,2024-01-15
+987,249,pounds,True,1,Aegean,4:35PM,8:35AM,London,Mykonos,2024/05/26,2024-01-15
+988,249,pounds,True,1,Aegean,4:35PM,11:25AM,London,Mykonos,2024/05/26,2024-01-15
+989,249,pounds,True,1,Aegean,4:35PM,2:10PM,London,Mykonos,2024/05/26,2024-01-15
+990,249,pounds,True,1,Aegean,4:35PM,5:10PM,London,Mykonos,2024/05/26,2024-01-15
+991,254,pounds,True,1,Aegean,12:15PM,8:10PM,London,Mykonos,2024/05/26,2024-01-15
+992,254,pounds,True,1,Aegean,12:15PM,12:35AM,London,Mykonos,2024/05/26,2024-01-15
+993,258,pounds,True,2,Lufthansa and Aegean,7:25AM,12:35AM,London,Mykonos,2024/05/26,2024-01-15
+994,262,pounds,True,2,Lufthansa and Aegean,11:15AM,12:35AM,London,Mykonos,2024/05/26,2024-01-15
+995,262,pounds,True,2,Lufthansa and Aegean,11:15AM,8:35AM,London,Mykonos,2024/05/26,2024-01-15
+996,262,pounds,True,2,Lufthansa and Aegean,11:15AM,2:10PM,London,Mykonos,2024/05/26,2024-01-15
+997,262,pounds,True,2,Lufthansa and Aegean,11:15AM,5:10PM,London,Mykonos,2024/05/26,2024-01-15
+998,265,pounds,True,2,Lufthansa and Aegean,7:30AM,12:35AM,London,Mykonos,2024/05/26,2024-01-15
+999,265,pounds,True,2,Lufthansa and Aegean,8:30AM,12:35AM,London,Mykonos,2024/05/26,2024-01-15
+1000,265,pounds,True,2,Lufthansa and Aegean,9:30AM,12:35AM,London,Mykonos,2024/05/26,2024-01-15
+1001,265,pounds,True,2,Lufthansa and Aegean,10:30AM,12:35AM,London,Mykonos,2024/05/26,2024-01-15
+1002,271,pounds,True,2,Lufthansa and Aegean,7:30PM,2:10PM,London,Mykonos,2024/05/26,2024-01-15
+1003,67,pounds,False,Nonstop,Wizz Air,4:20PM,6:15PM,Naples,London,2024/04/07,2024-01-15
+1004,96,pounds,False,Nonstop,easyJet,10:35AM,12:30PM,Naples,London,2024/04/07,2024-01-15
+1005,108,pounds,False,Nonstop,Ryanair. Operated by May,12:55PM,2:50PM,Naples,London,2024/04/07,2024-01-15
+1006,170,pounds,True,Nonstop,British Airways,9:20AM,11:10AM,Naples,London,2024/04/07,2024-01-15
+1007,58,pounds,False,1,easyJet and Wizz Air,11:55AM,10:35PM,Naples,London,2024/04/07,2024-01-15
+1008,80,pounds,False,1,easyJet,6:35AM,1:25PM,Naples,London,2024/04/07,2024-01-15
+1009,84,pounds,False,1,easyJet,11:55AM,5:15PM,Naples,London,2024/04/07,2024-01-15
+1010,95,pounds,False,1,easyJet,7:00AM,3:05PM,Naples,London,2024/04/07,2024-01-15
+1011,95,pounds,False,1,easyJet,6:35AM,2:05PM,Naples,London,2024/04/07,2024-01-15
+1012,99,pounds,False,1,Vueling,9:55PM,12:15PM,Naples,London,2024/04/07,2024-01-15
+1013,101,pounds,False,1,easyJet,2:00PM,9:00PM,Naples,London,2024/04/07,2024-01-15
+1014,102,pounds,False,1,Vueling,10:05AM,10:40PM,Naples,London,2024/04/07,2024-01-15
+1015,104,pounds,False,1,easyJet,2:00PM,10:15PM,Naples,London,2024/04/07,2024-01-15
+1016,104,pounds,False,1,easyJet,11:55AM,6:30PM,Naples,London,2024/04/07,2024-01-15
+1017,107,pounds,True,1,Aegean,9:40AM,9:10PM,Naples,London,2024/04/07,2024-01-15
+1018,108,pounds,False,1,easyJet and Wizz Air,9:55PM,8:10AM,Naples,London,2024/04/07,2024-01-15
+1019,109,pounds,False,1,Vueling,9:55PM,8:30AM,Naples,London,2024/04/07,2024-01-15
+1020,109,pounds,False,1,Vueling,9:55PM,12:20PM,Naples,London,2024/04/07,2024-01-15
+1021,110,pounds,False,1,easyJet,2:00PM,10:05PM,Naples,London,2024/04/07,2024-01-15
+1022,118,pounds,False,1,easyJet,9:10AM,4:10PM,Naples,London,2024/04/07,2024-01-15
+1023,119,pounds,False,1,easyJet and Vueling,3:00PM,10:40PM,Naples,London,2024/04/07,2024-01-15
+1024,119,pounds,False,1,easyJet,10:55AM,6:55PM,Naples,London,2024/04/07,2024-01-15
+1025,119,pounds,False,1,easyJet,10:55AM,8:25PM,Naples,London,2024/04/07,2024-01-15
+1026,120,pounds,False,1,easyJet,10:55AM,8:30PM,Naples,London,2024/04/07,2024-01-15
+1027,121,pounds,False,1,Vueling,9:55PM,8:55AM,Naples,London,2024/04/07,2024-01-15
+1028,39,pounds,False,Nonstop,Ryanair. Operated by May,3:15PM,6:55PM,London,Naples,2024/04/07,2024-01-15
+1029,44,pounds,False,Nonstop,Wizz Air,7:00PM,10:50PM,London,Naples,2024/04/07,2024-01-15
+1030,54,pounds,False,Nonstop,easyJet,7:10PM,10:55PM,London,Naples,2024/04/07,2024-01-15
+1031,70,pounds,True,Nonstop,British Airways,6:15PM,9:55PM,London,Naples,2024/04/07,2024-01-15
+1032,55,pounds,False,Nonstop,easyJet,6:15AM,10:00AM,London,Naples,2024/04/07,2024-01-15
+1033,62,pounds,False,1,easyJet,7:05AM,3:50PM,London,Naples,2024/04/07,2024-01-15
+1034,63,pounds,False,1,easyJet,6:20AM,12:55PM,London,Naples,2024/04/07,2024-01-15
+1035,65,pounds,False,1,Wizz Air and easyJet,8:50AM,5:55PM,London,Naples,2024/04/07,2024-01-15
+1036,77,pounds,False,Nonstop,easyJet,6:15AM,10:00AM,London,Naples,2024/04/07,2024-01-15
+1037,81,pounds,False,1,easyJet,11:35AM,10:35PM,London,Naples,2024/04/07,2024-01-15
+1038,84,pounds,False,1,Wizz Air and easyJet,8:50AM,9:15PM,London,Naples,2024/04/07,2024-01-15
+1039,86,pounds,False,1,easyJet and Volotea,5:55AM,5:00PM,London,Naples,2024/04/07,2024-01-15
+1040,88,pounds,False,1,easyJet,8:15PM,7:05PM,London,Naples,2024/04/07,2024-01-15
+1041,90,pounds,True,Nonstop,British Airways,6:35AM,10:20AM,London,Naples,2024/04/07,2024-01-15
+1042,93,pounds,False,1,Wizz Air and Volotea,8:00PM,10:20AM,London,Naples,2024/04/07,2024-01-15
+1043,94,pounds,False,1,Vueling,4:10PM,9:20AM,London,Naples,2024/04/07,2024-01-15
+1044,94,pounds,False,1,Vueling,4:50PM,9:20AM,London,Naples,2024/04/07,2024-01-15
+1045,94,pounds,False,1,Vueling,9:05PM,9:20AM,London,Naples,2024/04/07,2024-01-15
+1046,95,pounds,False,1,easyJet,7:10AM,3:30PM,London,Naples,2024/04/07,2024-01-15
+1047,96,pounds,False,1,easyJet,8:15PM,3:05PM,London,Naples,2024/04/07,2024-01-15
+1048,98,pounds,False,1,easyJet,6:05AM,3:30PM,London,Naples,2024/04/07,2024-01-15
+1049,99,pounds,False,1,Vueling,9:45PM,9:20AM,London,Naples,2024/04/07,2024-01-15
+1050,101,pounds,False,1,easyJet,11:25AM,9:15PM,London,Naples,2024/04/07,2024-01-15
+1051,107,pounds,False,1,Vueling and easyJet,7:45AM,2:50PM,London,Naples,2024/04/07,2024-01-15
+1052,109,pounds,False,1,Aegean and easyJet,10:15PM,11:25AM,London,Naples,2024/04/07,2024-01-15
+1053,33,pounds,False,Nonstop,easyJet,10:40AM,12:35PM,Dubrovnik,London,2024/04/27,2024-01-15
+1054,46,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,1:55PM,3:45PM,Dubrovnik,London,2024/04/27,2024-01-15
+1055,77,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,11:30AM,1:20PM,Dubrovnik,London,2024/04/27,2024-01-15
+1056,91,pounds,True,1,LOT,7:15PM,9:25AM,Dubrovnik,London,2024/04/27,2024-01-15
+1057,95,pounds,False,1,easyJet,3:00PM,10:30AM,Dubrovnik,London,2024/04/27,2024-01-15
+1058,96,pounds,False,1,easyJet,3:00PM,5:30PM,Dubrovnik,London,2024/04/27,2024-01-15
+1059,102,pounds,False,1,easyJet,3:00PM,9:35PM,Dubrovnik,London,2024/04/27,2024-01-15
+1060,120,pounds,True,1,Brussels Airlines,6:15PM,9:35PM,Dubrovnik,London,2024/04/27,2024-01-15
+1061,126,pounds,True,1,Brussels Airlines,6:15PM,5:05PM,Dubrovnik,London,2024/04/27,2024-01-15
+1062,127,pounds,True,2,Croatia,6:15AM,3:50PM,Dubrovnik,London,2024/04/27,2024-01-15
+1063,127,pounds,True,2,Croatia,6:15AM,3:50PM,Dubrovnik,London,2024/04/27,2024-01-15
+1064,130,pounds,False,1,Eurowings,9:55AM,4:25PM,Dubrovnik,London,2024/04/27,2024-01-15
+1065,130,pounds,True,1,Austrian,1:00PM,6:40PM,Dubrovnik,London,2024/04/27,2024-01-15
+1066,130,pounds,True,1,Austrian,1:00PM,9:40PM,Dubrovnik,London,2024/04/27,2024-01-15
+1067,139,pounds,True,1,LOT,7:15PM,5:20PM,Dubrovnik,London,2024/04/27,2024-01-15
+1068,139,pounds,True,1,LOT,7:15PM,10:00PM,Dubrovnik,London,2024/04/27,2024-01-15
+1069,142,pounds,False,1,easyJet,9:30AM,11:20PM,Dubrovnik,London,2024/04/27,2024-01-15
+1070,148,pounds,False,1,easyJet,9:30AM,11:00AM,Dubrovnik,London,2024/04/27,2024-01-15
+1071,149,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",1:25PM,5:50PM,Dubrovnik,London,2024/04/27,2024-01-15
+1072,149,pounds,True,1,KLM. Operated by KLM Cityhopper,1:25PM,8:55PM,Dubrovnik,London,2024/04/27,2024-01-15
+1073,154,pounds,True,2,Croatia and Lufthansa,6:15AM,5:40PM,Dubrovnik,London,2024/04/27,2024-01-15
+1074,156,pounds,True,2,Croatia and Lufthansa,6:15AM,10:40AM,Dubrovnik,London,2024/04/27,2024-01-15
+1075,156,pounds,True,2,Croatia and Lufthansa,6:15AM,12:40PM,Dubrovnik,London,2024/04/27,2024-01-15
+1076,156,pounds,True,2,Croatia and Lufthansa,6:15AM,12:40PM,Dubrovnik,London,2024/04/27,2024-01-15
+1077,156,pounds,True,2,Croatia and Lufthansa,6:15AM,4:40PM,Dubrovnik,London,2024/04/27,2024-01-15
+1078,33,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,4:10PM,8:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+1079,59,pounds,False,Nonstop,easyJet,6:15AM,10:00AM,London,Dubrovnik,2024/04/27,2024-01-15
+1080,94,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,6:50AM,10:40AM,London,Dubrovnik,2024/04/27,2024-01-15
+1081,77,pounds,False,1,easyJet,7:15AM,2:20PM,London,Dubrovnik,2024/04/27,2024-01-15
+1082,132,pounds,True,1,Croatia,4:40PM,12:20AM,London,Dubrovnik,2024/04/27,2024-01-15
+1083,135,pounds,True,1,LOT,6:10PM,6:25PM,London,Dubrovnik,2024/04/27,2024-01-15
+1084,138,pounds,False,1,easyJet and Vueling,7:00AM,2:10PM,London,Dubrovnik,2024/04/27,2024-01-15
+1085,146,pounds,True,2,Croatia,4:40PM,8:40AM,London,Dubrovnik,2024/04/27,2024-01-15
+1086,146,pounds,True,2,Croatia,4:40PM,1:15PM,London,Dubrovnik,2024/04/27,2024-01-15
+1087,165,pounds,False,1,easyJet and Vueling,7:00AM,2:10PM,London,Dubrovnik,2024/04/27,2024-01-15
+1088,170,pounds,True,1,LOT,6:30AM,6:25PM,London,Dubrovnik,2024/04/27,2024-01-15
+1089,170,pounds,True,1,LOT,10:15AM,6:25PM,London,Dubrovnik,2024/04/27,2024-01-15
+1090,171,pounds,True,1,Austrian,6:00AM,12:15PM,London,Dubrovnik,2024/04/27,2024-01-15
+1091,172,pounds,True,1,Lufthansa and Croatia,6:30AM,8:35PM,London,Dubrovnik,2024/04/27,2024-01-15
+1092,172,pounds,True,1,Lufthansa and Croatia,7:30AM,8:35PM,London,Dubrovnik,2024/04/27,2024-01-15
+1093,172,pounds,True,1,Lufthansa and Croatia,11:30AM,8:35PM,London,Dubrovnik,2024/04/27,2024-01-15
+1094,172,pounds,True,1,Lufthansa and Croatia,3:30PM,8:35PM,London,Dubrovnik,2024/04/27,2024-01-15
+1095,177,pounds,True,2,Lufthansa and Croatia,6:55AM,11:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+1096,177,pounds,True,2,Lufthansa and Croatia,7:25AM,11:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+1097,177,pounds,True,2,Lufthansa and Croatia,4:25PM,8:40AM,London,Dubrovnik,2024/04/27,2024-01-15
+1098,186,pounds,True,2,Lufthansa and Croatia,6:30AM,7:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+1099,186,pounds,True,2,Lufthansa and Croatia,6:30AM,11:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+1100,186,pounds,True,2,Lufthansa and Croatia,7:30AM,7:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+1101,186,pounds,True,2,Lufthansa and Croatia,7:30AM,11:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+1102,186,pounds,True,2,Lufthansa and Croatia,11:30AM,7:00PM,London,Dubrovnik,2024/04/27,2024-01-15
+1103,65,pounds,False,Nonstop,easyJet,6:40PM,7:15PM,Grenoble,London,2024/01/17,2024-01-15
+1104,69,pounds,True,1,Iberia. Operated by Iberia Express,7:00AM,5:15PM,Grenoble,London,2024/01/17,2024-01-15
+1105,91,pounds,True,Nonstop,British Airways,1:35PM,2:25PM,Grenoble,London,2024/01/17,2024-01-15
+1106,145,pounds,False,1,Vueling,8:30AM,12:25PM,Grenoble,London,2024/01/17,2024-01-15
+1107,161,pounds,True,Nonstop,British Airways,9:40AM,10:30AM,Grenoble,London,2024/01/17,2024-01-15
+1108,138,pounds,True,1,Iberia. Operated by Iberia Express,7:00AM,6:15PM,Grenoble,London,2024/01/17,2024-01-15
+1109,145,pounds,False,1,Vueling,8:30AM,2:15PM,Grenoble,London,2024/01/17,2024-01-15
+1110,145,pounds,False,1,Vueling,8:30AM,5:10PM,Grenoble,London,2024/01/17,2024-01-15
+1111,146,pounds,True,1,Iberia and British Airways. Operated by Iberia Express,7:00AM,12:10PM,Grenoble,London,2024/01/17,2024-01-15
+1112,146,pounds,True,1,"Iberia and British Airways. Operated by Iberia Express, Finnair for British Airways",7:00AM,1:30PM,Grenoble,London,2024/01/17,2024-01-15
+1113,146,pounds,True,1,Iberia and British Airways. Operated by Iberia Express,7:00AM,2:10PM,Grenoble,London,2024/01/17,2024-01-15
+1114,165,pounds,False,2,"Iberia Express, Iberia and Wizz Air",7:00AM,7:15PM,Grenoble,London,2024/01/17,2024-01-15
+1115,167,pounds,True,1,Iberia. Operated by Iberia Express,7:00AM,4:35PM,Grenoble,London,2024/01/17,2024-01-15
+1116,167,pounds,True,1,Iberia. Operated by Iberia Express,10:05AM,5:15PM,Grenoble,London,2024/01/17,2024-01-15
+1117,175,pounds,False,2,Wizz Air,5:45PM,7:50AM,Grenoble,London,2024/01/17,2024-01-15
+1118,179,pounds,False,2,easyJet and Wizz Air,10:35AM,1:35AM,Grenoble,London,2024/01/17,2024-01-15
+1119,182,pounds,True,2,Iberia and British Airways. Operated by Iberia Express,7:00AM,3:55PM,Grenoble,London,2024/01/17,2024-01-15
+1120,187,pounds,False,2,Vueling and easyJet,8:30AM,10:05PM,Grenoble,London,2024/01/17,2024-01-15
+1121,190,pounds,False,2,Vueling and easyJet,8:30AM,10:05PM,Grenoble,London,2024/01/17,2024-01-15
+1122,193,pounds,False,1,Vueling,8:30AM,8:55PM,Grenoble,London,2024/01/17,2024-01-15
+1123,199,pounds,True,1,Iberia. Operated by Iberia Express,7:00AM,6:50PM,Grenoble,London,2024/01/17,2024-01-15
+1124,199,pounds,False,1,Air France and easyJet,6:45PM,10:10AM,Grenoble,London,2024/01/17,2024-01-15
+1125,200,pounds,True,1,Aer Lingus,2:50PM,7:55AM,Grenoble,London,2024/01/17,2024-01-15
+1126,200,pounds,True,1,Aer Lingus,2:50PM,12:20PM,Grenoble,London,2024/01/17,2024-01-15
+1127,201,pounds,False,1,Vueling,4:30PM,8:55PM,Grenoble,London,2024/01/17,2024-01-15
+1128,89,pounds,False,Nonstop,easyJet,7:55PM,10:30PM,London,Grenoble,2024/01/17,2024-01-15
+1129,119,pounds,False,1,Vueling,9:50AM,3:45PM,London,Grenoble,2024/01/17,2024-01-15
+1130,162,pounds,True,Nonstop,British Airways,6:15AM,8:55AM,London,Grenoble,2024/01/17,2024-01-15
+1131,102,pounds,False,1,Vueling,9:40PM,2:10PM,London,Grenoble,2024/01/17,2024-01-15
+1132,103,pounds,True,1,Air Europa and Iberia Express,10:00AM,8:20PM,London,Grenoble,2024/01/17,2024-01-15
+1133,106,pounds,False,1,easyJet,12:05PM,3:40PM,London,Grenoble,2024/01/17,2024-01-15
+1134,118,pounds,False,2,"easyJet, Air Europa and Iberia Express",6:55AM,10:05PM,London,Grenoble,2024/01/17,2024-01-15
+1135,120,pounds,False,1,Vueling,9:05AM,3:45PM,London,Grenoble,2024/01/17,2024-01-15
+1136,131,pounds,False,1,Vueling and Wizz Air,9:20AM,5:10PM,London,Grenoble,2024/01/17,2024-01-15
+1137,131,pounds,False,1,Wizz Air,9:50AM,5:10PM,London,Grenoble,2024/01/17,2024-01-15
+1138,139,pounds,False,2,easyJet and Iberia Express,6:55AM,8:20PM,London,Grenoble,2024/01/17,2024-01-15
+1139,145,pounds,False,1,easyJet,8:30PM,3:40PM,London,Grenoble,2024/01/17,2024-01-15
+1140,151,pounds,False,2,easyJet and Iberia Express,8:45AM,8:20PM,London,Grenoble,2024/01/17,2024-01-15
+1141,153,pounds,False,1,easyJet,5:55PM,3:40PM,London,Grenoble,2024/01/17,2024-01-15
+1142,165,pounds,False,2,easyJet and Air France,3:15PM,8:40AM,London,Grenoble,2024/01/17,2024-01-15
+1143,188,pounds,True,1,Aer Lingus,8:35AM,2:10PM,London,Grenoble,2024/01/17,2024-01-15
+1144,188,pounds,True,1,Aer Lingus,1:00PM,2:10PM,London,Grenoble,2024/01/17,2024-01-15
+1145,194,pounds,True,1,Iberia. Operated by Iberia Express,10:45AM,10:05PM,London,Grenoble,2024/01/17,2024-01-15
+1146,194,pounds,True,1,Iberia. Operated by Iberia Express,11:25AM,10:05PM,London,Grenoble,2024/01/17,2024-01-15
+1147,194,pounds,True,1,Iberia. Operated by Iberia Express,3:45PM,10:05PM,London,Grenoble,2024/01/17,2024-01-15
+1148,200,pounds,True,2,British Airways and Iberia. Operated by Iberia Express,10:30AM,10:05PM,London,Grenoble,2024/01/17,2024-01-15
+1149,203,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",12:45PM,1:05PM,London,Grenoble,2024/01/17,2024-01-15
+1150,203,pounds,True,1,"Turkish Airlines. Operated by 6Y for Anadolujet Trademark of TK, Anadolujet Trademark of Turkish Airlines",3:55PM,1:05PM,London,Grenoble,2024/01/17,2024-01-15
+1151,205,pounds,True,1,Aer Lingus,7:25PM,2:10PM,London,Grenoble,2024/01/17,2024-01-15
+1152,210,pounds,True,1,Air France,9:00AM,5:55PM,London,Grenoble,2024/01/17,2024-01-15
+1153,13,pounds,False,Nonstop,Wizz Air,5:50PM,7:10PM,Trieste,London,2024/04/17,2024-01-15
+1154,30,pounds,False,Nonstop,Ryanair. Operated by May,11:45AM,1:05PM,Trieste,London,2024/04/17,2024-01-15
+1155,31,pounds,False,Nonstop,easyJet,9:55AM,11:10AM,Trieste,London,2024/04/17,2024-01-15
+1156,50,pounds,True,Nonstop,British Airways,6:35PM,7:50PM,Trieste,London,2024/04/17,2024-01-15
+1157,30,pounds,False,Nonstop,Ryanair,5:05PM,6:25PM,Trieste,London,2024/04/17,2024-01-15
+1158,30,pounds,False,Nonstop,Ryanair. Operated by May,6:10AM,7:30AM,Trieste,London,2024/04/17,2024-01-15
+1159,48,pounds,False,Nonstop,easyJet,4:15PM,5:30PM,Trieste,London,2024/04/17,2024-01-15
+1160,54,pounds,False,1,easyJet and Vueling,8:40PM,7:15AM,Trieste,London,2024/04/17,2024-01-15
+1161,54,pounds,False,1,easyJet and Vueling,9:35AM,5:20PM,Trieste,London,2024/04/17,2024-01-15
+1162,54,pounds,False,1,easyJet and Vueling,10:30AM,5:20PM,Trieste,London,2024/04/17,2024-01-15
+1163,55,pounds,False,1,easyJet,7:00AM,11:40AM,Trieste,London,2024/04/17,2024-01-15
+1164,56,pounds,False,1,easyJet,4:05PM,9:20PM,Trieste,London,2024/04/17,2024-01-15
+1165,56,pounds,False,1,easyJet,7:00AM,12:25PM,Trieste,London,2024/04/17,2024-01-15
+1166,61,pounds,False,1,easyJet,7:00AM,1:10PM,Trieste,London,2024/04/17,2024-01-15
+1167,62,pounds,False,1,easyJet,4:05PM,9:35PM,Trieste,London,2024/04/17,2024-01-15
+1168,67,pounds,False,1,Vueling and easyJet,10:20PM,8:35AM,Trieste,London,2024/04/17,2024-01-15
+1169,67,pounds,False,1,easyJet,7:10PM,7:25AM,Trieste,London,2024/04/17,2024-01-15
+1170,67,pounds,False,1,easyJet,6:00AM,10:50AM,Trieste,London,2024/04/17,2024-01-15
+1171,70,pounds,True,Nonstop,British Airways,8:45AM,10:05AM,Trieste,London,2024/04/17,2024-01-15
+1172,74,pounds,True,1,Iberia,6:25AM,6:15PM,Trieste,London,2024/04/17,2024-01-15
+1173,74,pounds,True,1,Iberia,6:25AM,7:20PM,Trieste,London,2024/04/17,2024-01-15
+1174,74,pounds,False,1,easyJet,4:15PM,7:25AM,Trieste,London,2024/04/17,2024-01-15
+1175,77,pounds,True,1,Iberia,12:00PM,5:15PM,Trieste,London,2024/04/17,2024-01-15
+1176,77,pounds,True,1,Iberia,12:00PM,6:15PM,Trieste,London,2024/04/17,2024-01-15
+1177,77,pounds,True,1,Iberia,12:00PM,7:20PM,Trieste,London,2024/04/17,2024-01-15
+1178,24,pounds,False,Nonstop,easyJet,12:30PM,3:40PM,London,Trieste,2024/04/17,2024-01-15
+1179,26,pounds,False,Nonstop,Wizz Air,8:00PM,11:10PM,London,Trieste,2024/04/17,2024-01-15
+1180,31,pounds,False,Nonstop,Ryanair. Operated by May,1:50PM,4:55PM,London,Trieste,2024/04/17,2024-01-15
+1181,22,pounds,False,Nonstop,easyJet,5:55AM,9:05AM,London,Trieste,2024/04/17,2024-01-15
+1182,35,pounds,False,Nonstop,Ryanair,1:30PM,4:35PM,London,Trieste,2024/04/17,2024-01-15
+1183,38,pounds,False,Nonstop,Ryanair. Operated by May,7:55AM,11:00AM,London,Trieste,2024/04/17,2024-01-15
+1184,41,pounds,False,1,easyJet,7:05AM,3:30PM,London,Trieste,2024/04/17,2024-01-15
+1185,41,pounds,False,1,easyJet,8:25AM,3:30PM,London,Trieste,2024/04/17,2024-01-15
+1186,49,pounds,False,1,Vueling,9:35AM,9:30PM,London,Trieste,2024/04/17,2024-01-15
+1187,49,pounds,False,1,Vueling,1:00PM,9:30PM,London,Trieste,2024/04/17,2024-01-15
+1188,56,pounds,False,1,easyJet and Vueling,12:50PM,9:30PM,London,Trieste,2024/04/17,2024-01-15
+1189,60,pounds,False,1,easyJet,6:00AM,4:00PM,London,Trieste,2024/04/17,2024-01-15
+1190,62,pounds,False,1,easyJet and Vueling,7:00AM,9:30PM,London,Trieste,2024/04/17,2024-01-15
+1191,63,pounds,False,1,easyJet and Vueling,7:25AM,9:30PM,London,Trieste,2024/04/17,2024-01-15
+1192,66,pounds,False,1,easyJet,6:25AM,3:20PM,London,Trieste,2024/04/17,2024-01-15
+1193,66,pounds,False,1,Vueling,5:20PM,8:45AM,London,Trieste,2024/04/17,2024-01-15
+1194,66,pounds,False,1,Vueling,7:40PM,8:45AM,London,Trieste,2024/04/17,2024-01-15
+1195,67,pounds,False,1,easyJet,3:15PM,11:10PM,London,Trieste,2024/04/17,2024-01-15
+1196,68,pounds,False,1,Vueling,9:10AM,9:30PM,London,Trieste,2024/04/17,2024-01-15
+1197,68,pounds,False,1,easyJet and Vueling,4:30PM,8:45AM,London,Trieste,2024/04/17,2024-01-15
+1198,70,pounds,False,1,easyJet,2:55PM,11:45PM,London,Trieste,2024/04/17,2024-01-15
+1199,71,pounds,True,Nonstop,British Airways,7:05PM,10:15PM,London,Trieste,2024/04/17,2024-01-15
+1200,73,pounds,False,1,easyJet,8:00AM,4:00PM,London,Trieste,2024/04/17,2024-01-15
+1201,74,pounds,False,1,easyJet,5:20PM,11:45PM,London,Trieste,2024/04/17,2024-01-15
+1202,74,pounds,False,1,Vueling and easyJet,7:50AM,2:35PM,London,Trieste,2024/04/17,2024-01-15
+1203,12,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,8:25AM,9:35AM,Poznan,London,2024/01/27,2024-01-15
+1204,12,pounds,False,Nonstop,Ryanair,10:00PM,11:10PM,Poznan,London,2024/01/27,2024-01-15
+1205,77,pounds,False,2,LOT and Wizz Air,2:50PM,7:35AM,Poznan,London,2024/01/27,2024-01-15
+1206,83,pounds,True,1,LOT,5:40AM,9:35AM,Poznan,London,2024/01/27,2024-01-15
+1207,83,pounds,True,1,LOT,5:40AM,5:20PM,Poznan,London,2024/01/27,2024-01-15
+1208,83,pounds,True,1,LOT,2:50PM,9:35AM,Poznan,London,2024/01/27,2024-01-15
+1209,87,pounds,False,2,Wizz Air and easyJet,7:50PM,2:20PM,Poznan,London,2024/01/27,2024-01-15
+1210,92,pounds,False,1,LOT and Wizz Air,2:50PM,7:05PM,Poznan,London,2024/01/27,2024-01-15
+1211,99,pounds,False,1,LOT and Wizz Air,2:50PM,7:30AM,Poznan,London,2024/01/27,2024-01-15
+1212,103,pounds,False,1,LOT and Wizz Air,5:40AM,7:05PM,Poznan,London,2024/01/27,2024-01-15
+1213,129,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,6:05AM,10:25AM,Poznan,London,2024/01/27,2024-01-15
+1214,129,pounds,True,1,"Lufthansa. Operated by Lufthansa CityLine, Lufthansa CityLine",6:05AM,1:00PM,Poznan,London,2024/01/27,2024-01-15
+1215,129,pounds,True,1,"Lufthansa. Operated by Lufthansa CityLine, Lufthansa CityLine",6:05AM,3:50PM,Poznan,London,2024/01/27,2024-01-15
+1216,129,pounds,True,1,"Lufthansa. Operated by Lufthansa CityLine, Lufthansa CityLine",6:05AM,7:35PM,Poznan,London,2024/01/27,2024-01-15
+1217,129,pounds,True,1,"Lufthansa. Operated by Lufthansa CityLine, Lufthansa CityLine",1:00PM,7:35PM,Poznan,London,2024/01/27,2024-01-15
+1218,129,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,1:00PM,9:00PM,Poznan,London,2024/01/27,2024-01-15
+1219,135,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,3:30PM,8:45PM,Poznan,London,2024/01/27,2024-01-15
+1220,135,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,3:30PM,10:15PM,Poznan,London,2024/01/27,2024-01-15
+1221,138,pounds,False,2,LOT and Wizz Air,2:50PM,9:05PM,Poznan,London,2024/01/27,2024-01-15
+1222,140,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,6:05AM,9:00PM,Poznan,London,2024/01/27,2024-01-15
+1223,140,pounds,True,2,LOT,2:50PM,6:00PM,Poznan,London,2024/01/27,2024-01-15
+1224,140,pounds,True,2,LOT,2:50PM,6:00PM,Poznan,London,2024/01/27,2024-01-15
+1225,141,pounds,True,2,Lufthansa and Austrian. Operated by Lufthansa CityLine,6:05AM,2:05PM,Poznan,London,2024/01/27,2024-01-15
+1226,150,pounds,True,2,LOT,2:50PM,6:00PM,Poznan,London,2024/01/27,2024-01-15
+1227,157,pounds,True,2,KLM and Air France. Operated by KLM Cityhopper for KLM Royal Dutch Airlines,2:15PM,8:00AM,Poznan,London,2024/01/27,2024-01-15
+1228,13,pounds,False,Nonstop,Ryanair,6:35PM,9:35PM,London,Poznan,2024/01/27,2024-01-15
+1229,17,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,10:00AM,1:00PM,London,Poznan,2024/01/27,2024-01-15
+1230,74,pounds,False,2,Wizz Air and LOT,9:50PM,2:10PM,London,Poznan,2024/01/27,2024-01-15
+1231,82,pounds,False,2,Wizz Air,7:45AM,7:15PM,London,Poznan,2024/01/27,2024-01-15
+1232,108,pounds,False,1,Wizz Air and LOT,7:45PM,2:10PM,London,Poznan,2024/01/27,2024-01-15
+1233,123,pounds,False,1,Wizz Air and LOT,8:25AM,2:10PM,London,Poznan,2024/01/27,2024-01-15
+1234,133,pounds,True,1,"Lufthansa. Operated by Lufthansa CityLine, Lufthansa CityLine",6:35AM,12:20PM,London,Poznan,2024/01/27,2024-01-15
+1235,138,pounds,True,1,LOT,6:30AM,2:10PM,London,Poznan,2024/01/27,2024-01-15
+1236,138,pounds,True,1,LOT,10:25AM,2:10PM,London,Poznan,2024/01/27,2024-01-15
+1237,138,pounds,True,1,LOT,6:10PM,2:10PM,London,Poznan,2024/01/27,2024-01-15
+1238,138,pounds,True,1,LOT,6:10PM,5:50PM,London,Poznan,2024/01/27,2024-01-15
+1239,170,pounds,False,2,"easyJet, Transavia and Wizz Air",6:50AM,7:15PM,London,Poznan,2024/01/27,2024-01-15
+1240,187,pounds,True,1,KLM. Operated by KLM Cityhopper,6:30AM,1:45PM,London,Poznan,2024/01/27,2024-01-15
+1241,196,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,11:20AM,2:50PM,London,Poznan,2024/01/27,2024-01-15
+1242,196,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,5:45PM,2:50PM,London,Poznan,2024/01/27,2024-01-15
+1243,199,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,11:30AM,2:50PM,London,Poznan,2024/01/27,2024-01-15
+1244,199,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,1:30PM,2:50PM,London,Poznan,2024/01/27,2024-01-15
+1245,199,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,3:30PM,2:50PM,London,Poznan,2024/01/27,2024-01-15
+1246,199,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,4:30PM,2:50PM,London,Poznan,2024/01/27,2024-01-15
+1247,199,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,6:30PM,2:50PM,London,Poznan,2024/01/27,2024-01-15
+1248,216,pounds,True,2,"Lufthansa. Operated by Lufthansa CityLine, Lufthansa CityLine",8:15PM,2:50PM,London,Poznan,2024/01/27,2024-01-15
+1249,216,pounds,True,2,"Lufthansa. Operated by Lufthansa CityLine, Lufthansa CityLine",8:15PM,2:50PM,London,Poznan,2024/01/27,2024-01-15
+1250,220,pounds,True,1,KLM. Operated by KLM Cityhopper,8:40AM,1:45PM,London,Poznan,2024/01/27,2024-01-15
+1251,226,pounds,True,2,"Lufthansa. Operated by Lufthansa CityLine, Lufthansa CityLine",4:40PM,2:50PM,London,Poznan,2024/01/27,2024-01-15
+1252,227,pounds,True,2,"Lufthansa. Operated by Lufthansa CityLine, Lufthansa CityLine",4:40PM,2:50PM,London,Poznan,2024/01/27,2024-01-15
+1253,38,pounds,False,Nonstop,Ryanair,8:15PM,9:10PM,Vilnius,London,2024/04/10,2024-01-15
+1254,40,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,8:25AM,9:15AM,Vilnius,London,2024/04/10,2024-01-15
+1255,43,pounds,False,Nonstop,Wizz Air,6:15AM,7:15AM,Vilnius,London,2024/04/10,2024-01-15
+1256,60,pounds,True,1,Air Baltic,9:10AM,8:15AM,Vilnius,London,2024/04/10,2024-01-15
+1257,60,pounds,True,1,Air Baltic,3:20PM,8:15AM,Vilnius,London,2024/04/10,2024-01-15
+1258,60,pounds,True,1,Air Baltic,3:20PM,4:35PM,Vilnius,London,2024/04/10,2024-01-15
+1259,60,pounds,True,1,Air Baltic,9:40PM,8:15AM,Vilnius,London,2024/04/10,2024-01-15
+1260,60,pounds,True,1,Air Baltic,9:40PM,4:35PM,Vilnius,London,2024/04/10,2024-01-15
+1261,81,pounds,False,1,"Scandinavian Airlines. Operated by Xfly, Sas Connect",7:00AM,12:55PM,Vilnius,London,2024/04/10,2024-01-15
+1262,81,pounds,False,1,"Scandinavian Airlines. Operated by Xfly, Sas Connect",7:00AM,5:00PM,Vilnius,London,2024/04/10,2024-01-15
+1263,81,pounds,False,1,"Scandinavian Airlines. Operated by Xfly, Sas Connect",11:25AM,5:00PM,Vilnius,London,2024/04/10,2024-01-15
+1264,81,pounds,False,1,"Scandinavian Airlines. Operated by Xfly, Sas Connect",11:25AM,5:55PM,Vilnius,London,2024/04/10,2024-01-15
+1265,81,pounds,False,1,"Scandinavian Airlines. Operated by Xfly, Sas Connect",11:25AM,7:55PM,Vilnius,London,2024/04/10,2024-01-15
+1266,85,pounds,False,1,"Scandinavian Airlines. Operated by Xfly, Sas Connect",7:00AM,7:55PM,Vilnius,London,2024/04/10,2024-01-15
+1267,89,pounds,False,1,"Scandinavian Airlines. Operated by Xfly, Sas Connect",6:30AM,8:55AM,Vilnius,London,2024/04/10,2024-01-15
+1268,89,pounds,False,1,"Scandinavian Airlines. Operated by Xfly, Sas Connect",11:10AM,4:00PM,Vilnius,London,2024/04/10,2024-01-15
+1269,89,pounds,False,1,"Scandinavian Airlines. Operated by Xfly, Sas Connect",11:10AM,5:40PM,Vilnius,London,2024/04/10,2024-01-15
+1270,89,pounds,False,1,"Scandinavian Airlines. Operated by Xfly, Sas Connect",3:45PM,7:30PM,Vilnius,London,2024/04/10,2024-01-15
+1271,89,pounds,False,1,"Scandinavian Airlines. Operated by Xfly, Sas Connect",3:45PM,9:40PM,Vilnius,London,2024/04/10,2024-01-15
+1272,91,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,10:10AM,3:10PM,Vilnius,London,2024/04/10,2024-01-15
+1273,91,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,10:10AM,5:05PM,Vilnius,London,2024/04/10,2024-01-15
+1274,91,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,10:10AM,8:40PM,Vilnius,London,2024/04/10,2024-01-15
+1275,91,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,1:30PM,5:05PM,Vilnius,London,2024/04/10,2024-01-15
+1276,91,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,1:30PM,8:40PM,Vilnius,London,2024/04/10,2024-01-15
+1277,91,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,6:10PM,9:10AM,Vilnius,London,2024/04/10,2024-01-15
+1278,19,pounds,False,Nonstop,Ryanair,3:00PM,7:40PM,London,Vilnius,2024/04/10,2024-01-15
+1279,20,pounds,False,Nonstop,Wizz Air,8:00AM,12:45PM,London,Vilnius,2024/04/10,2024-01-15
+1280,30,pounds,False,Nonstop,Ryanair. Operated by Ryanair Sun,9:40AM,2:15PM,London,Vilnius,2024/04/10,2024-01-15
+1281,68,pounds,True,1,Air Baltic,9:05AM,8:55PM,London,Vilnius,2024/04/10,2024-01-15
+1282,68,pounds,True,1,Air Baltic,9:05AM,11:59PM,London,Vilnius,2024/04/10,2024-01-15
+1283,68,pounds,True,1,Air Baltic,9:05AM,8:25AM,London,Vilnius,2024/04/10,2024-01-15
+1284,68,pounds,True,1,Air Baltic,5:20PM,11:59PM,London,Vilnius,2024/04/10,2024-01-15
+1285,68,pounds,True,1,Air Baltic,5:20PM,8:25AM,London,Vilnius,2024/04/10,2024-01-15
+1286,68,pounds,True,1,Air Baltic,5:20PM,2:40PM,London,Vilnius,2024/04/10,2024-01-15
+1287,68,pounds,True,1,Air Baltic,5:20PM,8:55PM,London,Vilnius,2024/04/10,2024-01-15
+1288,98,pounds,True,1,SWISS. Operated by Air Baltic,8:40AM,1:15AM,London,Vilnius,2024/04/10,2024-01-15
+1289,99,pounds,True,1,LOT,6:30AM,2:05PM,London,Vilnius,2024/04/10,2024-01-15
+1290,99,pounds,True,1,LOT,6:30AM,4:15PM,London,Vilnius,2024/04/10,2024-01-15
+1291,105,pounds,True,1,Brussels Airlines,6:50AM,2:25PM,London,Vilnius,2024/04/10,2024-01-15
+1292,108,pounds,False,1,"Scandinavian Airlines. Operated by Sas Connect, Xfly",10:20AM,10:15PM,London,Vilnius,2024/04/10,2024-01-15
+1293,108,pounds,False,1,"Scandinavian Airlines. Operated by Sas Connect, Xfly",1:55PM,10:15PM,London,Vilnius,2024/04/10,2024-01-15
+1294,115,pounds,False,1,"Scandinavian Airlines. Operated by Sas Connect, Xfly",6:45AM,3:10PM,London,Vilnius,2024/04/10,2024-01-15
+1295,115,pounds,False,1,"Scandinavian Airlines. Operated by Sas Connect, Xfly",5:00PM,11:35PM,London,Vilnius,2024/04/10,2024-01-15
+1296,119,pounds,True,1,SWISS. Operated by Air Baltic,8:05AM,1:15AM,London,Vilnius,2024/04/10,2024-01-15
+1297,119,pounds,True,1,"SWISS. Operated by Helvetic, Air Baltic",9:25AM,1:15AM,London,Vilnius,2024/04/10,2024-01-15
+1298,119,pounds,True,1,SWISS. Operated by Air Baltic,1:05PM,1:15AM,London,Vilnius,2024/04/10,2024-01-15
+1299,119,pounds,True,1,SWISS. Operated by Air Baltic,6:00PM,1:15AM,London,Vilnius,2024/04/10,2024-01-15
+1300,119,pounds,True,1,Air Baltic,9:05AM,2:40PM,London,Vilnius,2024/04/10,2024-01-15
+1301,119,pounds,True,1,Air Baltic,9:05AM,8:55PM,London,Vilnius,2024/04/10,2024-01-15
+1302,121,pounds,True,1,Finnair. Operated by Nordic Reg for Finnair,7:30AM,5:40PM,London,Vilnius,2024/04/10,2024-01-15
+1303,22,pounds,False,Nonstop,Vueling,5:00PM,6:50PM,Almeria,London,2024/03/19,2024-01-15
+1304,23,pounds,False,Nonstop,easyJet,4:55PM,6:45PM,Almeria,London,2024/03/19,2024-01-15
+1305,26,pounds,False,Nonstop,Ryanair,11:40AM,1:35PM,Almeria,London,2024/03/19,2024-01-15
+1306,18,pounds,False,Nonstop,easyJet,9:20PM,11:10PM,Almeria,London,2024/03/19,2024-01-15
+1307,21,pounds,False,Nonstop,Ryanair,8:25PM,10:20PM,Almeria,London,2024/03/19,2024-01-15
+1308,22,pounds,False,Nonstop,Vueling,7:00AM,8:55AM,Almeria,London,2024/03/19,2024-01-15
+1309,27,pounds,False,Nonstop,easyJet,11:25AM,1:20PM,Almeria,London,2024/03/19,2024-01-15
+1310,29,pounds,True,1,Vueling,9:05PM,7:50AM,Almeria,London,2024/03/19,2024-01-15
+1311,29,pounds,True,1,Vueling,9:05PM,2:40PM,Almeria,London,2024/03/19,2024-01-15
+1312,39,pounds,False,1,Vueling and easyJet,11:00PM,8:50AM,Almeria,London,2024/03/19,2024-01-15
+1313,39,pounds,False,1,Vueling and easyJet,11:00PM,12:05PM,Almeria,London,2024/03/19,2024-01-15
+1314,41,pounds,True,1,Vueling,11:30AM,7:05PM,Almeria,London,2024/03/19,2024-01-15
+1315,43,pounds,False,Nonstop,easyJet,12:05PM,1:55PM,Almeria,London,2024/03/19,2024-01-15
+1316,45,pounds,True,1,Air Europa. Operated by Air Europa Express,8:30AM,4:25PM,Almeria,London,2024/03/19,2024-01-15
+1317,49,pounds,False,1,Vueling,6:45AM,12:25PM,Almeria,London,2024/03/19,2024-01-15
+1318,49,pounds,False,1,Vueling,6:45AM,3:45PM,Almeria,London,2024/03/19,2024-01-15
+1319,49,pounds,False,1,Vueling,6:45AM,6:45PM,Almeria,London,2024/03/19,2024-01-15
+1320,51,pounds,True,1,Air Europa. Operated by Air Europa Express,8:30AM,9:00AM,Almeria,London,2024/03/19,2024-01-15
+1321,51,pounds,True,1,Air Europa. Operated by Air Europa Express,12:30PM,9:00AM,Almeria,London,2024/03/19,2024-01-15
+1322,51,pounds,False,1,Vueling,7:35PM,8:25AM,Almeria,London,2024/03/19,2024-01-15
+1323,52,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,6:50PM,8:45PM,Almeria,London,2024/03/19,2024-01-15
+1324,52,pounds,False,1,Vueling,9:15AM,3:45PM,Almeria,London,2024/03/19,2024-01-15
+1325,52,pounds,False,1,Vueling,9:15AM,6:45PM,Almeria,London,2024/03/19,2024-01-15
+1326,53,pounds,False,1,Vueling and easyJet,6:45AM,12:05PM,Almeria,London,2024/03/19,2024-01-15
+1327,53,pounds,False,1,Vueling,9:05PM,8:35AM,Almeria,London,2024/03/19,2024-01-15
+1328,30,pounds,False,Nonstop,Ryanair,7:15AM,11:05AM,London,Almeria,2024/03/19,2024-01-15
+1329,36,pounds,False,Nonstop,easyJet,7:35AM,11:25AM,London,Almeria,2024/03/19,2024-01-15
+1330,36,pounds,False,Nonstop,easyJet,4:45PM,8:35PM,London,Almeria,2024/03/19,2024-01-15
+1331,48,pounds,False,Nonstop,Vueling,9:40AM,1:30PM,London,Almeria,2024/03/19,2024-01-15
+1332,41,pounds,False,Nonstop,Ryanair,3:55PM,7:50PM,London,Almeria,2024/03/19,2024-01-15
+1333,44,pounds,False,Nonstop,Vueling,7:40PM,11:25PM,London,Almeria,2024/03/19,2024-01-15
+1334,44,pounds,False,Nonstop,easyJet,6:50AM,10:45AM,London,Almeria,2024/03/19,2024-01-15
+1335,46,pounds,False,1,Vueling,4:25PM,8:30AM,London,Almeria,2024/03/19,2024-01-15
+1336,46,pounds,False,1,Vueling,7:30PM,8:30AM,London,Almeria,2024/03/19,2024-01-15
+1337,47,pounds,False,1,Vueling,9:50AM,11:30PM,London,Almeria,2024/03/19,2024-01-15
+1338,47,pounds,False,1,Vueling,1:10PM,11:30PM,London,Almeria,2024/03/19,2024-01-15
+1339,47,pounds,False,1,easyJet and Vueling,6:50AM,11:30PM,London,Almeria,2024/03/19,2024-01-15
+1340,47,pounds,False,1,Vueling,9:05AM,11:30PM,London,Almeria,2024/03/19,2024-01-15
+1341,47,pounds,False,1,Vueling,4:25PM,11:30PM,London,Almeria,2024/03/19,2024-01-15
+1342,49,pounds,False,1,easyJet and Vueling,9:25AM,11:30PM,London,Almeria,2024/03/19,2024-01-15
+1343,49,pounds,False,Nonstop,easyJet,12:20PM,4:10PM,London,Almeria,2024/03/19,2024-01-15
+1344,50,pounds,False,1,Vueling,9:50AM,10:10PM,London,Almeria,2024/03/19,2024-01-15
+1345,50,pounds,False,1,Vueling,1:10PM,10:10PM,London,Almeria,2024/03/19,2024-01-15
+1346,50,pounds,False,1,Vueling,9:05AM,10:10PM,London,Almeria,2024/03/19,2024-01-15
+1347,50,pounds,False,1,Vueling,4:25PM,10:10PM,London,Almeria,2024/03/19,2024-01-15
+1348,50,pounds,False,1,Vueling,7:30PM,10:45AM,London,Almeria,2024/03/19,2024-01-15
+1349,51,pounds,False,1,easyJet and Vueling,6:50AM,10:10PM,London,Almeria,2024/03/19,2024-01-15
+1350,53,pounds,False,1,easyJet and Vueling,9:25AM,10:10PM,London,Almeria,2024/03/19,2024-01-15
+1351,54,pounds,False,1,easyJet and Vueling,2:20PM,11:30PM,London,Almeria,2024/03/19,2024-01-15
+1352,55,pounds,False,1,easyJet and Vueling,6:55AM,4:30PM,London,Almeria,2024/03/19,2024-01-15
+1353,18,pounds,False,Nonstop,Wizz Air,6:30AM,7:55AM,Bucharest,London,2024/02/28,2024-01-15
+1354,18,pounds,False,Nonstop,Wizz Air,5:20PM,6:55PM,Bucharest,London,2024/02/28,2024-01-15
+1355,26,pounds,False,Nonstop,Wizz Air,3:15PM,4:50PM,Bucharest,London,2024/02/28,2024-01-15
+1356,27,pounds,False,Nonstop,Ryanair,11:25AM,12:50PM,Bucharest,London,2024/02/28,2024-01-15
+1357,48,pounds,True,Nonstop,British Airways,3:40PM,5:15PM,Bucharest,London,2024/02/28,2024-01-15
+1358,27,pounds,False,Nonstop,Ryanair,9:00PM,10:25PM,Bucharest,London,2024/02/28,2024-01-15
+1359,29,pounds,False,Nonstop,Ryanair,3:15PM,4:40PM,Bucharest,London,2024/02/28,2024-01-15
+1360,48,pounds,True,Nonstop,British Airways,8:15AM,10:00AM,Bucharest,London,2024/02/28,2024-01-15
+1361,67,pounds,True,Nonstop,TAROM,12:20PM,2:05PM,Bucharest,London,2024/02/28,2024-01-15
+1362,18,pounds,False,Nonstop,Wizz Air,5:30PM,10:50PM,London,Bucharest,2024/02/28,2024-01-15
+1363,21,pounds,False,Nonstop,Ryanair,9:45AM,2:50PM,London,Bucharest,2024/02/28,2024-01-15
+1364,22,pounds,False,Nonstop,Wizz Air,8:50AM,2:10PM,London,Bucharest,2024/02/28,2024-01-15
+1365,18,pounds,False,Nonstop,Wizz Air,7:35PM,12:55AM,London,Bucharest,2024/02/28,2024-01-15
+1366,21,pounds,False,Nonstop,Ryanair,3:30PM,8:35PM,London,Bucharest,2024/02/28,2024-01-15
+1367,27,pounds,False,Nonstop,Ryanair,5:55AM,11:00AM,London,Bucharest,2024/02/28,2024-01-15
+1368,69,pounds,True,Nonstop,British Airways,5:40PM,10:55PM,London,Bucharest,2024/02/28,2024-01-15
+1369,72,pounds,True,Nonstop,British Airways,9:25AM,2:45PM,London,Bucharest,2024/02/28,2024-01-15
+1370,74,pounds,False,1,easyJet and Wizz Air,12:50PM,12:50AM,London,Bucharest,2024/02/28,2024-01-15
+1371,76,pounds,False,1,easyJet and Wizz Air,7:10AM,6:00PM,London,Bucharest,2024/02/28,2024-01-15
+1372,86,pounds,True,Nonstop,TAROM,2:50PM,8:10PM,London,Bucharest,2024/02/28,2024-01-15
+1373,89,pounds,False,1,Wizz Air and Aegean,3:40PM,10:00AM,London,Bucharest,2024/02/28,2024-01-15
+1374,93,pounds,False,1,easyJet and Aegean,12:20PM,10:00AM,London,Bucharest,2024/02/28,2024-01-15
+1375,97,pounds,True,1,Air France,6:20AM,1:30PM,London,Bucharest,2024/02/28,2024-01-15
+1376,98,pounds,True,1,LOT,6:30AM,1:50PM,London,Bucharest,2024/02/28,2024-01-15
+1377,98,pounds,True,1,LOT,6:30AM,1:45AM,London,Bucharest,2024/02/28,2024-01-15
+1378,98,pounds,True,1,LOT,10:25AM,1:45AM,London,Bucharest,2024/02/28,2024-01-15
+1379,101,pounds,True,1,Aegean,10:15PM,10:00AM,London,Bucharest,2024/02/28,2024-01-15
+1380,106,pounds,True,1,SWISS,6:00AM,3:45PM,London,Bucharest,2024/02/28,2024-01-15
+1381,106,pounds,True,1,SWISS,8:50AM,3:45PM,London,Bucharest,2024/02/28,2024-01-15
+1382,106,pounds,True,1,SWISS,8:50AM,12:10AM,London,Bucharest,2024/02/28,2024-01-15
+1383,106,pounds,True,1,SWISS,12:05PM,12:10AM,London,Bucharest,2024/02/28,2024-01-15
+1384,106,pounds,True,1,SWISS,1:45PM,12:10AM,London,Bucharest,2024/02/28,2024-01-15
+1385,106,pounds,True,1,SWISS,5:10PM,12:10AM,London,Bucharest,2024/02/28,2024-01-15
+1386,107,pounds,False,1,easyJet and Wizz Air,2:20PM,11:10PM,London,Bucharest,2024/02/28,2024-01-15
+1387,37,pounds,False,Nonstop,Ryanair,5:30PM,7:30PM,Bari,London,2024/03/04,2024-01-15
+1388,50,pounds,False,1,easyJet,9:30AM,2:20PM,Bari,London,2024/03/04,2024-01-15
+1389,67,pounds,False,1,Vueling,9:50AM,3:45PM,Bari,London,2024/03/04,2024-01-15
+1390,100,pounds,True,1,ITA,3:50PM,8:45PM,Bari,London,2024/03/04,2024-01-15
+1391,42,pounds,False,1,easyJet and Wizz Air,10:00PM,7:10AM,Bari,London,2024/03/04,2024-01-15
+1392,47,pounds,False,1,easyJet,9:30AM,4:40PM,Bari,London,2024/03/04,2024-01-15
+1393,51,pounds,False,1,easyJet and Wizz Air,9:30AM,8:10PM,Bari,London,2024/03/04,2024-01-15
+1394,72,pounds,False,1,Vueling,9:50AM,8:15PM,Bari,London,2024/03/04,2024-01-15
+1395,72,pounds,False,1,Vueling,9:50AM,8:55PM,Bari,London,2024/03/04,2024-01-15
+1396,100,pounds,True,1,ITA,6:10AM,12:00PM,Bari,London,2024/03/04,2024-01-15
+1397,100,pounds,True,1,ITA,6:10AM,1:10PM,Bari,London,2024/03/04,2024-01-15
+1398,100,pounds,True,1,ITA,6:10AM,8:45PM,Bari,London,2024/03/04,2024-01-15
+1399,100,pounds,True,1,ITA,11:05AM,8:45PM,Bari,London,2024/03/04,2024-01-15
+1400,100,pounds,True,1,ITA,11:05AM,12:00PM,Bari,London,2024/03/04,2024-01-15
+1401,100,pounds,True,1,ITA,11:05AM,1:10PM,Bari,London,2024/03/04,2024-01-15
+1402,100,pounds,True,1,ITA,1:05PM,8:45PM,Bari,London,2024/03/04,2024-01-15
+1403,100,pounds,True,1,ITA,1:05PM,11:20AM,Bari,London,2024/03/04,2024-01-15
+1404,100,pounds,True,1,ITA,1:05PM,12:00PM,Bari,London,2024/03/04,2024-01-15
+1405,100,pounds,True,1,ITA,1:05PM,1:10PM,Bari,London,2024/03/04,2024-01-15
+1406,100,pounds,True,1,ITA,3:50PM,11:20AM,Bari,London,2024/03/04,2024-01-15
+1407,100,pounds,True,1,ITA,3:50PM,12:00PM,Bari,London,2024/03/04,2024-01-15
+1408,100,pounds,True,1,ITA,3:50PM,1:10PM,Bari,London,2024/03/04,2024-01-15
+1409,100,pounds,True,1,ITA,6:10PM,11:20AM,Bari,London,2024/03/04,2024-01-15
+1410,100,pounds,True,1,ITA,6:10PM,12:00PM,Bari,London,2024/03/04,2024-01-15
+1411,100,pounds,True,1,ITA,6:10PM,1:10PM,Bari,London,2024/03/04,2024-01-15
+1412,44,pounds,False,Nonstop,Ryanair,12:50PM,4:30PM,London,Bari,2024/03/04,2024-01-15
+1413,59,pounds,False,1,easyJet,8:55AM,3:25PM,London,Bari,2024/03/04,2024-01-15
+1414,103,pounds,True,1,ITA,12:10PM,5:25PM,London,Bari,2024/03/04,2024-01-15
+1415,44,pounds,False,1,Wizz Air and easyJet,10:00AM,9:15PM,London,Bari,2024/03/04,2024-01-15
+1416,47,pounds,False,1,Wizz Air and easyJet,8:50PM,8:55AM,London,Bari,2024/03/04,2024-01-15
+1417,60,pounds,False,1,easyJet,7:00AM,3:25PM,London,Bari,2024/03/04,2024-01-15
+1418,61,pounds,False,1,easyJet,7:05AM,3:25PM,London,Bari,2024/03/04,2024-01-15
+1419,63,pounds,False,1,easyJet,12:25PM,9:15PM,London,Bari,2024/03/04,2024-01-15
+1420,103,pounds,True,1,ITA,6:45AM,12:20PM,London,Bari,2024/03/04,2024-01-15
+1421,103,pounds,True,1,ITA,6:45AM,3:05PM,London,Bari,2024/03/04,2024-01-15
+1422,103,pounds,True,1,ITA,6:45AM,5:25PM,London,Bari,2024/03/04,2024-01-15
+1423,103,pounds,True,1,ITA,6:45AM,7:20PM,London,Bari,2024/03/04,2024-01-15
+1424,103,pounds,True,1,ITA,6:45AM,8:45PM,London,Bari,2024/03/04,2024-01-15
+1425,103,pounds,True,1,ITA,6:45AM,11:30PM,London,Bari,2024/03/04,2024-01-15
+1426,103,pounds,True,1,ITA,6:45AM,7:45AM,London,Bari,2024/03/04,2024-01-15
+1427,103,pounds,True,1,ITA,12:10PM,7:20PM,London,Bari,2024/03/04,2024-01-15
+1428,103,pounds,True,1,ITA,12:10PM,8:45PM,London,Bari,2024/03/04,2024-01-15
+1429,103,pounds,True,1,ITA,12:10PM,11:30PM,London,Bari,2024/03/04,2024-01-15
+1430,103,pounds,True,1,ITA,12:10PM,7:45AM,London,Bari,2024/03/04,2024-01-15
+1431,103,pounds,True,1,ITA,12:10PM,10:20AM,London,Bari,2024/03/04,2024-01-15
+1432,103,pounds,True,1,ITA,12:10PM,12:20PM,London,Bari,2024/03/04,2024-01-15
+1433,106,pounds,True,1,ITA,4:55PM,10:55PM,London,Bari,2024/03/04,2024-01-15
+1434,106,pounds,True,1,ITA,4:55PM,10:35AM,London,Bari,2024/03/04,2024-01-15
+1435,112,pounds,True,2,ITA,6:45AM,6:45PM,London,Bari,2024/03/04,2024-01-15
+1436,112,pounds,True,2,ITA,6:45AM,6:45PM,London,Bari,2024/03/04,2024-01-15
+1437,26,pounds,False,Nonstop,Vueling,6:30PM,8:00PM,Valencia,London,2024/06/13,2024-01-15
+1438,33,pounds,False,Nonstop,easyJet,10:15AM,11:40AM,Valencia,London,2024/06/13,2024-01-15
+1439,83,pounds,True,Nonstop,British Airways,2:45PM,4:10PM,Valencia,London,2024/06/13,2024-01-15
+1440,28,pounds,False,Nonstop,easyJet,8:55PM,10:25PM,Valencia,London,2024/06/13,2024-01-15
+1441,35,pounds,False,Nonstop,Ryanair,9:40PM,11:10PM,Valencia,London,2024/06/13,2024-01-15
+1442,39,pounds,False,Nonstop,easyJet,1:10PM,2:40PM,Valencia,London,2024/06/13,2024-01-15
+1443,44,pounds,False,Nonstop,Ryanair,6:00AM,7:30AM,Valencia,London,2024/06/13,2024-01-15
+1444,53,pounds,True,1,Air Europa. Operated by Air Europa Express,12:25PM,4:25PM,Valencia,London,2024/06/13,2024-01-15
+1445,58,pounds,False,1,Vueling and easyJet,11:20PM,8:35AM,Valencia,London,2024/06/13,2024-01-15
+1446,59,pounds,False,1,Vueling and easyJet,11:20PM,11:40AM,Valencia,London,2024/06/13,2024-01-15
+1447,62,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,10:35AM,4:20PM,Valencia,London,2024/06/13,2024-01-15
+1448,62,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,10:35AM,5:15PM,Valencia,London,2024/06/13,2024-01-15
+1449,62,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,10:35AM,6:15PM,Valencia,London,2024/06/13,2024-01-15
+1450,62,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,10:35AM,7:20PM,Valencia,London,2024/06/13,2024-01-15
+1451,63,pounds,False,1,Vueling and easyJet,12:00PM,1:05AM,Valencia,London,2024/06/13,2024-01-15
+1452,66,pounds,False,1,Vueling and easyJet,2:50PM,11:25PM,Valencia,London,2024/06/13,2024-01-15
+1453,66,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia. Operated by Iberia Express,10:35AM,7:55PM,Valencia,London,2024/06/13,2024-01-15
+1454,69,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,6:05AM,4:20PM,Valencia,London,2024/06/13,2024-01-15
+1455,69,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,6:05AM,6:15PM,Valencia,London,2024/06/13,2024-01-15
+1456,69,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,6:05AM,7:20PM,Valencia,London,2024/06/13,2024-01-15
+1457,71,pounds,False,1,Vueling and easyJet,8:15AM,12:50PM,Valencia,London,2024/06/13,2024-01-15
+1458,71,pounds,False,1,Vueling and easyJet,8:15AM,3:20PM,Valencia,London,2024/06/13,2024-01-15
+1459,71,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,10:35AM,9:30AM,Valencia,London,2024/06/13,2024-01-15
+1460,78,pounds,True,1,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express",6:05AM,10:10AM,Valencia,London,2024/06/13,2024-01-15
+1461,78,pounds,True,1,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express",6:05AM,7:55PM,Valencia,London,2024/06/13,2024-01-15
+1462,33,pounds,False,Nonstop,easyJet,4:55PM,8:20PM,London,Valencia,2024/06/13,2024-01-15
+1463,47,pounds,False,Nonstop,Ryanair,5:25PM,8:55PM,London,Valencia,2024/06/13,2024-01-15
+1464,52,pounds,False,Nonstop,Vueling,8:40PM,12:05AM,London,Valencia,2024/06/13,2024-01-15
+1465,180,pounds,True,Nonstop,British Airways,10:35AM,2:00PM,London,Valencia,2024/06/13,2024-01-15
+1466,76,pounds,False,1,Vueling,7:40PM,9:05AM,London,Valencia,2024/06/13,2024-01-15
+1467,77,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil. Operated by Iberia Express,10:50AM,7:21PM,London,Valencia,2024/06/13,2024-01-15
+1468,80,pounds,False,1,Vueling,7:40PM,11:25AM,London,Valencia,2024/06/13,2024-01-15
+1469,80,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil,10:50AM,7:21PM,London,Valencia,2024/06/13,2024-01-15
+1470,80,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil,11:30AM,7:21PM,London,Valencia,2024/06/13,2024-01-15
+1471,80,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil,5:10PM,10:21AM,London,Valencia,2024/06/13,2024-01-15
+1472,80,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil,6:45PM,10:21AM,London,Valencia,2024/06/13,2024-01-15
+1473,80,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil,7:10PM,10:21AM,London,Valencia,2024/06/13,2024-01-15
+1474,80,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil,8:10PM,10:21AM,London,Valencia,2024/06/13,2024-01-15
+1475,81,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil. Operated by Iberia Express,8:35PM,10:21AM,London,Valencia,2024/06/13,2024-01-15
+1476,83,pounds,False,1,easyJet and Vueling,7:45AM,5:15PM,London,Valencia,2024/06/13,2024-01-15
+1477,84,pounds,True,1,Air Europa. Operated by Air Europa Express,10:00AM,4:15PM,London,Valencia,2024/06/13,2024-01-15
+1478,84,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil,9:15AM,7:21PM,London,Valencia,2024/06/13,2024-01-15
+1479,85,pounds,False,Nonstop,Ryanair,7:55AM,11:25AM,London,Valencia,2024/06/13,2024-01-15
+1480,87,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil. Operated by Iberia Express,10:50AM,10:21AM,London,Valencia,2024/06/13,2024-01-15
+1481,88,pounds,True,1,"Iberia. Operated by Iberia Express, Air Nostrum for Iberia",10:50AM,12:05AM,London,Valencia,2024/06/13,2024-01-15
+1482,90,pounds,False,1,easyJet and Vueling,3:50PM,10:45PM,London,Valencia,2024/06/13,2024-01-15
+1483,90,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil,10:50AM,10:21AM,London,Valencia,2024/06/13,2024-01-15
+1484,90,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil,11:30AM,10:21AM,London,Valencia,2024/06/13,2024-01-15
+1485,90,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil,5:10PM,7:21PM,London,Valencia,2024/06/13,2024-01-15
+1486,90,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil,6:45PM,7:21PM,London,Valencia,2024/06/13,2024-01-15
+1487,331,pounds,True,2,LOT and Lufthansa,6:45PM,9:45AM,Mazury,London,2024/03/08,2024-01-15
+1488,252,pounds,True,3,"LOT, Lufthansa and SWISS",6:45PM,9:40AM,Mazury,London,2024/03/08,2024-01-15
+1489,252,pounds,True,3,"LOT, Lufthansa and SWISS",6:45PM,9:40AM,Mazury,London,2024/03/08,2024-01-15
+1490,264,pounds,True,3,"LOT, Lufthansa and SWISS",6:45PM,9:40AM,Mazury,London,2024/03/08,2024-01-15
+1491,271,pounds,True,3,"LOT, Lufthansa and SWISS. Operated by Helvetic",6:45PM,12:40PM,Mazury,London,2024/03/08,2024-01-15
+1492,284,pounds,True,3,"LOT, Lufthansa and SWISS. Operated by Helvetic",6:45PM,12:40PM,Mazury,London,2024/03/08,2024-01-15
+1493,284,pounds,True,3,"LOT, Lufthansa and SWISS. Operated by Helvetic",6:45PM,12:40PM,Mazury,London,2024/03/08,2024-01-15
+1494,291,pounds,True,3,"LOT, Lufthansa and SWISS",6:45PM,9:40AM,Mazury,London,2024/03/08,2024-01-15
+1495,291,pounds,True,3,"LOT, Lufthansa and SWISS",6:45PM,9:40AM,Mazury,London,2024/03/08,2024-01-15
+1496,291,pounds,True,3,"LOT, Lufthansa, Air Dolomiti and SWISS",6:45PM,9:40AM,Mazury,London,2024/03/08,2024-01-15
+1497,291,pounds,True,3,"LOT, Lufthansa, Air Dolomiti and SWISS",6:45PM,9:40AM,Mazury,London,2024/03/08,2024-01-15
+1498,291,pounds,True,3,"LOT, Lufthansa, Air Dolomiti and SWISS",6:45PM,9:40AM,Mazury,London,2024/03/08,2024-01-15
+1499,301,pounds,True,3,"LOT, Lufthansa and SWISS",6:45PM,9:40AM,Mazury,London,2024/03/08,2024-01-15
+1500,325,pounds,True,2,LOT and Lufthansa,6:45PM,1:00PM,Mazury,London,2024/03/08,2024-01-15
+1501,325,pounds,True,2,LOT and Lufthansa. Operated by Lufthansa CityLine,6:45PM,3:50PM,Mazury,London,2024/03/08,2024-01-15
+1502,325,pounds,True,2,LOT and Lufthansa,6:45PM,7:35PM,Mazury,London,2024/03/08,2024-01-15
+1503,325,pounds,True,2,LOT and Lufthansa,6:45PM,7:35PM,Mazury,London,2024/03/08,2024-01-15
+1504,326,pounds,True,3,"LOT, Lufthansa and Eurowings",6:45PM,1:05PM,Mazury,London,2024/03/08,2024-01-15
+1505,330,pounds,True,3,"LOT, Lufthansa and Eurowings",6:45PM,3:00PM,Mazury,London,2024/03/08,2024-01-15
+1506,331,pounds,True,2,LOT and Lufthansa,6:45PM,10:35AM,Mazury,London,2024/03/08,2024-01-15
+1507,331,pounds,True,2,LOT and Lufthansa,6:45PM,10:45AM,Mazury,London,2024/03/08,2024-01-15
+1508,331,pounds,True,2,LOT and Lufthansa,6:45PM,12:45PM,Mazury,London,2024/03/08,2024-01-15
+1509,331,pounds,True,2,LOT and Lufthansa,6:45PM,2:45PM,Mazury,London,2024/03/08,2024-01-15
+1510,331,pounds,True,2,LOT and Lufthansa,6:45PM,2:45PM,Mazury,London,2024/03/08,2024-01-15
+1511,331,pounds,True,2,LOT and Lufthansa,6:45PM,3:45PM,Mazury,London,2024/03/08,2024-01-15
+1512,301,pounds,True,2,Lufthansa and LOT,7:40AM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1513,976,pounds,True,2,Eurowings and LOT,8:05AM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1514,1217,pounds,True,2,LOT,6:30AM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1515,260,pounds,True,3,Lufthansa and LOT,7:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1516,260,pounds,True,3,Lufthansa and LOT,7:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1517,260,pounds,True,3,Lufthansa and LOT,7:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1518,260,pounds,True,3,Lufthansa and LOT,7:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1519,260,pounds,True,3,Lufthansa and LOT. Operated by Lufthansa CityLine,8:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1520,260,pounds,True,3,Lufthansa and LOT. Operated by Lufthansa CityLine,8:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1521,260,pounds,True,3,Lufthansa and LOT. Operated by Lufthansa CityLine,8:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1522,260,pounds,True,3,Lufthansa and LOT. Operated by Lufthansa CityLine,8:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1523,267,pounds,True,3,Lufthansa and LOT,7:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1524,267,pounds,True,3,Lufthansa and LOT. Operated by Lufthansa CityLine,8:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1525,278,pounds,True,3,Lufthansa and LOT,7:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1526,278,pounds,True,3,Lufthansa and LOT. Operated by Lufthansa CityLine,8:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1527,295,pounds,True,3,Lufthansa and LOT,7:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1528,295,pounds,True,3,Lufthansa and LOT. Operated by Lufthansa CityLine,8:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1529,301,pounds,True,2,Lufthansa and LOT. Operated by Lufthansa CityLine,6:35AM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1530,308,pounds,True,2,Lufthansa and LOT,6:30AM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1531,500,pounds,True,3,Lufthansa and LOT,7:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1532,500,pounds,True,3,Lufthansa and LOT,7:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1533,500,pounds,True,3,Lufthansa and LOT. Operated by Lufthansa CityLine,8:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1534,500,pounds,True,3,Lufthansa and LOT. Operated by Lufthansa CityLine,8:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1535,502,pounds,True,3,Lufthansa and LOT,7:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1536,502,pounds,True,3,Lufthansa and LOT. Operated by Lufthansa CityLine,8:15PM,6:05PM,London,Mazury,2024/03/08,2024-01-15
+1537,24,pounds,False,Nonstop,Ryanair,8:55PM,10:25PM,Ibiza,London,2024/04/16,2024-01-15
+1538,29,pounds,False,Nonstop,Ryanair,11:00AM,12:30PM,Ibiza,London,2024/04/16,2024-01-15
+1539,36,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,12:15PM,1:40PM,Ibiza,London,2024/04/16,2024-01-15
+1540,44,pounds,False,Nonstop,easyJet,12:10AM,1:35AM,Ibiza,London,2024/04/16,2024-01-15
+1541,67,pounds,False,Nonstop,easyJet,9:35AM,11:00AM,Ibiza,London,2024/04/16,2024-01-15
+1542,68,pounds,True,1,Iberia and British Airways. Operated by Iberia Express,5:35PM,9:15PM,Ibiza,London,2024/04/16,2024-01-15
+1543,76,pounds,False,1,Vueling,3:15PM,8:25PM,Ibiza,London,2024/04/16,2024-01-15
+1544,161,pounds,True,1,Iberia. Operated by Iberia Express,1:25PM,5:15PM,Ibiza,London,2024/04/16,2024-01-15
+1545,24,pounds,False,Nonstop,Ryanair,6:50AM,10:25AM,London,Ibiza,2024/04/16,2024-01-15
+1546,24,pounds,False,Nonstop,Ryanair,4:45PM,8:20PM,London,Ibiza,2024/04/16,2024-01-15
+1547,26,pounds,False,Nonstop,easyJet,5:35AM,9:00AM,London,Ibiza,2024/04/16,2024-01-15
+1548,52,pounds,False,1,Vueling,9:10AM,2:40PM,London,Ibiza,2024/04/16,2024-01-15
+1549,60,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,7:35AM,11:15AM,London,Ibiza,2024/04/16,2024-01-15
+1550,38,pounds,False,1,Wizz Air and easyJet,8:50AM,3:45PM,London,Ibiza,2024/04/16,2024-01-15
+1551,47,pounds,False,1,easyJet and Vueling,12:50PM,9:55PM,London,Ibiza,2024/04/16,2024-01-15
+1552,50,pounds,False,1,easyJet and Vueling,7:05AM,2:00PM,London,Ibiza,2024/04/16,2024-01-15
+1553,61,pounds,False,1,Vueling,1:00PM,7:25PM,London,Ibiza,2024/04/16,2024-01-15
+1554,146,pounds,True,1,Finnair,9:25AM,3:10PM,Ljubljana,London,2024/04/06,2024-01-15
+1555,155,pounds,True,1,Brussels Airlines,4:40PM,9:35PM,Ljubljana,London,2024/04/06,2024-01-15
+1556,161,pounds,True,1,LOT,5:05PM,10:00PM,Ljubljana,London,2024/04/06,2024-01-15
+1557,191,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,1:00PM,3:45PM,Ljubljana,London,2024/04/06,2024-01-15
+1558,146,pounds,True,1,Finnair,9:25AM,5:05PM,Ljubljana,London,2024/04/06,2024-01-15
+1559,146,pounds,True,1,Finnair,9:25AM,9:10AM,Ljubljana,London,2024/04/06,2024-01-15
+1560,163,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,1:00PM,6:30PM,Ljubljana,London,2024/04/06,2024-01-15
+1561,165,pounds,True,1,Brussels Airlines,4:40PM,5:05PM,Ljubljana,London,2024/04/06,2024-01-15
+1562,175,pounds,True,2,Lufthansa. Operated by Lufthansa CityLine,1:00PM,6:40PM,Ljubljana,London,2024/04/06,2024-01-15
+1563,175,pounds,True,2,Lufthansa. Operated by Lufthansa CityLine,1:00PM,8:40PM,Ljubljana,London,2024/04/06,2024-01-15
+1564,175,pounds,True,2,Lufthansa. Operated by Lufthansa CityLine,1:00PM,10:10PM,Ljubljana,London,2024/04/06,2024-01-15
+1565,175,pounds,True,2,Lufthansa. Operated by Lufthansa CityLine,1:00PM,10:10PM,Ljubljana,London,2024/04/06,2024-01-15
+1566,175,pounds,True,2,Lufthansa. Operated by Lufthansa CityLine,1:00PM,10:10PM,Ljubljana,London,2024/04/06,2024-01-15
+1567,177,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,1:00PM,5:05PM,Ljubljana,London,2024/04/06,2024-01-15
+1568,183,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,2:00PM,6:40PM,Ljubljana,London,2024/04/06,2024-01-15
+1569,183,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,2:00PM,8:40PM,Ljubljana,London,2024/04/06,2024-01-15
+1570,183,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,2:00PM,10:10PM,Ljubljana,London,2024/04/06,2024-01-15
+1571,186,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,1:00PM,7:40PM,Ljubljana,London,2024/04/06,2024-01-15
+1572,192,pounds,True,2,Lufthansa. Operated by Lufthansa CityLine,1:00PM,8:40PM,Ljubljana,London,2024/04/06,2024-01-15
+1573,193,pounds,True,2,Lufthansa. Operated by Lufthansa CityLine,11:00AM,6:30PM,Ljubljana,London,2024/04/06,2024-01-15
+1574,195,pounds,True,1,LOT,5:05PM,9:25AM,Ljubljana,London,2024/04/06,2024-01-15
+1575,195,pounds,True,1,LOT,5:05PM,5:20PM,Ljubljana,London,2024/04/06,2024-01-15
+1576,196,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,2:00PM,5:40PM,Ljubljana,London,2024/04/06,2024-01-15
+1577,198,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,1:00PM,8:45PM,Ljubljana,London,2024/04/06,2024-01-15
+1578,204,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,11:00AM,2:40PM,Ljubljana,London,2024/04/06,2024-01-15
+1579,107,pounds,True,1,Brussels Airlines,11:05AM,3:55PM,London,Ljubljana,2024/04/06,2024-01-15
+1580,108,pounds,True,1,SWISS,6:00AM,1:30PM,London,Ljubljana,2024/04/06,2024-01-15
+1581,113,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,8:30AM,1:25PM,London,Ljubljana,2024/04/06,2024-01-15
+1582,160,pounds,True,1,LOT,10:15AM,4:25PM,London,Ljubljana,2024/04/06,2024-01-15
+1583,107,pounds,True,1,Brussels Airlines,6:50AM,3:55PM,London,Ljubljana,2024/04/06,2024-01-15
+1584,108,pounds,True,1,SWISS,6:00AM,6:55PM,London,Ljubljana,2024/04/06,2024-01-15
+1585,108,pounds,True,1,"SWISS. Operated by Air Baltic, Air Baltic",8:05PM,9:55AM,London,Ljubljana,2024/04/06,2024-01-15
+1586,109,pounds,True,1,LOT,6:10PM,1:00PM,London,Ljubljana,2024/04/06,2024-01-15
+1587,109,pounds,True,1,LOT,6:10PM,4:25PM,London,Ljubljana,2024/04/06,2024-01-15
+1588,113,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,6:30AM,1:25PM,London,Ljubljana,2024/04/06,2024-01-15
+1589,114,pounds,True,1,LOT,10:15AM,1:00PM,London,Ljubljana,2024/04/06,2024-01-15
+1590,117,pounds,True,1,Brussels Airlines,11:05AM,11:20AM,London,Ljubljana,2024/04/06,2024-01-15
+1591,121,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,7:30AM,1:25PM,London,Ljubljana,2024/04/06,2024-01-15
+1592,128,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,6:30AM,9:35PM,London,Ljubljana,2024/04/06,2024-01-15
+1593,128,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,8:30AM,9:35PM,London,Ljubljana,2024/04/06,2024-01-15
+1594,142,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,7:30AM,9:35PM,London,Ljubljana,2024/04/06,2024-01-15
+1595,157,pounds,True,1,SWISS. Operated by Helvetic,9:25AM,6:55PM,London,Ljubljana,2024/04/06,2024-01-15
+1596,160,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,11:15AM,9:35PM,London,Ljubljana,2024/04/06,2024-01-15
+1597,160,pounds,True,1,LOT,6:30AM,4:25PM,London,Ljubljana,2024/04/06,2024-01-15
+1598,163,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,9:30AM,9:35PM,London,Ljubljana,2024/04/06,2024-01-15
+1599,163,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,11:30AM,9:35PM,London,Ljubljana,2024/04/06,2024-01-15
+1600,172,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,6:55AM,12:25PM,London,Ljubljana,2024/04/06,2024-01-15
+1601,180,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,3:30PM,9:35PM,London,Ljubljana,2024/04/06,2024-01-15
+1602,182,pounds,True,1,Finnair,6:10PM,8:40AM,London,Ljubljana,2024/04/06,2024-01-15
+1603,185,pounds,True,1,Lufthansa. Operated by Lufthansa CityLine,7:25AM,12:25PM,London,Ljubljana,2024/04/06,2024-01-15
+1604,125,pounds,False,1,Aegean and Wizz Air,6:25PM,11:50PM,Santorini,London,2024/01/20,2024-01-15
+1605,130,pounds,False,1,SKY express and Wizz Air,6:40PM,11:50PM,Santorini,London,2024/01/20,2024-01-15
+1606,140,pounds,True,1,Aegean. Operated by Olympic,6:40AM,11:10AM,Santorini,London,2024/01/20,2024-01-15
+1607,152,pounds,False,2,"Olympic, Aegean and Wizz Air",11:45AM,8:35PM,Santorini,London,2024/01/20,2024-01-15
+1608,173,pounds,True,1,Aegean. Operated by Olympic,11:45AM,3:30PM,Santorini,London,2024/01/20,2024-01-15
+1609,130,pounds,False,1,SKY express and Wizz Air,9:20AM,11:50PM,Santorini,London,2024/01/20,2024-01-15
+1610,140,pounds,True,1,Aegean. Operated by Olympic,6:40AM,3:30PM,Santorini,London,2024/01/20,2024-01-15
+1611,140,pounds,True,1,Aegean. Operated by Olympic,6:40AM,9:15PM,Santorini,London,2024/01/20,2024-01-15
+1612,140,pounds,True,1,Aegean. Operated by Olympic,11:45AM,9:15PM,Santorini,London,2024/01/20,2024-01-15
+1613,140,pounds,True,1,Aegean. Operated by Olympic,2:55PM,9:15PM,Santorini,London,2024/01/20,2024-01-15
+1614,149,pounds,False,1,SKY express and Wizz Air,1:15PM,11:50PM,Santorini,London,2024/01/20,2024-01-15
+1615,150,pounds,False,1,Aegean and Wizz Air,11:45AM,11:50PM,Santorini,London,2024/01/20,2024-01-15
+1616,161,pounds,False,2,"Olympic, Aegean and Vueling",6:40AM,4:25PM,Santorini,London,2024/01/20,2024-01-15
+1617,164,pounds,False,1,Aegean and Wizz Air,2:55PM,11:50PM,Santorini,London,2024/01/20,2024-01-15
+1618,168,pounds,False,2,"Olympic, Aegean and Wizz Air",11:45AM,8:10PM,Santorini,London,2024/01/20,2024-01-15
+1619,169,pounds,False,1,Aegean and easyJet,6:25PM,3:20PM,Santorini,London,2024/01/20,2024-01-15
+1620,173,pounds,True,1,Olympic and SKY express,6:40AM,12:15PM,Santorini,London,2024/01/20,2024-01-15
+1621,173,pounds,True,1,Aegean. Operated by Olympic,11:45AM,11:10AM,Santorini,London,2024/01/20,2024-01-15
+1622,173,pounds,True,1,Aegean. Operated by Olympic,2:55PM,11:10AM,Santorini,London,2024/01/20,2024-01-15
+1623,173,pounds,True,1,Aegean. Operated by Olympic,6:25PM,11:10AM,Santorini,London,2024/01/20,2024-01-15
+1624,173,pounds,True,1,Aegean. Operated by Olympic,6:25PM,9:15PM,Santorini,London,2024/01/20,2024-01-15
+1625,174,pounds,False,1,SKY express and easyJet,6:40PM,3:20PM,Santorini,London,2024/01/20,2024-01-15
+1626,176,pounds,True,1,SKY express and Aegean,9:20AM,9:15PM,Santorini,London,2024/01/20,2024-01-15
+1627,193,pounds,False,1,SKY express and easyJet,1:15PM,3:20PM,Santorini,London,2024/01/20,2024-01-15
+1628,195,pounds,True,1,SKY express and Aegean,1:15PM,9:15PM,Santorini,London,2024/01/20,2024-01-15
+1629,106,pounds,False,1,Wizz Air and SKY express,3:25PM,8:55AM,London,Santorini,2024/01/20,2024-01-15
+1630,155,pounds,True,1,Aegean. Operated by Olympic,12:15PM,10:00PM,London,Santorini,2024/01/20,2024-01-15
+1631,162,pounds,True,1,SKY express and Aegean,1:15PM,10:00PM,London,Santorini,2024/01/20,2024-01-15
+1632,164,pounds,False,2,"easyJet, Aegean and Olympic",6:50AM,5:55PM,London,Santorini,2024/01/20,2024-01-15
+1633,138,pounds,False,2,"easyJet, Wizz Air and SKY express",5:10PM,12:45PM,London,Santorini,2024/01/20,2024-01-15
+1634,143,pounds,False,2,Wizz Air and SKY express,8:50PM,12:45PM,London,Santorini,2024/01/20,2024-01-15
+1635,151,pounds,True,1,SKY express,1:15PM,8:55AM,London,Santorini,2024/01/20,2024-01-15
+1636,158,pounds,True,1,Aegean and SKY express,10:15PM,8:55AM,London,Santorini,2024/01/20,2024-01-15
+1637,161,pounds,True,1,Aegean,4:35PM,10:55AM,London,Santorini,2024/01/20,2024-01-15
+1638,161,pounds,True,1,Aegean. Operated by Olympic,4:35PM,2:25PM,London,Santorini,2024/01/20,2024-01-15
+1639,161,pounds,True,1,Aegean. Operated by Olympic,4:35PM,5:55PM,London,Santorini,2024/01/20,2024-01-15
+1640,161,pounds,True,1,Aegean. Operated by Olympic,4:35PM,10:00PM,London,Santorini,2024/01/20,2024-01-15
+1641,161,pounds,True,1,Aegean,10:15PM,10:55AM,London,Santorini,2024/01/20,2024-01-15
+1642,161,pounds,True,1,Aegean. Operated by Olympic,10:15PM,2:25PM,London,Santorini,2024/01/20,2024-01-15
+1643,161,pounds,True,1,Aegean. Operated by Olympic,10:15PM,5:55PM,London,Santorini,2024/01/20,2024-01-15
+1644,161,pounds,True,1,Aegean. Operated by Olympic,10:15PM,10:00PM,London,Santorini,2024/01/20,2024-01-15
+1645,164,pounds,True,1,Aegean and SKY express,10:15PM,12:45PM,London,Santorini,2024/01/20,2024-01-15
+1646,179,pounds,False,3,"easyJet, Vueling and Olympic",5:10PM,2:25PM,London,Santorini,2024/01/20,2024-01-15
+1647,181,pounds,True,1,Aegean and SKY express,4:35PM,8:55AM,London,Santorini,2024/01/20,2024-01-15
+1648,189,pounds,True,1,Aegean,12:15PM,10:55AM,London,Santorini,2024/01/20,2024-01-15
+1649,189,pounds,True,1,Aegean. Operated by Olympic,12:15PM,2:25PM,London,Santorini,2024/01/20,2024-01-15
+1650,189,pounds,True,1,Aegean. Operated by Olympic,12:15PM,5:55PM,London,Santorini,2024/01/20,2024-01-15
+1651,201,pounds,False,2,"easyJet, Aegean and Olympic",8:00AM,10:00PM,London,Santorini,2024/01/20,2024-01-15
+1652,205,pounds,True,2,"British Airways, Aegean and Olympic",7:45AM,10:00PM,London,Santorini,2024/01/20,2024-01-15
+1653,212,pounds,False,2,"Wizz Air, ITA and Olympic",9:15PM,2:25PM,London,Santorini,2024/01/20,2024-01-15
+1654,50,pounds,False,Nonstop,Ryanair,11:20AM,12:50PM,Rijeka,London,2024/03/28,2024-01-15
+1655,72,pounds,True,Nonstop,British Airways,8:50PM,10:25PM,Rijeka,London,2024/03/28,2024-01-15
+1656,174,pounds,True,1,Croatia and Lufthansa,12:00PM,5:05PM,Rijeka,London,2024/03/28,2024-01-15
+1657,90,pounds,True,1,LOT,6:00PM,10:00PM,Rijeka,London,2024/03/28,2024-01-15
+1658,90,pounds,True,1,LOT,6:00PM,9:35AM,Rijeka,London,2024/03/28,2024-01-15
+1659,90,pounds,True,1,LOT,6:00PM,5:20PM,Rijeka,London,2024/03/28,2024-01-15
+1660,106,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",3:05PM,6:25PM,Rijeka,London,2024/03/28,2024-01-15
+1661,106,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",3:05PM,8:15PM,Rijeka,London,2024/03/28,2024-01-15
+1662,128,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",3:05PM,7:35PM,Rijeka,London,2024/03/28,2024-01-15
+1663,128,pounds,True,1,KLM. Operated by KLM Cityhopper,3:05PM,8:50PM,Rijeka,London,2024/03/28,2024-01-15
+1664,134,pounds,True,1,Croatia and SWISS,8:35AM,5:50PM,Rijeka,London,2024/03/28,2024-01-15
+1665,139,pounds,True,1,Croatia and Brussels Airlines,6:00PM,8:50PM,Rijeka,London,2024/03/28,2024-01-15
+1666,139,pounds,True,1,Croatia and Brussels Airlines,6:00PM,9:20PM,Rijeka,London,2024/03/28,2024-01-15
+1667,142,pounds,True,1,Croatia and Lufthansa,9:05AM,3:45PM,Rijeka,London,2024/03/28,2024-01-15
+1668,142,pounds,True,1,Croatia and Lufthansa,9:05AM,4:45PM,Rijeka,London,2024/03/28,2024-01-15
+1669,142,pounds,True,1,Croatia and Lufthansa,9:05AM,5:05PM,Rijeka,London,2024/03/28,2024-01-15
+1670,142,pounds,True,1,Croatia and Lufthansa,9:05AM,5:45PM,Rijeka,London,2024/03/28,2024-01-15
+1671,142,pounds,True,1,Croatia and Lufthansa,9:05AM,6:45PM,Rijeka,London,2024/03/28,2024-01-15
+1672,145,pounds,True,1,KLM. Operated by KLM Cityhopper,6:30AM,10:45AM,Rijeka,London,2024/03/28,2024-01-15
+1673,145,pounds,True,1,KLM. Operated by KLM Cityhopper,6:30AM,1:50PM,Rijeka,London,2024/03/28,2024-01-15
+1674,145,pounds,True,1,KLM. Operated by KLM Cityhopper,6:30AM,4:05PM,Rijeka,London,2024/03/28,2024-01-15
+1675,145,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",6:30AM,5:00PM,Rijeka,London,2024/03/28,2024-01-15
+1676,145,pounds,True,1,KLM. Operated by KLM Cityhopper,6:30AM,5:55PM,Rijeka,London,2024/03/28,2024-01-15
+1677,145,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",6:30AM,6:25PM,Rijeka,London,2024/03/28,2024-01-15
+1678,145,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",6:30AM,7:15PM,Rijeka,London,2024/03/28,2024-01-15
+1679,114,pounds,False,Nonstop,Ryanair,7:30AM,10:45AM,London,Rijeka,2024/03/28,2024-01-15
+1680,164,pounds,True,Nonstop,British Airways,4:40PM,8:00PM,London,Rijeka,2024/03/28,2024-01-15
+1681,207,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",5:50PM,10:55PM,London,Rijeka,2024/03/28,2024-01-15
+1682,207,pounds,True,1,LOT,10:25AM,5:20PM,London,Rijeka,2024/03/28,2024-01-15
+1683,265,pounds,True,1,Austrian,9:05AM,2:00PM,London,Rijeka,2024/03/28,2024-01-15
+1684,188,pounds,True,1,LOT,6:30AM,5:20PM,London,Rijeka,2024/03/28,2024-01-15
+1685,207,pounds,True,1,KLM. Operated by KLM Cityhopper,8:40AM,10:55PM,London,Rijeka,2024/03/28,2024-01-15
+1686,207,pounds,True,1,KLM. Operated by KLM Cityhopper,10:00AM,10:55PM,London,Rijeka,2024/03/28,2024-01-15
+1687,207,pounds,True,1,KLM. Operated by KLM Cityhopper,11:45AM,10:55PM,London,Rijeka,2024/03/28,2024-01-15
+1688,207,pounds,True,1,KLM. Operated by KLM Cityhopper,3:45PM,10:55PM,London,Rijeka,2024/03/28,2024-01-15
+1689,207,pounds,True,1,KLM. Operated by KLM Cityhopper,5:05PM,10:55PM,London,Rijeka,2024/03/28,2024-01-15
+1690,207,pounds,True,1,LOT,6:10PM,12:10PM,London,Rijeka,2024/03/28,2024-01-15
+1691,227,pounds,True,1,Brussels Airlines and Croatia,11:05AM,10:20PM,London,Rijeka,2024/03/28,2024-01-15
+1692,227,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",8:40AM,2:35PM,London,Rijeka,2024/03/28,2024-01-15
+1693,227,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",8:40AM,10:55PM,London,Rijeka,2024/03/28,2024-01-15
+1694,227,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",9:20AM,10:55PM,London,Rijeka,2024/03/28,2024-01-15
+1695,227,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",5:05PM,10:55PM,London,Rijeka,2024/03/28,2024-01-15
+1696,227,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",5:50PM,10:55PM,London,Rijeka,2024/03/28,2024-01-15
+1697,228,pounds,True,1,Eurowings,3:50PM,11:45AM,London,Rijeka,2024/03/28,2024-01-15
+1698,238,pounds,True,1,Brussels Airlines and Croatia,5:50PM,12:35PM,London,Rijeka,2024/03/28,2024-01-15
+1699,252,pounds,True,1,Eurowings,8:00PM,11:45AM,London,Rijeka,2024/03/28,2024-01-15
+1700,264,pounds,True,1,"KLM. Operated by KLM Cityhopper, KLM Cityhopper",10:00AM,10:55PM,London,Rijeka,2024/03/28,2024-01-15
+1701,265,pounds,True,2,Air Baltic and Croatia,9:25AM,8:25PM,London,Rijeka,2024/03/28,2024-01-15
+1702,265,pounds,True,2,Air Baltic and Croatia,5:30PM,11:00AM,London,Rijeka,2024/03/28,2024-01-15
+1703,271,pounds,True,1,Lufthansa and Croatia,8:30AM,7:20PM,London,Rijeka,2024/03/28,2024-01-15
+1704,19,pounds,False,Nonstop,Ryanair,9:50AM,11:20AM,Shannon,London,2024/04/12,2024-01-15
+1705,19,pounds,False,Nonstop,Ryanair,7:50PM,9:20PM,Shannon,London,2024/04/12,2024-01-15
+1706,30,pounds,False,Nonstop,Ryanair,3:10PM,4:45PM,Shannon,London,2024/04/12,2024-01-15
+1707,42,pounds,True,Nonstop,Aer Lingus,7:40AM,9:05AM,Shannon,London,2024/04/12,2024-01-15
+1708,42,pounds,True,Nonstop,Aer Lingus,9:25PM,10:40PM,Shannon,London,2024/04/12,2024-01-15
+1709,18,pounds,False,Nonstop,Ryanair,5:30PM,7:05PM,London,Shannon,2024/04/12,2024-01-15
+1710,60,pounds,True,Nonstop,Aer Lingus,2:45PM,4:10PM,London,Shannon,2024/04/12,2024-01-15
+1711,17,pounds,False,Nonstop,Ryanair,9:45PM,11:15PM,London,Shannon,2024/04/12,2024-01-15
+1712,20,pounds,False,Nonstop,Ryanair,7:30AM,9:00AM,London,Shannon,2024/04/12,2024-01-15
+1713,59,pounds,True,Nonstop,Aer Lingus,7:10PM,8:35PM,London,Shannon,2024/04/12,2024-01-15
+1714,119,pounds,True,Nonstop,Aer Lingus,9:50AM,11:20AM,London,Shannon,2024/04/12,2024-01-15
+1715,31,pounds,False,Nonstop,Wizz Air,7:15PM,8:25PM,Cluj,London,2024/04/24,2024-01-15
+1716,50,pounds,False,Nonstop,Wizz Air,6:10AM,7:20AM,Cluj,London,2024/04/24,2024-01-15
+1717,102,pounds,True,1,LOT,6:00PM,10:00PM,Cluj,London,2024/04/24,2024-01-15
+1718,106,pounds,True,1,Lufthansa. Operated by Air Dolomiti,6:10PM,8:45PM,Cluj,London,2024/04/24,2024-01-15
+1719,106,pounds,True,1,Lufthansa. Operated by Air Dolomiti,6:10PM,10:40PM,Cluj,London,2024/04/24,2024-01-15
+1720,126,pounds,True,1,Lufthansa. Operated by Air Dolomiti,1:55PM,5:05PM,Cluj,London,2024/04/24,2024-01-15
+1721,126,pounds,True,1,Lufthansa. Operated by Air Dolomiti,1:55PM,6:30PM,Cluj,London,2024/04/24,2024-01-15
+1722,126,pounds,True,1,Lufthansa. Operated by Air Dolomiti,1:55PM,7:40PM,Cluj,London,2024/04/24,2024-01-15
+1723,126,pounds,True,1,Lufthansa. Operated by Air Dolomiti,1:55PM,8:45PM,Cluj,London,2024/04/24,2024-01-15
+1724,126,pounds,True,1,Lufthansa. Operated by Air Dolomiti,1:55PM,10:40PM,Cluj,London,2024/04/24,2024-01-15
+1725,132,pounds,True,1,Turkish Airlines,9:20AM,2:40PM,Cluj,London,2024/04/24,2024-01-15
+1726,132,pounds,True,1,Turkish Airlines,9:20AM,3:55PM,Cluj,London,2024/04/24,2024-01-15
+1727,132,pounds,True,1,Turkish Airlines,9:20AM,4:25PM,Cluj,London,2024/04/24,2024-01-15
+1728,132,pounds,True,1,Turkish Airlines,9:20AM,4:50PM,Cluj,London,2024/04/24,2024-01-15
+1729,132,pounds,True,1,Turkish Airlines,9:20AM,8:50PM,Cluj,London,2024/04/24,2024-01-15
+1730,132,pounds,True,1,Turkish Airlines,9:20AM,10:20PM,Cluj,London,2024/04/24,2024-01-15
+1731,132,pounds,True,1,Turkish Airlines,9:20AM,9:50AM,Cluj,London,2024/04/24,2024-01-15
+1732,132,pounds,True,1,Turkish Airlines,9:20AM,12:50PM,Cluj,London,2024/04/24,2024-01-15
+1733,147,pounds,True,1,Lufthansa. Operated by Air Dolomiti,6:00AM,12:50PM,Cluj,London,2024/04/24,2024-01-15
+1734,147,pounds,True,1,Lufthansa. Operated by Air Dolomiti,6:00AM,3:45PM,Cluj,London,2024/04/24,2024-01-15
+1735,147,pounds,True,1,Lufthansa. Operated by Air Dolomiti,6:00AM,5:05PM,Cluj,London,2024/04/24,2024-01-15
+1736,147,pounds,True,1,Lufthansa. Operated by Air Dolomiti,6:00AM,6:30PM,Cluj,London,2024/04/24,2024-01-15
+1737,147,pounds,True,1,Lufthansa. Operated by Air Dolomiti,6:00AM,7:40PM,Cluj,London,2024/04/24,2024-01-15
+1738,150,pounds,True,1,LOT,6:00PM,9:25AM,Cluj,London,2024/04/24,2024-01-15
+1739,150,pounds,True,1,LOT,6:00PM,5:20PM,Cluj,London,2024/04/24,2024-01-15
+1740,32,pounds,False,Nonstop,Wizz Air,8:00AM,12:55PM,London,Cluj,2024/04/24,2024-01-15
+1741,32,pounds,False,Nonstop,Wizz Air,9:05PM,2:00AM,London,Cluj,2024/04/24,2024-01-15
+1742,108,pounds,True,1,Lufthansa. Operated by Air Dolomiti,6:55AM,1:15PM,London,Cluj,2024/04/24,2024-01-15
+1743,108,pounds,True,1,Lufthansa. Operated by Air Dolomiti,6:55AM,5:25PM,London,Cluj,2024/04/24,2024-01-15
+1744,108,pounds,True,1,Lufthansa. Operated by Air Dolomiti,7:25AM,5:25PM,London,Cluj,2024/04/24,2024-01-15
+1745,108,pounds,True,1,Lufthansa. Operated by Air Dolomiti,9:00AM,5:25PM,London,Cluj,2024/04/24,2024-01-15
+1746,108,pounds,True,1,Lufthansa. Operated by Air Dolomiti,10:50AM,5:25PM,London,Cluj,2024/04/24,2024-01-15
+1747,120,pounds,True,1,"SWISS. Operated by Air Baltic, Helvetic",8:05PM,9:50AM,London,Cluj,2024/04/24,2024-01-15
+1748,135,pounds,True,2,Lufthansa. Operated by Air Dolomiti,6:30AM,5:25PM,London,Cluj,2024/04/24,2024-01-15
+1749,135,pounds,True,2,Lufthansa. Operated by Air Dolomiti,6:30AM,5:25PM,London,Cluj,2024/04/24,2024-01-15
+1750,135,pounds,True,2,Lufthansa. Operated by Air Dolomiti,7:30AM,5:25PM,London,Cluj,2024/04/24,2024-01-15
+1751,135,pounds,True,2,Lufthansa. Operated by Air Dolomiti,8:30AM,5:25PM,London,Cluj,2024/04/24,2024-01-15
+1752,138,pounds,True,1,Lufthansa. Operated by Air Dolomiti,7:25AM,12:40AM,London,Cluj,2024/04/24,2024-01-15
+1753,138,pounds,True,1,Lufthansa. Operated by Air Dolomiti,9:00AM,12:40AM,London,Cluj,2024/04/24,2024-01-15
+1754,140,pounds,True,1,SWISS. Operated by Helvetic,6:00PM,9:50AM,London,Cluj,2024/04/24,2024-01-15
+1755,149,pounds,True,1,Lufthansa. Operated by Air Dolomiti,6:55AM,12:40AM,London,Cluj,2024/04/24,2024-01-15
+1756,153,pounds,True,2,Lufthansa. Operated by Air Dolomiti,6:30AM,12:40AM,London,Cluj,2024/04/24,2024-01-15
+1757,153,pounds,True,2,Lufthansa. Operated by Air Dolomiti,7:30AM,12:40AM,London,Cluj,2024/04/24,2024-01-15
+1758,153,pounds,True,2,Lufthansa. Operated by Air Dolomiti,8:30AM,12:40AM,London,Cluj,2024/04/24,2024-01-15
+1759,154,pounds,True,1,LOT,6:30AM,5:25PM,London,Cluj,2024/04/24,2024-01-15
+1760,154,pounds,True,1,LOT,10:15AM,5:25PM,London,Cluj,2024/04/24,2024-01-15
+1761,155,pounds,True,2,"Lufthansa. Operated by Lufthansa CityLine, Air Dolomiti",7:50AM,5:25PM,London,Cluj,2024/04/24,2024-01-15
+1762,158,pounds,True,1,Lufthansa. Operated by Air Dolomiti,8:25PM,1:15PM,London,Cluj,2024/04/24,2024-01-15
+1763,159,pounds,True,1,Lufthansa. Operated by Air Dolomiti,10:50AM,12:40AM,London,Cluj,2024/04/24,2024-01-15
+1764,159,pounds,True,1,Lufthansa. Operated by Air Dolomiti,1:50PM,12:40AM,London,Cluj,2024/04/24,2024-01-15
+1765,11,pounds,False,Nonstop,Ryanair UK,11:00AM,1:35PM,Ouarzazate,London,2024/01/27,2024-01-15
+1766,26,pounds,False,Nonstop,Wizz Air,11:30AM,2:10PM,Ouarzazate,London,2024/01/27,2024-01-15
+1767,50,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,7:20PM,9:50PM,Ouarzazate,London,2024/01/27,2024-01-15
+1768,21,pounds,False,Nonstop,Wizz Air,10:50PM,1:30AM,Ouarzazate,London,2024/01/27,2024-01-15
+1769,33,pounds,False,Nonstop,Ryanair UK,7:40PM,10:25PM,Ouarzazate,London,2024/01/27,2024-01-15
+1770,46,pounds,False,Nonstop,easyJet,7:50PM,10:30PM,Ouarzazate,London,2024/01/27,2024-01-15
+1771,50,pounds,False,Nonstop,easyJet,2:55PM,5:35PM,Ouarzazate,London,2024/01/27,2024-01-15
+1772,87,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,12:45PM,5:30PM,Ouarzazate,London,2024/01/27,2024-01-15
+1773,87,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,12:45PM,6:55PM,Ouarzazate,London,2024/01/27,2024-01-15
+1774,87,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,12:45PM,9:35PM,Ouarzazate,London,2024/01/27,2024-01-15
+1775,87,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,12:45PM,10:40PM,Ouarzazate,London,2024/01/27,2024-01-15
+1776,87,pounds,True,1,"Tap Air Portugal. Operated by Portugalia Airlines, Portugalia Airlines",12:45PM,9:50AM,Ouarzazate,London,2024/01/27,2024-01-15
+1777,87,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,4:45PM,10:40PM,Ouarzazate,London,2024/01/27,2024-01-15
+1778,87,pounds,True,1,"Tap Air Portugal. Operated by Portugalia Airlines, Portugalia Airlines",4:45PM,9:50AM,Ouarzazate,London,2024/01/27,2024-01-15
+1779,91,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,12:45PM,12:40PM,Ouarzazate,London,2024/01/27,2024-01-15
+1780,91,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,4:45PM,3:30PM,Ouarzazate,London,2024/01/27,2024-01-15
+1781,94,pounds,True,1,Vueling,7:15PM,7:50AM,Ouarzazate,London,2024/01/27,2024-01-15
+1782,99,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,4:45PM,9:35PM,Ouarzazate,London,2024/01/27,2024-01-15
+1783,103,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,12:45PM,11:25AM,Ouarzazate,London,2024/01/27,2024-01-15
+1784,103,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,4:45PM,5:30PM,Ouarzazate,London,2024/01/27,2024-01-15
+1785,120,pounds,True,1,Iberia. Operated by Iberia Express,12:45PM,5:15PM,Ouarzazate,London,2024/01/27,2024-01-15
+1786,120,pounds,True,1,Iberia. Operated by Iberia Express,12:45PM,6:15PM,Ouarzazate,London,2024/01/27,2024-01-15
+1787,129,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,4:45PM,12:40PM,Ouarzazate,London,2024/01/27,2024-01-15
+1788,138,pounds,True,Nonstop,British Airways,12:30PM,3:15PM,Ouarzazate,London,2024/01/27,2024-01-15
+1789,141,pounds,True,1,"Iberia. Operated by Iberia Express, Iberia Express",12:45PM,6:55PM,Ouarzazate,London,2024/01/27,2024-01-15
+1790,13,pounds,False,Nonstop,Ryanair UK,6:00AM,10:35AM,London,Ouarzazate,2024/01/27,2024-01-15
+1791,53,pounds,False,Nonstop,easyJet,2:30PM,7:10PM,London,Ouarzazate,2024/01/27,2024-01-15
+1792,59,pounds,False,Nonstop,Wizz Air,2:00PM,6:35PM,London,Ouarzazate,2024/01/27,2024-01-15
+1793,77,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,1:50PM,6:25PM,London,Ouarzazate,2024/01/27,2024-01-15
+1794,43,pounds,False,1,easyJet and Wizz Air,5:10PM,9:35AM,London,Ouarzazate,2024/01/27,2024-01-15
+1795,47,pounds,False,1,Wizz Air,8:50PM,9:35AM,London,Ouarzazate,2024/01/27,2024-01-15
+1796,59,pounds,False,Nonstop,Wizz Air,6:20AM,10:55AM,London,Ouarzazate,2024/01/27,2024-01-15
+1797,63,pounds,False,1,Wizz Air and easyJet,8:50PM,9:25AM,London,Ouarzazate,2024/01/27,2024-01-15
+1798,70,pounds,False,Nonstop,Ryanair UK,2:40PM,7:15PM,London,Ouarzazate,2024/01/27,2024-01-15
+1799,74,pounds,False,Nonstop,easyJet,9:05AM,1:45PM,London,Ouarzazate,2024/01/27,2024-01-15
+1800,81,pounds,False,1,easyJet,7:55PM,9:10AM,London,Ouarzazate,2024/01/27,2024-01-15
+1801,103,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,6:00AM,3:55PM,London,Ouarzazate,2024/01/27,2024-01-15
+1802,103,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,8:15AM,3:55PM,London,Ouarzazate,2024/01/27,2024-01-15
+1803,103,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,6:30PM,4:35PM,London,Ouarzazate,2024/01/27,2024-01-15
+1804,103,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,7:55PM,4:35PM,London,Ouarzazate,2024/01/27,2024-01-15
+1805,104,pounds,True,1,"Tap Air Portugal. Operated by Portugalia Airlines, Portugalia Airlines",4:35PM,4:35PM,London,Ouarzazate,2024/01/27,2024-01-15
+1806,106,pounds,False,1,easyJet,8:05AM,6:55PM,London,Ouarzazate,2024/01/27,2024-01-15
+1807,108,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,8:15AM,4:35PM,London,Ouarzazate,2024/01/27,2024-01-15
+1808,108,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,12:25PM,4:35PM,London,Ouarzazate,2024/01/27,2024-01-15
+1809,108,pounds,True,1,Tap Air Portugal. Operated by Portugalia Airlines,1:40PM,4:35PM,London,Ouarzazate,2024/01/27,2024-01-15
+1810,109,pounds,False,1,easyJet,2:40PM,9:10AM,London,Ouarzazate,2024/01/27,2024-01-15
+1811,110,pounds,False,1,Wizz Air and easyJet,5:55AM,6:40PM,London,Ouarzazate,2024/01/27,2024-01-15
+1812,116,pounds,True,Nonstop,British Airways,6:25AM,11:10AM,London,Ouarzazate,2024/01/27,2024-01-15
+1813,129,pounds,False,1,easyJet,11:35AM,9:10AM,London,Ouarzazate,2024/01/27,2024-01-15
+1814,146,pounds,False,1,easyJet,7:10AM,6:40PM,London,Ouarzazate,2024/01/27,2024-01-15
+1815,60,pounds,False,Nonstop,easyJet,11:40PM,1:45AM,Crete,London,2024/05/16,2024-01-15
+1816,64,pounds,True,1,Aegean,3:00PM,9:10PM,Crete,London,2024/05/16,2024-01-15
+1817,111,pounds,False,Nonstop,easyJet,1:55PM,4:05PM,Crete,London,2024/05/16,2024-01-15
+1818,117,pounds,True,Nonstop,Jet2,7:35PM,9:45PM,Crete,London,2024/05/16,2024-01-15
+1819,177,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,3:00PM,5:05PM,Crete,London,2024/05/16,2024-01-15
+1820,47,pounds,False,1,easyJet,8:35PM,11:30AM,Crete,London,2024/05/16,2024-01-15
+1821,64,pounds,True,1,Aegean,8:15AM,9:10PM,Crete,London,2024/05/16,2024-01-15
+1822,72,pounds,True,1,SKY express,10:25PM,12:20PM,Crete,London,2024/05/16,2024-01-15
+1823,76,pounds,False,1,easyJet,8:35PM,5:40PM,Crete,London,2024/05/16,2024-01-15
+1824,77,pounds,True,1,Aegean,11:35AM,9:10PM,Crete,London,2024/05/16,2024-01-15
+1825,83,pounds,True,1,Aegean,9:40PM,11:15AM,Crete,London,2024/05/16,2024-01-15
+1826,87,pounds,False,1,Volotea and easyJet,10:30AM,10:55PM,Crete,London,2024/05/16,2024-01-15
+1827,89,pounds,True,1,SKY express,6:50AM,12:20PM,Crete,London,2024/05/16,2024-01-15
+1828,97,pounds,True,1,Aegean,6:25PM,11:15AM,Crete,London,2024/05/16,2024-01-15
+1829,98,pounds,True,1,Aegean,9:35AM,9:10PM,Crete,London,2024/05/16,2024-01-15
+1830,102,pounds,False,1,Aegean and easyJet,3:00PM,10:55PM,Crete,London,2024/05/16,2024-01-15
+1831,112,pounds,False,1,Aegean and easyJet,8:15AM,2:35PM,Crete,London,2024/05/16,2024-01-15
+1832,113,pounds,True,1,Aegean,9:40PM,3:30PM,Crete,London,2024/05/16,2024-01-15
+1833,120,pounds,False,1,Aegean and easyJet,9:35AM,2:35PM,Crete,London,2024/05/16,2024-01-15
+1834,120,pounds,True,1,Aegean,6:00AM,3:30PM,Crete,London,2024/05/16,2024-01-15
+1835,120,pounds,True,1,Aegean,6:00AM,9:10PM,Crete,London,2024/05/16,2024-01-15
+1836,120,pounds,True,1,Aegean,8:15AM,3:30PM,Crete,London,2024/05/16,2024-01-15
+1837,120,pounds,True,1,Aegean,9:35AM,3:30PM,Crete,London,2024/05/16,2024-01-15
+1838,120,pounds,True,1,Aegean,11:35AM,3:30PM,Crete,London,2024/05/16,2024-01-15
+1839,125,pounds,False,1,Aegean and easyJet,6:00AM,2:35PM,Crete,London,2024/05/16,2024-01-15
+1840,14,pounds,False,Nonstop,Ryanair,3:00PM,3:50PM,Grenoble,London,2024/02/29,2024-01-15
+1841,17,pounds,False,Nonstop,Wizz Air,9:20AM,10:00AM,Grenoble,London,2024/02/29,2024-01-15
+1842,30,pounds,False,Nonstop,easyJet,4:15PM,4:55PM,Grenoble,London,2024/02/29,2024-01-15
+1843,55,pounds,True,Nonstop,British Airways,1:30PM,2:20PM,Grenoble,London,2024/02/29,2024-01-15
+1844,19,pounds,False,Nonstop,easyJet,8:20PM,9:05PM,Grenoble,London,2024/02/29,2024-01-15
+1845,24,pounds,False,Nonstop,easyJet,10:20AM,10:55AM,Grenoble,London,2024/02/29,2024-01-15
+1846,26,pounds,False,Nonstop,easyJet,9:45AM,10:30AM,Grenoble,London,2024/02/29,2024-01-15
+1847,26,pounds,False,Nonstop,easyJet,11:30AM,12:05PM,Grenoble,London,2024/02/29,2024-01-15
+1848,26,pounds,False,Nonstop,easyJet,6:40PM,7:15PM,Grenoble,London,2024/02/29,2024-01-15
+1849,34,pounds,False,Nonstop,easyJet,7:10AM,7:45AM,Grenoble,London,2024/02/29,2024-01-15
+1850,49,pounds,True,Nonstop,British Airways,6:40PM,7:35PM,Grenoble,London,2024/02/29,2024-01-15
+1851,51,pounds,False,1,easyJet,3:05PM,11:35PM,Grenoble,London,2024/02/29,2024-01-15
+1852,52,pounds,False,1,easyJet,6:05PM,10:45PM,Grenoble,London,2024/02/29,2024-01-15
+1853,54,pounds,False,1,Vueling,2:50PM,9:40PM,Grenoble,London,2024/02/29,2024-01-15
+1854,55,pounds,True,Nonstop,British Airways,9:35AM,10:25AM,Grenoble,London,2024/02/29,2024-01-15
+1855,63,pounds,False,1,easyJet,10:35AM,3:45PM,Grenoble,London,2024/02/29,2024-01-15
+1856,65,pounds,False,1,Vueling,2:50PM,8:15PM,Grenoble,London,2024/02/29,2024-01-15
+1857,65,pounds,True,1,Iberia. Operated by Iberia Express,7:00AM,4:35PM,Grenoble,London,2024/02/29,2024-01-15
+1858,65,pounds,True,1,Iberia. Operated by Iberia Express,7:00AM,5:15PM,Grenoble,London,2024/02/29,2024-01-15
+1859,72,pounds,True,1,Iberia. Operated by Iberia Express,7:00AM,2:55PM,Grenoble,London,2024/02/29,2024-01-15
+1860,72,pounds,True,1,Iberia. Operated by Iberia Express,7:00AM,6:15PM,Grenoble,London,2024/02/29,2024-01-15
+1861,72,pounds,True,1,Iberia. Operated by Iberia Express,7:00AM,6:50PM,Grenoble,London,2024/02/29,2024-01-15
+1862,80,pounds,False,1,easyJet,3:05PM,9:05PM,Grenoble,London,2024/02/29,2024-01-15
+1863,88,pounds,True,1,"Iberia. Operated by Iberia Express, Iberia Express",9:05PM,10:15AM,Grenoble,London,2024/02/29,2024-01-15
+1864,89,pounds,False,1,Vueling,2:50PM,6:35PM,Grenoble,London,2024/02/29,2024-01-15
+1865,13,pounds,False,Nonstop,Wizz Air,6:05AM,8:40AM,London,Grenoble,2024/02/29,2024-01-15
+1866,20,pounds,False,Nonstop,Ryanair,11:30AM,2:20PM,London,Grenoble,2024/02/29,2024-01-15
+1867,101,pounds,False,Nonstop,easyJet,12:45PM,3:25PM,London,Grenoble,2024/02/29,2024-01-15
+1868,22,pounds,False,Nonstop,easyJet,6:30AM,9:15AM,London,Grenoble,2024/02/29,2024-01-15
+1869,51,pounds,False,Nonstop,easyJet,7:10AM,9:45AM,London,Grenoble,2024/02/29,2024-01-15
+1870,55,pounds,False,Nonstop,easyJet,8:20AM,10:55AM,London,Grenoble,2024/02/29,2024-01-15
+1871,65,pounds,False,1,Vueling,9:05PM,9:10AM,London,Grenoble,2024/02/29,2024-01-15
+1872,70,pounds,False,1,easyJet and Vueling,6:30PM,9:10AM,London,Grenoble,2024/02/29,2024-01-15
+1873,72,pounds,True,Nonstop,British Airways,6:10AM,8:50AM,London,Grenoble,2024/02/29,2024-01-15
+1874,80,pounds,False,1,easyJet and Vueling,6:50AM,2:10PM,London,Grenoble,2024/02/29,2024-01-15
+1875,81,pounds,False,1,Wizz Air and Volotea,9:10AM,4:40PM,London,Grenoble,2024/02/29,2024-01-15
+1876,84,pounds,False,1,Vueling,7:35PM,9:10AM,London,Grenoble,2024/02/29,2024-01-15
+1877,85,pounds,False,Nonstop,easyJet,5:00PM,7:45PM,London,Grenoble,2024/02/29,2024-01-15
+1878,86,pounds,False,1,easyJet,8:10AM,4:55PM,London,Grenoble,2024/02/29,2024-01-15
+1879,89,pounds,False,1,easyJet and Volotea,7:00AM,4:40PM,London,Grenoble,2024/02/29,2024-01-15
+1880,100,pounds,False,1,Vueling and easyJet,9:50AM,6:30PM,London,Grenoble,2024/02/29,2024-01-15
+1881,103,pounds,True,1,Air France. Operated by HOP!,8:55AM,7:40PM,London,Grenoble,2024/02/29,2024-01-15
+1882,105,pounds,False,1,easyJet and Vueling,6:55AM,2:10PM,London,Grenoble,2024/02/29,2024-01-15
+1883,108,pounds,True,1,Brussels Airlines,6:50AM,10:25PM,London,Grenoble,2024/02/29,2024-01-15
+1884,108,pounds,True,1,Brussels Airlines,7:10AM,10:25PM,London,Grenoble,2024/02/29,2024-01-15
+1885,108,pounds,True,1,Brussels Airlines,11:05AM,10:25PM,London,Grenoble,2024/02/29,2024-01-15
+1886,108,pounds,True,1,Brussels Airlines,5:50PM,10:25PM,London,Grenoble,2024/02/29,2024-01-15
+1887,115,pounds,False,1,Vueling and easyJet,9:10AM,6:30PM,London,Grenoble,2024/02/29,2024-01-15
+1888,119,pounds,False,Nonstop,easyJet,12:45PM,3:20PM,London,Grenoble,2024/02/29,2024-01-15
+1889,124,pounds,False,1,easyJet,8:55AM,3:40PM,London,Grenoble,2024/02/29,2024-01-15
+1890,61,pounds,True,1,Pegasus,10:45AM,3:35PM,Antalya,London,2024/05/11,2024-01-15
+1891,83,pounds,True,Nonstop,Corendon,8:00AM,10:35AM,Antalya,London,2024/05/11,2024-01-15
+1892,88,pounds,True,Nonstop,Pegasus,8:05AM,10:30AM,Antalya,London,2024/05/11,2024-01-15
+1893,95,pounds,True,Nonstop,SunExpress,9:00AM,11:40AM,Antalya,London,2024/05/11,2024-01-15
+1894,55,pounds,True,1,Pegasus,7:55AM,1:30PM,Antalya,London,2024/05/11,2024-01-15
+1895,55,pounds,True,1,Pegasus,10:10PM,10:55AM,Antalya,London,2024/05/11,2024-01-15
+1896,61,pounds,True,1,Pegasus,6:05AM,10:55AM,Antalya,London,2024/05/11,2024-01-15
+1897,61,pounds,True,1,Pegasus,11:50AM,8:10PM,Antalya,London,2024/05/11,2024-01-15
+1898,69,pounds,True,1,Pegasus,9:25AM,3:35PM,Antalya,London,2024/05/11,2024-01-15
+1899,78,pounds,True,1,Pegasus,9:30PM,6:20AM,Antalya,London,2024/05/11,2024-01-15
+1900,83,pounds,False,Nonstop,easyJet,10:55PM,1:30AM,Antalya,London,2024/05/11,2024-01-15
+1901,93,pounds,False,Nonstop,easyJet,7:20PM,9:55PM,Antalya,London,2024/05/11,2024-01-15
+1902,99,pounds,False,Nonstop,easyJet,10:40PM,1:10AM,Antalya,London,2024/05/11,2024-01-15
+1903,102,pounds,True,1,Pegasus,8:30AM,1:30PM,Antalya,London,2024/05/11,2024-01-15
+1904,102,pounds,True,1,Pegasus,10:05AM,3:35PM,Antalya,London,2024/05/11,2024-01-15
+1905,102,pounds,True,1,Pegasus,1:35PM,8:10PM,Antalya,London,2024/05/11,2024-01-15
+1906,116,pounds,False,Nonstop,easyJet,2:55PM,5:40PM,Antalya,London,2024/05/11,2024-01-15
+1907,123,pounds,True,1,Pegasus,5:15PM,11:05PM,Antalya,London,2024/05/11,2024-01-15
+1908,137,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",6:20AM,10:40AM,Antalya,London,2024/05/11,2024-01-15
+1909,137,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",6:20AM,2:35PM,Antalya,London,2024/05/11,2024-01-15
+1910,137,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",6:20AM,10:10PM,Antalya,London,2024/05/11,2024-01-15
+1911,137,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",10:35AM,2:35PM,Antalya,London,2024/05/11,2024-01-15
+1912,137,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",10:35AM,10:10PM,Antalya,London,2024/05/11,2024-01-15
+1913,137,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",10:35AM,10:40AM,Antalya,London,2024/05/11,2024-01-15
+1914,137,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",1:30PM,10:10PM,Antalya,London,2024/05/11,2024-01-15
+1915,70,pounds,False,Nonstop,easyJet,3:25PM,9:50PM,London,Antalya,2024/05/11,2024-01-15
+1916,79,pounds,False,Nonstop,easyJet,3:35PM,9:55PM,London,Antalya,2024/05/11,2024-01-15
+1917,95,pounds,True,Nonstop,SunExpress,7:25PM,1:45AM,London,Antalya,2024/05/11,2024-01-15
+1918,104,pounds,True,Nonstop,Pegasus,11:30AM,5:35PM,London,Antalya,2024/05/11,2024-01-15
+1919,117,pounds,True,Nonstop,Corendon,11:35AM,5:45PM,London,Antalya,2024/05/11,2024-01-15
+1920,71,pounds,True,1,Pegasus,12:20AM,9:55AM,London,Antalya,2024/05/11,2024-01-15
+1921,79,pounds,True,1,Pegasus,12:05PM,9:20PM,London,Antalya,2024/05/11,2024-01-15
+1922,93,pounds,True,1,Pegasus,9:00PM,7:10AM,London,Antalya,2024/05/11,2024-01-15
+1923,95,pounds,False,Nonstop,easyJet,12:00PM,6:20PM,London,Antalya,2024/05/11,2024-01-15
+1924,102,pounds,True,1,Pegasus,2:40PM,11:35PM,London,Antalya,2024/05/11,2024-01-15
+1925,110,pounds,True,1,Pegasus,4:45PM,2:05AM,London,Antalya,2024/05/11,2024-01-15
+1926,112,pounds,False,1,easyJet,9:05AM,8:15PM,London,Antalya,2024/05/11,2024-01-15
+1927,114,pounds,False,1,easyJet,7:05AM,8:15PM,London,Antalya,2024/05/11,2024-01-15
+1928,116,pounds,False,1,easyJet,9:10AM,8:15PM,London,Antalya,2024/05/11,2024-01-15
+1929,117,pounds,False,Nonstop,easyJet,7:40AM,2:00PM,London,Antalya,2024/05/11,2024-01-15
+1930,129,pounds,True,Nonstop,SunExpress,12:35PM,6:55PM,London,Antalya,2024/05/11,2024-01-15
+1931,130,pounds,False,1,easyJet,8:00AM,8:15PM,London,Antalya,2024/05/11,2024-01-15
+1932,159,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",11:50AM,8:20PM,London,Antalya,2024/05/11,2024-01-15
+1933,159,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",11:50AM,9:20PM,London,Antalya,2024/05/11,2024-01-15
+1934,159,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",11:50AM,11:10PM,London,Antalya,2024/05/11,2024-01-15
+1935,159,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",11:50AM,2:10AM,London,Antalya,2024/05/11,2024-01-15
+1936,159,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",11:50AM,9:10AM,London,Antalya,2024/05/11,2024-01-15
+1937,159,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",11:50AM,12:35PM,London,Antalya,2024/05/11,2024-01-15
+1938,159,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",11:50AM,4:55PM,London,Antalya,2024/05/11,2024-01-15
+1939,159,pounds,True,1,"Turkish Airlines. Operated by Anadolujet Trademark of Turkish Airlines, Anadolujet Trademark of Turkish Airlines",3:35PM,2:10AM,London,Antalya,2024/05/11,2024-01-15
+1940,43,pounds,False,Nonstop,easyJet,9:30PM,11:10PM,Alicante,London,2024/06/11,2024-01-15
+1941,54,pounds,True,1,Air Europa. Operated by Air Europa Express,12:30PM,4:25PM,Alicante,London,2024/06/11,2024-01-15
+1942,56,pounds,False,Nonstop,Ryanair,12:55PM,2:35PM,Alicante,London,2024/06/11,2024-01-15
+1943,53,pounds,False,Nonstop,Ryanair,11:35PM,1:15AM,Alicante,London,2024/06/11,2024-01-15
+1944,55,pounds,False,Nonstop,easyJet,12:15PM,1:55PM,Alicante,London,2024/06/11,2024-01-15
+1945,57,pounds,True,1,Vueling,6:40AM,6:55PM,Alicante,London,2024/06/11,2024-01-15
+1946,58,pounds,False,1,Vueling,8:00PM,7:05AM,Alicante,London,2024/06/11,2024-01-15
+1947,59,pounds,False,Nonstop,Ryanair,5:50AM,7:30AM,Alicante,London,2024/06/11,2024-01-15
+1948,60,pounds,True,1,Air Europa. Operated by Air Europa Express,8:55PM,4:25PM,Alicante,London,2024/06/11,2024-01-15
+1949,62,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,9:40AM,4:20PM,Alicante,London,2024/06/11,2024-01-15
+1950,62,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,9:40AM,6:15PM,Alicante,London,2024/06/11,2024-01-15
+1951,62,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,9:40AM,7:20PM,Alicante,London,2024/06/11,2024-01-15
+1952,62,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia. Operated by Iberia Express,9:40AM,7:55PM,Alicante,London,2024/06/11,2024-01-15
+1953,62,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,5:43PM,9:30AM,Alicante,London,2024/06/11,2024-01-15
+1954,62,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,7:45PM,9:30AM,Alicante,London,2024/06/11,2024-01-15
+1955,62,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia. Operated by Iberia Express,7:45PM,10:10AM,Alicante,London,2024/06/11,2024-01-15
+1956,62,pounds,True,1,Iberia and British Airways. Operated by Air Nostrum for Iberia,1:35PM,10:10PM,Alicante,London,2024/06/11,2024-01-15
+1957,66,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,1:35PM,7:20PM,Alicante,London,2024/06/11,2024-01-15
+1958,66,pounds,True,1,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express",1:35PM,7:55PM,Alicante,London,2024/06/11,2024-01-15
+1959,66,pounds,True,1,"Iberia. Operated by Air Nostrum for Iberia, Iberia Express",9:30PM,10:10AM,Alicante,London,2024/06/11,2024-01-15
+1960,66,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,9:40AM,5:15PM,Alicante,London,2024/06/11,2024-01-15
+1961,66,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,5:43PM,8:25AM,Alicante,London,2024/06/11,2024-01-15
+1962,66,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,7:45PM,8:25AM,Alicante,London,2024/06/11,2024-01-15
+1963,66,pounds,True,1,Renfe Viajeros Sociedad Mercantil and Iberia,7:45PM,10:35AM,Alicante,London,2024/06/11,2024-01-15
+1964,67,pounds,True,1,Iberia. Operated by Air Nostrum for Iberia,9:10AM,7:20PM,Alicante,London,2024/06/11,2024-01-15
+1965,47,pounds,False,Nonstop,Ryanair,3:00PM,6:30PM,London,Alicante,2024/06/11,2024-01-15
+1966,61,pounds,False,Nonstop,Vueling,1:35PM,5:10PM,London,Alicante,2024/06/11,2024-01-15
+1967,63,pounds,False,Nonstop,easyJet,5:20PM,8:55PM,London,Alicante,2024/06/11,2024-01-15
+1968,85,pounds,True,Nonstop,British Airways. Operated by BA Euroflyer,6:25AM,10:00AM,London,Alicante,2024/06/11,2024-01-15
+1969,55,pounds,False,Nonstop,Ryanair,6:10PM,9:45PM,London,Alicante,2024/06/11,2024-01-15
+1970,63,pounds,False,Nonstop,easyJet,5:50AM,9:25AM,London,Alicante,2024/06/11,2024-01-15
+1971,63,pounds,False,Nonstop,easyJet,7:30PM,11:05PM,London,Alicante,2024/06/11,2024-01-15
+1972,66,pounds,False,Nonstop,Ryanair,1:20PM,4:55PM,London,Alicante,2024/06/11,2024-01-15
+1973,67,pounds,False,Nonstop,easyJet,6:20AM,9:55AM,London,Alicante,2024/06/11,2024-01-15
+1974,70,pounds,False,Nonstop,Ryanair,3:30PM,7:05PM,London,Alicante,2024/06/11,2024-01-15
+1975,70,pounds,False,1,Vueling and Volotea,10:00AM,4:15PM,London,Alicante,2024/06/11,2024-01-15
+1976,72,pounds,False,1,Vueling,4:50PM,11:50PM,London,Alicante,2024/06/11,2024-01-15
+1977,72,pounds,False,Nonstop,Ryanair,7:25PM,11:00PM,London,Alicante,2024/06/11,2024-01-15
+1978,73,pounds,False,Nonstop,easyJet,8:05AM,11:40AM,London,Alicante,2024/06/11,2024-01-15
+1979,74,pounds,True,1,Air Europa. Operated by Air Europa Express,10:00AM,4:20PM,London,Alicante,2024/06/11,2024-01-15
+1980,74,pounds,True,1,Air Europa. Operated by Air Europa Express,5:25PM,8:10AM,London,Alicante,2024/06/11,2024-01-15
+1981,74,pounds,False,1,easyJet,7:20AM,4:25PM,London,Alicante,2024/06/11,2024-01-15
+1982,76,pounds,False,1,Vueling,7:45AM,7:15PM,London,Alicante,2024/06/11,2024-01-15
+1983,77,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil. Operated by Iberia Express,10:50AM,8:23PM,London,Alicante,2024/06/11,2024-01-15
+1984,77,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil. Operated by Iberia Express,8:35PM,11:29AM,London,Alicante,2024/06/11,2024-01-15
+1985,77,pounds,True,1,Iberia and Renfe Viajeros Sociedad Mercantil. Operated by Iberia Express,8:35PM,12:03PM,London,Alicante,2024/06/11,2024-01-15
+1986,79,pounds,False,1,easyJet,8:10AM,6:00PM,London,Alicante,2024/06/11,2024-01-15
+1987,79,pounds,False,1,easyJet and Vueling,7:00AM,4:25PM,London,Alicante,2024/06/11,2024-01-15
+1988,79,pounds,False,1,Vueling,2:30PM,11:50PM,London,Alicante,2024/06/11,2024-01-15
+1989,80,pounds,False,1,easyJet,8:10AM,4:25PM,London,Alicante,2024/06/11,2024-01-15
